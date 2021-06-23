@@ -11,14 +11,16 @@ The Cannon Class is a series of Destroyer Escorts. Smaller than standard destroy
 
 ##### USS Eldridge <br/>
 
-###### Members of Class: Eldridge. <br/>
+###### Members of Class: <br/>
+Eldridge. <br/>
+
 [![Eldrige](https://github.com/YukaIzumi/AzurLaneHistoricalFitguide/blob/main/Icons/Ship/EagleUnion/Eldridge.png)] <br/>
 
-[![76mmSingle](https://github.com/YukaIzumi/AzurLaneHistoricalFitguide/blob/main/Icons/Equipment/Guns/DD/Single3in50.png)] <br/>
-[![76mmSingle](https://github.com/YukaIzumi/AzurLaneHistoricalFitguide/blob/main/Icons/Equipment/Torpedoe/Surface/21inTripleUSN.png)] <br/>
-[![76mmSingle](https://github.com/YukaIzumi/AzurLaneHistoricalFitguide/blob/main/Icons/Equipment/AA/Twin40mmUSN.png)] <br/>
-[![76mmSingle](https://github.com/YukaIzumi/AzurLaneHistoricalFitguide/blob/main/Icons/Equipment/Auxiliary/RepairToolkit.png)] <br/>
-[![76mmSingle](https://github.com/YukaIzumi/AzurLaneHistoricalFitguide/blob/main/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png)] <br/>
+![76mmSingle](https://github.com/YukaIzumi/AzurLaneHistoricalFitguide/blob/main/Icons/Equipment/Guns/DD/Single3in50.png)
+![Triple21in](https://github.com/YukaIzumi/AzurLaneHistoricalFitguide/blob/main/Icons/Equipment/Torpedoe/Surface/21inTripleUSN.png)
+![Twin40mmBofors](https://github.com/YukaIzumi/AzurLaneHistoricalFitguide/blob/main/Icons/Equipment/AA/Twin40mmUSN.png)
+![RepairToolkit](https://github.com/YukaIzumi/AzurLaneHistoricalFitguide/blob/main/Icons/Equipment/Auxiliary/RepairToolkit.png)
+![ImprovedDC](https://github.com/YukaIzumi/AzurLaneHistoricalFitguide/blob/main/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) <br/>
 
 ### Farragut Class
 
