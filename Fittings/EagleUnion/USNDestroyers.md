@@ -12,7 +12,7 @@ The Cannon Class is a series of Destroyer Escorts. Smaller than standard destroy
 #### Members of Class: <br/>
 Eldridge. <br/>
 
-[![Eldrige](https://github.com/YukaIzumi/AzurLaneHistoricalFitguide/blob/main/Icons/Ship/EagleUnion/Eldridge.png)] <br/>
+[![Eldrige](/Icons/Ship/EagleUnion/Eldridge.png)] <br/>
 
 ![76mmSingle](/Icons/Equipment/Guns/DD/3in50.png)
 ![Triple21in](/Icons/Equipment/Torpedo/Surface/21inTripleUSN.png)
@@ -25,6 +25,9 @@ Eldridge. <br/>
 #### Members of Class: <br/>
 Aylwin, Dewey. <br/>
 
+[![Aylwin](/Icons/Ship/EagleUnion/Aylwin.png)]
+[![Dewey](/Icons/Ship/EagleUnion/Dewey.png)] <br/>
+
 ![Single5in38Mk21](/Icons/Equipment/Guns/DD/5in38Mk21.png)
 ![Quadruple21in](/Icons/Equipment/Torpedo/Surface/21inQuadrupleUSN.png)
 ![0.5inAAMG](/Icons/Equipment/AA/0.5inAAMG.png)
@@ -35,6 +38,9 @@ Aylwin, Dewey. <br/>
 
 #### Members of Class: <br/>
 Cassin, Downes. <br/>
+
+[![Cassin](/Icons/Ship/EagleUnion/Cassin.png)]
+[![Downes](/Icons/Ship/EagleUnion/Downes.png)] <br/>
 
 ![Single5in38Mk21](/Icons/Equipment/Guns/DD/5in38Mk21.png)
 ![Quadruple21in](/Icons/Equipment/Torpedo/Surface/21inQuadrupleUSN.png)
@@ -47,6 +53,11 @@ Cassin, Downes. <br/>
 #### Members of Class: <br/>
 Craven, Gridley, Maury, McCall. <br/>
 
+[![Craven](/Icons/Ship/EagleUnion/Craven.png)]
+[![Gridley](/Icons/Ship/EagleUnion/Gridley.png)]
+[![Maury](/Icons/Ship/EagleUnion/Maury.png)]
+[![McCall](/Icons/Ship/EagleUnion/McCall.png)] <br/>
+
 ![Single5in38Mk21](/Icons/Equipment/Guns/DD/5in38Mk21.png)
 ![Quadruple21in](/Icons/Equipment/Torpedo/Surface/21inQuadrupleUSN.png)
 ![20mmOerlikon](/Icons/Equipment/AA/20mmOerlikon.png)
@@ -58,6 +69,9 @@ Craven, Gridley, Maury, McCall. <br/>
 #### Members of Class: <br/>
 Hammann, Sims. <br/>
 
+[![Hammann](/Icons/Ship/EagleUnion/Hammann.png)]
+[![Sims](/Icons/Ship/EagleUnion/Sims.png)] <br/>
+
 ![Single5in38](/Icons/Equipment/Guns/DD/5in38.png)
 ![Quadruple21in](/Icons/Equipment/Torpedo/Surface/21inQuadrupleUSN.png)
 ![Twin40mmBofors](/Icons/Equipment/AA/Twin40mmUSN.png)
@@ -67,7 +81,10 @@ Hammann, Sims. <br/>
 ### Benson Class <br/>
 
 #### Members of Class: <br/>
-Bailey, Benson, Hobby, Kalk, Laffey. <br/>
+Bailey | Benson | Hobby | Kalk | Laffey.
+| ------ | ------ | ------ | ------ | ------ |
+[![Bailey](/Icons/Ship/EagleUnion/Bailey.png)] | [![Benson](/Icons/Ship/EagleUnion/Benson.png)] | [![Hobby](/Icons/Ship/EagleUnion/Hobby.png)] | [![Kalk](/Icons/Ship/EagleUnion/Kalk.png)] | [![Laffey](/Icons/Ship/EagleUnion/Laffey.png)] <br/>
+
 
 ![Single5in38](/Icons/Equipment/Guns/DD/5in38.png)
 ![Quintuple21in](/Icons/Equipment/Torpedo/Surface/21inQuintupleUSN.png)
@@ -105,7 +122,7 @@ Allen M. Sumner, Cooper. <br/>
 
 ##### Special Gear <br/>
 
-![Catalina](/Icons/Equipment/Auxiliary/PBY5ACatalina.png) <br/>
+![Catalina](/Icons/Equipment/Auxiliary/PBY-5ACatalina.png) <br/>
 * The Consolidated PBY-5A Catalina was sometimes used to rescuse sailors after the sinking of a ship. When USS Cooper was struck by a torpedo, Catalinas were able to rescue many members of her crew.
 
 
