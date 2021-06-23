@@ -10,9 +10,9 @@ Destroyers of Eagle Union span from the interwar-period Farragut class up throug
 The Cannon Class is a series of Destroyer Escorts. Smaller than standard destroyers, destroyer escorts were assigned to coastal waters or as an anti-submarine escorts for merchant fleets. Their armament focused less on the destruction of surface targets and more toward the destruction of air targets or undersea targets. The Cannon class were improvements upon their predecessors, focusing on oceanic anti-submarine warfare.
 
 #### Members of Class: <br/>
-Eldridge. <br/>
-
-[![Eldrige](/Icons/Ship/EagleUnion/Eldridge.png)] <br/>
+Eldridge | <br/>
+ ------ |
+![Eldrige](/Icons/Ship/EagleUnion/Eldridge.png)| <br/>
 
 ![76mmSingle](/Icons/Equipment/Guns/DD/3in50.png)
 ![Triple21in](/Icons/Equipment/Torpedo/Surface/21inTripleUSN.png)
@@ -23,10 +23,9 @@ Eldridge. <br/>
 ### Farragut Class <br/>
 
 #### Members of Class: <br/>
-Aylwin, Dewey. <br/>
-
-[![Aylwin](/Icons/Ship/EagleUnion/Aylwin.png)]
-[![Dewey](/Icons/Ship/EagleUnion/Dewey.png)] <br/>
+Aylwin | Dewey
+| ------ | ------ |
+![Aylwin](/Icons/Ship/EagleUnion/Aylwin.png) | ![Dewey](/Icons/Ship/EagleUnion/Dewey.png) <br/>
 
 ![Single5in38Mk21](/Icons/Equipment/Guns/DD/5in38Mk21.png)
 ![Quadruple21in](/Icons/Equipment/Torpedo/Surface/21inQuadrupleUSN.png)
@@ -37,7 +36,9 @@ Aylwin, Dewey. <br/>
 ### Mahan Class <br/>
 
 #### Members of Class: <br/>
-Cassin, Downes. <br/>
+Cassin | Downes
+| ------ | ------ |
+![Cassin](/Icons/Ship/EagleUnion/Cassin.png) | ![Downes](/Icons/Ship/EagleUnion/Downes.png) <br/>
 
 [![Cassin](/Icons/Ship/EagleUnion/Cassin.png)]
 [![Downes](/Icons/Ship/EagleUnion/Downes.png)] <br/>
@@ -51,7 +52,9 @@ Cassin, Downes. <br/>
 ### Gridley Class <br/>
 
 #### Members of Class: <br/>
-Craven, Gridley, Maury, McCall. <br/>
+Craven | Gridley | Maury | McCall
+| ------ | ------ | ------ | ------ | ------ |
+![Craven](/Icons/Ship/EagleUnion/Craven.png) | ![Gridley](/Icons/Ship/EagleUnion/Gridley.png) | ![Maury](/Icons/Ship/EagleUnion/Maury.png) | ![McCall](/Icons/Ship/EagleUnion/McCall.png) <br/>
 
 [![Craven](/Icons/Ship/EagleUnion/Craven.png)]
 [![Gridley](/Icons/Ship/EagleUnion/Gridley.png)]
@@ -67,10 +70,9 @@ Craven, Gridley, Maury, McCall. <br/>
 ### Sims Class <br/>
 
 #### Members of Class: <br/>
-Hammann, Sims. <br/>
-
-[![Hammann](/Icons/Ship/EagleUnion/Hammann.png)]
-[![Sims](/Icons/Ship/EagleUnion/Sims.png)] <br/>
+Hammann | Sims
+| ------ | ------ |
+![Hammann](/Icons/Ship/EagleUnion/Hammann.png) | ![Sims](/Icons/Ship/EagleUnion/Sims.png) <br/>
 
 ![Single5in38](/Icons/Equipment/Guns/DD/5in38.png)
 ![Quadruple21in](/Icons/Equipment/Torpedo/Surface/21inQuadrupleUSN.png)
@@ -81,9 +83,9 @@ Hammann, Sims. <br/>
 ### Benson Class <br/>
 
 #### Members of Class: <br/>
-Bailey | Benson | Hobby | Kalk | Laffey.
+Bailey | Benson | Hobby | Kalk | Laffey
 | ------ | ------ | ------ | ------ | ------ |
-[![Bailey](/Icons/Ship/EagleUnion/Bailey.png)] | [![Benson](/Icons/Ship/EagleUnion/Benson.png)] | [![Hobby](/Icons/Ship/EagleUnion/Hobby.png)] | [![Kalk](/Icons/Ship/EagleUnion/Kalk.png)] | [![Laffey](/Icons/Ship/EagleUnion/Laffey.png)] <br/>
+![Bailey](/Icons/Ship/EagleUnion/Bailey.png) | ![Benson](/Icons/Ship/EagleUnion/Benson.png) | ![Hobby](/Icons/Ship/EagleUnion/Hobby.png) | ![Kalk](/Icons/Ship/EagleUnion/Kalk.png) | ![Laffey](/Icons/Ship/EagleUnion/Laffey.png) <br/>
 
 
 ![Single5in38](/Icons/Equipment/Guns/DD/5in38.png)
@@ -95,7 +97,9 @@ Bailey | Benson | Hobby | Kalk | Laffey.
 ### Fletcher Class <br/>
 
 #### Members of Class: <br/>
-Aulick, Bache, Bush, Charles Ausburne, Fletcher, Foote, Halsey Powell, Hazelwood, Jenkins, Kimberly, Morrison, Mullany, Nicholas, Radford, Smalley, Spence, Stanly, Stephen Potter, Thatcher. <br/>
+Aulick | Bache | Bush | Charles Ausburne | Fletcher | Foote | Halsey Powell | Hazelwood | Jenkins | Kimberly | Morrison | Mullany | Nicholas | Radford | Smalley | Spence | Stanly | Stephen Potter | Thatcher <br/>
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+![Aulick](/Icons/Ship/EagleUnion/Aulick.png) | ![Bache](/Icons/Ship/EagleUnion/Bache.png) | ![Bush](/Icons/Ship/EagleUnion/Bush.png) | ![Charles](/Icons/Ship/EagleUnion/Charles_Ausburne.png) | ![Fletcher](/Icons/Ship/EagleUnion/Fletcher.png) | ![Foote](/Icons/Ship/EagleUnion/Foote.png) | ![Halsey](/Icons/Ship/EagleUnion/Halsey_Powell.png) | ![Hazelwood](/Icons/Ship/EagleUnion/Hazelwood.png) | ![Jenkins](/Icons/Ship/EagleUnion/Jenkins.png) | ![Kimberly](/Icons/Ship/EagleUnion/Kimberly.png) | ![Morrison](/Icons/Ship/EagleUnion/Morrison.png) | ![Mullany](/Icons/Ship/EagleUnion/Mullany.png) | ![Nicholas](/Icons/Ship/EagleUnion/Nicholas.png) | ![Radford](/Icons/Ship/EagleUnion/Radford.png) | ![Smalley](/Icons/Ship/EagleUnion/Smalley.png) | ![Spence](/Icons/Ship/EagleUnion/Spence.png) | ![Stanly](/Icons/Ship/EagleUnion/Stanly.png) | ![Potter](/Icons/Ship/EagleUnion/Stephen_Potter.png) | ![Thatcher](/Icons/Ship/EagleUnion/Thatcher.png) <br/>
 
 ![Single5in38](/Icons/Equipment/Guns/DD/5in38.png)
 ![Quintuple21in](/Icons/Equipment/Torpedo/Surface/21inQuintupleUSN.png)
@@ -112,7 +116,9 @@ Aulick, Bache, Bush, Charles Ausburne, Fletcher, Foote, Halsey Powell, Hazelwood
 ### Allen M. Sumner Class <br/>
 
 #### Members of Class: <br/>
-Allen M. Sumner, Cooper. <br/>
+Allen M. Sumner | Cooper <br/>
+| ------ | ------ |
+![AllenMSumner](/Icons/Ship/EagleUnion/AllenMSumner.png) | ![Cooper](/Icons/Ship/EagleUnion/Cooper.png) <br/>
 
 ![Twin5in38](/Icons/Equipment/Guns/DD/Twin5in38.png)
 ![Quintuple21in](/Icons/Equipment/Torpedo/Surface/21inQuintupleUSN.png)
