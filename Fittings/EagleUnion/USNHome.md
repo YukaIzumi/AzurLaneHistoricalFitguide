@@ -6,13 +6,13 @@ The Eagle Union represents the US Navy of World War II. This faction was introdu
 #### Ship Fittings by Class
 
 
-*[Submarines](/Fittings/EagleUnion/USNSubmarines.md) <br/>
-*[Destroyers](https://github.com/YukaIzumi/AzurLaneHistoricalFitguide/blob/main/Fittings/EagleUnion/USNDestroyers.md) <br/>
-*[Submarines](/Fittings/EagleUnion/USNSubmarines.md) <br/>
-*[Destroyers](/Fittings/EagleUnion/USNDestroyers.md) <br/>
-*[Light Cruisers](/Fittings/EagleUnion/USNLightCruisers.md) <br/>
-*[Heavy Cruisers](/Fittings/EagleUnion/USNHeavyCruisers.md) <br/>
-*[Battleships](/Fittings/EagleUnion/USNBattleships.md) <br/>
-*[Light Carriers](/Fittings/EagleUnion/USNLightCarriers.md) <br/>
-*[Heavy Carriers](/Fittings/EagleUnion/USNFleetCarriers.md) <br/>
-*[Auxiliary Ships](/Fittings/EagleUnion/USNAuxiliaryShips.md) <br/>
+* [Submarines](/Fittings/EagleUnion/USNSubmarines.md) <br/>
+* [Destroyers](https://github.com/YukaIzumi/AzurLaneHistoricalFitguide/blob/main/Fittings/EagleUnion/USNDestroyers.md) <br/>
+* [Submarines](/Fittings/EagleUnion/USNSubmarines.md) <br/>
+* [Destroyers](/Fittings/EagleUnion/USNDestroyers.md) <br/>
+* [Light Cruisers](/Fittings/EagleUnion/USNLightCruisers.md) <br/>
+* [Heavy Cruisers](/Fittings/EagleUnion/USNHeavyCruisers.md) <br/>
+* [Battleships](/Fittings/EagleUnion/USNBattleships.md) <br/>
+* [Light Carriers](/Fittings/EagleUnion/USNLightCarriers.md) <br/>
+* [Heavy Carriers](/Fittings/EagleUnion/USNFleetCarriers.md) <br/>
+* [Auxiliary Ships](/Fittings/EagleUnion/USNAuxiliaryShips.md) <br/>

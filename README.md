@@ -32,15 +32,15 @@ It should be duly noted that this is not a tier list, META list, or fitting guid
 
 ##### Allied Factions
 
-These factions make up the Allied powers during the Second World War and are "Azur Lane" in Azur lane.
-*[Eagle Union](Fittings/EagleUnion/USNHome.md)
-*[Royal Navy](/Fittings/RoyalNavy/RNHome.md)
+These factions make up the Allied powers during the Second World War and are "Azur Lane" in Azur lane. <br/>
+* [Eagle Union](Fittings/EagleUnion/USNHome.md) <br/>
+* [Royal Navy](/Fittings/RoyalNavy/RNHome.md) <br/>
 
 ##### Axis Factions
 
-These factions make up the Axis powers during the Second World War and are the "Crimson Axis" in Azur Lane.
-*[Iron Blood](/Fittings/IronBlood/KMSHome.md)
-*[Sakura Empire](/Fittings/SakuraEmpire/IJNHome.md)
+These factions make up the Axis powers during the Second World War and are the "Crimson Axis" in Azur Lane. <br/>
+* [Iron Blood](/Fittings/IronBlood/KMSHome.md) <br/>
+* [Sakura Empire](/Fittings/SakuraEmpire/IJNHome.md) <br/>
 
 
 As always, if you want to contribute or talk, join us in the following locations: 
