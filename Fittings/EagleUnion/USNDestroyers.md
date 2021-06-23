@@ -99,7 +99,7 @@ Allen M. Sumner, Cooper. <br/>
 
 ![Twin5in38](/Icons/Equipment/Guns/DD/Twin5in38.png)
 ![Quintuple21in](/Icons/Equipment/Torpedo/Surface/21inQuintupleUSN.png)
-![Quad40mmBofors](/Icons/Equipment/AA/Quadruple40mmUSN.png)
+![Quad40mmBofors](/Icons/Equipment/AA/Quad40mmUSN.png)
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![SGRadar](/Icons/Equipment/Auxiliary/SGRadar.png) <br/>
 
