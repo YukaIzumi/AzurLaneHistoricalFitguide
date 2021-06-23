@@ -10,11 +10,15 @@ Destroyers of Eagle Union span from the interwar-period Farragut class up throug
 The Cannon Class is a series of Destroyer Escorts. Smaller than standard destroyers, destroyer escorts were assigned to coastal waters or as an anti-submarine escorts for merchant fleets. Their armament focused less on the destruction of surface targets and more toward the destruction of air targets or undersea targets. The Cannon class were improvements upon their predecessors, focusing on oceanic anti-submarine warfare.
 
 ##### USS Eldridge <br/>
+<<<<<<< HEAD
 
 [![Eldrige](\Icons\Ship\EagleUnion\Eldridge.png)]
 
 ![76mmSingle](/Icons/Equipment/Guns/DD/Single3in50.png)
 
+=======
+(\Icons\Ship\EagleUnion\Eldridge.png)
+>>>>>>> main
 
 ### Farragut Class
 
