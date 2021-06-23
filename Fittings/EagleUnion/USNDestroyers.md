@@ -7,12 +7,11 @@ Destroyers of Eagle Union span from the interwar-period Farragut class up throug
 
 ### Cannon Class
 
-The Cannon Class is a series of Destroyer Escorts. Smaller than standard destroyers, destroyer escorts were assigned to coastal waters or as an anti-submarine escorts for merchant fleets. Their armament focused less on the destruction of surface targets and more toward the destruction of air targets or undersea targets. The Cannon class were improvements upon their predecessors, focusing on oceanic anti-submarine warfare.
+Destroyer Escort <br/>
 
 #### Members of Class: <br/>
-Eldridge | <br/>
- ------ |
-![Eldrige](/Icons/Ship/EagleUnion/Eldridge.png)| <br/>
+Eldridge <br/>
+![Eldrige](/Icons/Ship/EagleUnion/Eldridge.png)<br/>
 
 ![76mmSingle](/Icons/Equipment/Guns/DD/3in50.png)
 ![Triple21in](/Icons/Equipment/Torpedo/Surface/21inTripleUSN.png)
@@ -21,6 +20,8 @@ Eldridge | <br/>
 ![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) <br/>
 
 ### Farragut Class <br/>
+
+Destroyer <br/>
 
 #### Members of Class: <br/>
 Aylwin | Dewey
@@ -35,13 +36,12 @@ Aylwin | Dewey
 
 ### Mahan Class <br/>
 
+Destroyer <br/>
+
 #### Members of Class: <br/>
 Cassin | Downes
 | ------ | ------ |
 ![Cassin](/Icons/Ship/EagleUnion/Cassin.png) | ![Downes](/Icons/Ship/EagleUnion/Downes.png) <br/>
-
-[![Cassin](/Icons/Ship/EagleUnion/Cassin.png)]
-[![Downes](/Icons/Ship/EagleUnion/Downes.png)] <br/>
 
 ![Single5in38Mk21](/Icons/Equipment/Guns/DD/5in38Mk21.png)
 ![Quadruple21in](/Icons/Equipment/Torpedo/Surface/21inQuadrupleUSN.png)
@@ -51,15 +51,12 @@ Cassin | Downes
 
 ### Gridley Class <br/>
 
+Destroyer <br/>
+
 #### Members of Class: <br/>
 Craven | Gridley | Maury | McCall
 | ------ | ------ | ------ | ------ | ------ |
 ![Craven](/Icons/Ship/EagleUnion/Craven.png) | ![Gridley](/Icons/Ship/EagleUnion/Gridley.png) | ![Maury](/Icons/Ship/EagleUnion/Maury.png) | ![McCall](/Icons/Ship/EagleUnion/McCall.png) <br/>
-
-[![Craven](/Icons/Ship/EagleUnion/Craven.png)]
-[![Gridley](/Icons/Ship/EagleUnion/Gridley.png)]
-[![Maury](/Icons/Ship/EagleUnion/Maury.png)]
-[![McCall](/Icons/Ship/EagleUnion/McCall.png)] <br/>
 
 ![Single5in38Mk21](/Icons/Equipment/Guns/DD/5in38Mk21.png)
 ![Quadruple21in](/Icons/Equipment/Torpedo/Surface/21inQuadrupleUSN.png)
@@ -68,6 +65,8 @@ Craven | Gridley | Maury | McCall
 ![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamouflage.png) <br/>
 
 ### Sims Class <br/>
+
+Destroyer <br/>
 
 #### Members of Class: <br/>
 Hammann | Sims
@@ -82,6 +81,8 @@ Hammann | Sims
 
 ### Benson Class <br/>
 
+Destroyer <br/>
+
 #### Members of Class: <br/>
 Bailey | Benson | Hobby | Kalk | Laffey
 | ------ | ------ | ------ | ------ | ------ |
@@ -95,6 +96,8 @@ Bailey | Benson | Hobby | Kalk | Laffey
 ![SGRadar](/Icons/Equipment/Auxiliary/SGRadar.png) <br/>
 
 ### Fletcher Class <br/>
+
+Destroyer <br/>
 
 #### Members of Class: <br/>
 Aulick | Bache | Bush | Charles Ausburne | Fletcher | Foote | Halsey Powell | Hazelwood | Jenkins | Kimberly | Morrison | Mullany | Nicholas | Radford | Smalley | Spence | Stanly | Stephen Potter | Thatcher <br/>
@@ -114,6 +117,8 @@ Aulick | Bache | Bush | Charles Ausburne | Fletcher | Foote | Halsey Powell | Ha
 * The "Little Beaver Squadron" badge belongs to the Fletcher class, specifically  Destroyer Squadron 23, consisting of Charles Ausburne, Claxton, Dyson, Stanly, Converse, Foote, Spence, and Thatcher. It was one of few (if any) destroyer squadrons awared a group Presidential Unit Citation for its record under Capt. Arleigh Burke over 17 weeks at the close of the campaign in the Solomon Islands.
 
 ### Allen M. Sumner Class <br/>
+
+Destroyer <br/>
 
 #### Members of Class: <br/>
 Allen M. Sumner | Cooper <br/>
