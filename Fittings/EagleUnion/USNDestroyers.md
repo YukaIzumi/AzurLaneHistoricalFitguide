@@ -55,7 +55,7 @@ Destroyer <br/>
 
 #### Members of Class: <br/>
 Craven | Gridley | Maury | McCall
-| ------ | ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ | ------ |
 ![Craven](/Icons/Ship/EagleUnion/Craven.png) | ![Gridley](/Icons/Ship/EagleUnion/Gridley.png) | ![Maury](/Icons/Ship/EagleUnion/Maury.png) | ![McCall](/Icons/Ship/EagleUnion/McCall.png) <br/>
 
 ![Single5in38Mk21](/Icons/Equipment/Guns/DD/5in38Mk21.png)
