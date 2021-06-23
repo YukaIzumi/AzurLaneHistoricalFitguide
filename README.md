@@ -28,8 +28,24 @@ Azur Lane is a game that demands only a little from the player. What it does dem
 
 It should be duly noted that this is not a tier list, META list, or fitting guide on maximum performance for your ships. There are many other great resources for that. This collection of pages is for learning about ship fittings as they were built in life and trying them out in Azur Lane. I have personally cleared and 3* 13-4, 3* 11-4 hard mode, and cleared Siren Strongholds in Operation Siren using historical loadouts and faction themed fleets (all USN, HMS, etc.). They do work, it's just going to be a little different.
 
+### Fitguides by Faction
+
+##### Allied Factions
+
+These factions make up the Allied powers during the Second World War and are "Azur Lane" in Azur lane.
+*[Eagle Union](Fittings/EagleUnion/USNHome.md)
+*[Royal Navy](/Fittings/RoyalNavy/RNHome.md)
+
+##### Axis Factions
+
+These factions make up the Axis powers during the Second World War and are the "Crimson Axis" in Azur Lane.
+*[Iron Blood](/Fittings/IronBlood/KMSHome.md)
+*[Sakura Empire](/Fittings/SakuraEmpire/IJNHome.md)
+
+
 As always, if you want to contribute or talk, join us in the following locations: 
 
 [Project Discord.](https://discord.gg/T9jYkuF)
+
 [Project Subreddit.](https://www.reddit.com/r/openazurlane)
 
