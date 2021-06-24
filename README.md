@@ -1,10 +1,13 @@
 # AzurLaneHistoricalFitguide
 A section of fittings for Azur Lane in which ship equipment is as true-to-life as possible.
 
-## Foreword
-This project began a few months ago and has been migrated to this github repository. The old pages on the official wiki will be considered depricated and will no longer be updated.
+## NOTICE
 
-Azur Lane has been a game that has brought me entertainment since May of 2017, when the CN server first launched. I've played on that account almost daily since then, participated in the EN server closed beta, open beta, and launch, joined and left several discord servers of various quality, made a few edits and contributions to this wiki, and started my own community to call home. But as with anything you do for years, it can become stale. The meta wasn't really changing. The same 12 ships or so were level 120 and only really seeing use in PvP or event hard modes. I had gear blueprints piling up, gold and oil piling up, and almost no desire to do anything beyond my daily 3 and pvp.
+This project began a few months ago and has been migrated to this github repository. The old pages on the official wiki will be considered depricated and will no longer be updated as I no longer have access to them. The wiki pages ofor this project should be ignored as they cannot be considered reliable or up-to-date.
+
+## Foreword
+
+Azur Lane has been a game that has brought me entertainment since May of 2017, when the CN server first launched. I've played on that account almost daily since then, participated in the EN server closed beta, open beta, and launch, joined and left several discord servers of various quality, made a few edits and contributions to the main wiki, and started my own community to call home. But as with anything you do for years, it can become stale. The meta wasn't really changing. The same 12 ships or so were level 120 and only really seeing use in PvP or event hard modes. I had gear blueprints piling up, gold and oil piling up, and almost no desire to do anything beyond my daily 3 and pvp.
 
 So I changed how I played.
 

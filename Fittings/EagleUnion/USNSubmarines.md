@@ -33,6 +33,8 @@ Albacore | Bluegill | Cavalla | Dace
 
 ### Balao Class
 
+Submarine <br/>
+
 Archerfish | ....
 | ----- | ----- |
 ![Archerfish](/Icons/Ship/EagleUnion/Archerfish.png) |      ...        <br/>
