@@ -3,7 +3,7 @@
 
 This is a TEST PAGE <br/>
 
-![USS Gansenvoort](https://en.wikipedia.org/wiki/USS_Gansevoort#/media/File:USS_GANSEVOORT_(DD-608).jpg) <br/>
+![USS Gansenvoort](http://en.wikipedia.org/wiki/USS_Gansevoort#/media/File:USS_GANSEVOORT_(DD-608).jpg?raw=true) <br/>
 
 Ordered | Completed | Lost | Retired
  ------ | ------ | ------ | ------ 
