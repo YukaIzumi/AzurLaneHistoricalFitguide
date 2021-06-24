@@ -10,8 +10,9 @@ Destroyers of Eagle Union span from the interwar-period Farragut class up throug
 Destroyer Escort <br/>
 
 #### Members of Class: <br/>
-Eldridge <br/>
-![Eldrige](/Icons/Ship/EagleUnion/Eldridge.png)<br/>
+Eldridge | ....
+| ----- | ----- |
+![Eldrige](/Icons/Ship/EagleUnion/Eldridge.png) |      ...        <br/>
 
 ![76mmSingle](/Icons/Equipment/Guns/DD/3in50.png)
 ![Triple21in](/Icons/Equipment/Torpedo/Surface/21inTripleUSN.png)
