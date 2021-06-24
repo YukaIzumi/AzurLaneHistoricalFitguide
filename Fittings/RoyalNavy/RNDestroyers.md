@@ -16,7 +16,7 @@ Acasta | Amazon | Ardent | Beagle | Bulldog
 ![Triple21inMkIX](/Icons/Equipment/Torpedo/Surface/21inTripleMkIX.png)
 ![12.7mmMG](/Icons/Equipment/AA/12_7mmMG.png)
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
-![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamo.png) <br/>
+![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamouflage.png) <br/>
 
 ### C - D Class
 
@@ -30,7 +30,7 @@ Comet | Crescent | Cygnet
 ![Triple21inMkIX](/Icons/Equipment/Torpedo/Surface/21inTripleMkIX.png)
 ![12.7mmMG](/Icons/Equipment/AA/12_7mmMG.png)
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
-![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamo.png) <br/>
+![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamouflage.png) <br/>
 
 ### E - F Class
 
@@ -42,9 +42,9 @@ Echo | Fortune | Foxhound
 
 ![45QFMkIX](/Icons/Equipment/Guns/DD/45QFMkIX.png)
 ![Quad21inMkIX](/Icons/Equipment/Torpedo/Surface/21inQuadleMkIX.png)
-![20mmOerlikon](/Icons/Equipment/AA/Oerlikon.png)
+![20mmOerlikon](/Icons/Equipment/AA/20mmOerlikon.png)
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
-![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamo.png) <br/>
+![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamouflage.png) <br/>
 
 ### G - H Class
 
@@ -56,17 +56,17 @@ Glowworm | Grenville | Hardy | Hunter
 
 ![45QFMkIX](/Icons/Equipment/Guns/DD/45QFMkIX.png)
 ![Quad21inMkIX](/Icons/Equipment/Torpedo/Surface/21inQuadleMkIX.png)
-![20mmOerlikon](/Icons/Equipment/AA/Oerlikon.png)
+![20mmOerlikon](/Icons/Equipment/AA/20mmOerlikon.png)
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
-![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamo.png) <br/>
+![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamouflage.png) <br/>
 
 ## Glowworm
 
 ![45QFMkIX](/Icons/Equipment/Guns/DD/45QFMkIX.png)
 ![Quint21inMkIX](/Icons/Equipment/Torpedo/Surface/21inQuintleMkIX.png)
-![20mmOerlikon](/Icons/Equipment/AA/Oerlikon.png)
+![20mmOerlikon](/Icons/Equipment/AA/20mmOerlikon.png)
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
-![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamo.png) <br/>
+![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamouflage.png) <br/>
 
 ### I Class
 
@@ -80,7 +80,7 @@ Icarus |
 ![Quint21inMkIX](/Icons/Equipment/Torpedo/Surface/21inQuintleMkIX.png)
 ![20mmOerlikon](/Icons/Equipment/AA/Oerlikon.png)
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
-![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamo.png) <br/>
+![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamouflage.png) <br/>
 
 ### Tribal Class
 
@@ -94,7 +94,7 @@ Eskimo |
 ![Quad21inMkIX](/Icons/Equipment/Torpedo/Surface/21inQuadleMkIX.png)
 ![Quad40mmPP](/Icons/Equipment/AA/Quad40mmPP.png)
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
-![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamo.png) <br/>
+![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamouflage.png) <br/>
 
 ### J - K - N Class
 
@@ -108,7 +108,7 @@ Javelin | Jersey | Juno | Jupiter
 ![Quint21inMkIX](/Icons/Equipment/Torpedo/Surface/21inQuintleMkIX.png)
 ![Quad40mmPP](/Icons/Equipment/AA/Quad40mmPP.png)
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
-![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamo.png) <br/>
+![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamouflage.png) <br/>
 
 ### L - M Class
 
@@ -122,7 +122,7 @@ Matchless | Musketeer
 ![Quad21inMkIX](/Icons/Equipment/Torpedo/Surface/21inQuadleMkIX.png)
 ![Quad40mmPP](/Icons/Equipment/AA/Quad40mmPP.png)
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
-![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamo.png) <br/>
+![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamouflage.png) <br/>
 
 ### V Class
 
@@ -136,4 +136,4 @@ Vampire |
 ![Triple21inMkIX](/Icons/Equipment/Torpedo/Surface/21inTripleMkIX.png)
 ![Twin40mmPP](/Icons/Equipment/AA/Twin40mmPP.png)
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
-![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamo.png) <br/>
+![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamouflage.png) <br/>
