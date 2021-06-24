@@ -78,7 +78,7 @@ Icarus |
 
 ![45QFMkIX](/Icons/Equipment/Guns/DD/45QFMkIX.png)
 ![Quint21inMkIX](/Icons/Equipment/Torpedo/Surface/21inQuintleMkIX.png)
-![20mmOerlikon](/Icons/Equipment/AA/Oerlikon.png)
+![20mmOerlikon](/Icons/Equipment/AA/20mmOerlikon.png)
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamouflage.png) <br/>
 
