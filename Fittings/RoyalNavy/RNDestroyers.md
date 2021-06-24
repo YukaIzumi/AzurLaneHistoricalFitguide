@@ -60,7 +60,7 @@ Glowworm | Grenville | Hardy | Hunter
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamo.png) <br/>
 
-### Glowworm
+## Glowworm
 
 ![45QFMkIX](/Icons/Equipment/Guns/DD/45QFMkIX.png)
 ![Quint21inMkIX](/Icons/Equipment/Torpedo/Surface/21inQuintleMkIX.png)
@@ -121,5 +121,19 @@ Matchless | Musketeer
 ![50QFMkXI](/Icons/Equipment/Guns/DD/50QFMkXI.png)
 ![Quad21inMkIX](/Icons/Equipment/Torpedo/Surface/21inQuadleMkIX.png)
 ![Quad40mmPP](/Icons/Equipment/AA/Quad40mmPP.png)
+![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
+![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamo.png) <br/>
+
+### V Class
+
+### Members of the class
+
+Vampire |
+| ----- |
+![Vampire](Icons/Ship/RoyalNavy/Vampire.png) | <br/>
+
+![45QFMkV](/Icons/Equipment/Guns/DD/45QFMkV.png)
+![Triple21inMkIX](/Icons/Equipment/Torpedo/Surface/21inTripleMkIX.png)
+![Twin40mmPP](/Icons/Equipment/AA/Twin40mmPP.png)
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamo.png) <br/>
