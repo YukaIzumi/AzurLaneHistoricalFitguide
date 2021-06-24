@@ -1,9 +1,9 @@
-# Sims Class
+# Benson Class
 ## US Navy
 
 This is a TEST PAGE <br/>
 
-[USS Walke](https://en.wikipedia.org/wiki/USS_Walke_(DD-416)#/media/File:USSWalkeDD416_h97912.jpg) <br/>
+![USS Gansenvoort](https://en.wikipedia.org/wiki/USS_Gansevoort#/media/File:USS_GANSEVOORT_(DD-608).jpg) <br/>
 
 Ordered | Completed | Lost | Retired
  ------ | ------ | ------ | ------ 

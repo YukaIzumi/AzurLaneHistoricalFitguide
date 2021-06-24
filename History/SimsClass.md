@@ -3,7 +3,7 @@
 
 This is a TEST PAGE <br/>
 
-[USS Walke](https://en.wikipedia.org/wiki/USS_Walke_(DD-416)#/media/File:USSWalkeDD416_h97912.jpg) <br/>
+![USS Walke](https://en.wikipedia.org/wiki/USS_Walke_(DD-416)#/media/File:USSWalkeDD416_h97912.jpg) <br/>
 
 Ordered | Completed | Lost | Retired
  ------ | ------ | ------ | ------ 
