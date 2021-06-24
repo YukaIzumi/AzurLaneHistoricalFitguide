@@ -65,7 +65,7 @@ Craven | Gridley | Maury | McCall
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamouflage.png) <br/>
 
-### Sims Class <br/>
+### [Sims Class](/History/SimsClass.md) <br/>
 
 Destroyer <br/>
 
@@ -80,7 +80,7 @@ Hammann | Sims
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![SGRadar](/Icons/Equipment/Auxiliary/SGRadar.png) <br/>
 
-### Benson Class <br/>
+### [Benson Class](/History/BensonClass.md) <br/>
 
 Destroyer <br/>
 
