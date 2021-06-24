@@ -2,7 +2,7 @@
 
 ## General Info
 
-Destroyers of Eagle Union span from the interwar-period Farragut class up through WWII to the Allen M. Sumner class.
+Destroyers of Eagle Union span from the interwar-period Farragut class up through WWII to the Allen M. Sumner class. These ships will have an average amount of HP, Firepower, Torpedo, and Evasion. Above average Anti-air. Typically good support synergy with other ship classes or backlines.
 
 
 ### Cannon Class
