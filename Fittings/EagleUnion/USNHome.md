@@ -7,8 +7,6 @@ The Eagle Union represents the US Navy of World War II. This faction was introdu
 
 
 * [Submarines](/Fittings/EagleUnion/USNSubmarines.md) <br/>
-* [Destroyers](https://github.com/YukaIzumi/AzurLaneHistoricalFitguide/blob/main/Fittings/EagleUnion/USNDestroyers.md) <br/>
-* [Submarines](/Fittings/EagleUnion/USNSubmarines.md) <br/>
 * [Destroyers](/Fittings/EagleUnion/USNDestroyers.md) <br/>
 * [Light Cruisers](/Fittings/EagleUnion/USNLightCruisers.md) <br/>
 * [Heavy Cruisers](/Fittings/EagleUnion/USNHeavyCruisers.md) <br/>

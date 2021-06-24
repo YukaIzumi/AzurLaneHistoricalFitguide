@@ -9,9 +9,9 @@ The light cruisers of the US Navy begin with the Omaha class and progress down t
 Light Cruiser <br/>
 
 #### Members of Class: <br/>
-Concord | Marblehead | Memphis | Murmansk | Omaha | Ralegh | Richmond
+Concord | Marblehead | Memphis | Murmansk | Omaha | Raleigh | Richmond
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-![Concord](/Icons/Ship/EagleUnion/Concord.png) | ![Marblehead](/Icons/Ship/EagleUnion/Marblehead.png) | ![Memphis](/Icons/Ship/EagleUnion/Memphis.png) | ![Murmansk](/Icons/Ship/EagleUnion/Murmansk.png) | ![Omaha](/Icons/Ship/EagleUnion/Omaha.png) | ![Ralegh](/Icons/Ship/EagleUnion/Ralegh.png) | ![Richmond](/Icons/Ship/EagleUnion/Richmond.png)
+![Concord](/Icons/Ship/EagleUnion/Concord.png) | ![Marblehead](/Icons/Ship/EagleUnion/Marblehead.png) | ![Memphis](/Icons/Ship/EagleUnion/Memphis.png) | ![Murmansk](/Icons/Ship/EagleUnion/Murmansk.png) | ![Omaha](/Icons/Ship/EagleUnion/Omaha.png) | ![Raleigh](/Icons/Ship/EagleUnion/Raleigh.png) | ![Richmond](/Icons/Ship/EagleUnion/Richmond.png)
 
 ![6inMk15](/Icons/Equipment/Guns/CL/Twin6inMk15.png)
 ![21inTriple](/Icons/Equipment/Torpedo/Surface/21inTripleUSN.png)
@@ -29,7 +29,7 @@ Brooklyn | Boise | Helena | Lena | Honolulu | Phoenix | St. Louis
 ![Brooklyn](/Icons/Ship/EagleUnion/Brooklyn.png) | ![Boise](/Icons/Ship/EagleUnion/Boise.png) | ![Helena](/Icons/Ship/EagleUnion/Helena.png) | ![Lena](/Icons/Ship/EagleUnion/Lena.png) | ![Honolulu](/Icons/Ship/EagleUnion/Honolulu.png) | ![Phoenix](/Icons/Ship/EagleUnion/Phoenix.png) | ![St. Louis](/Icons/Ship/EagleUnion/StLouis.png)
 
 ![6inMk16](/Icons/Equipment/Guns/CL/Triple6inMk16Mod1.png)
-![5in38Mk21](/Icons/Equipment/Guns/DD/5in38Mk21.png)
+![5in38Mk32](/Icons/Equipment/Guns/DD/5in38Mk32.png)
 ![Quad28mm](/Icons/Equipment/AA/Quad1in.png)
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![SGRadar](/Icons/Equipment/Auxiliary/SGRadar.png) <br/>
@@ -37,7 +37,7 @@ Brooklyn | Boise | Helena | Lena | Honolulu | Phoenix | St. Louis
 ##### Late-war Fitting  <br/>
 
 ![6inMk16](/Icons/Equipment/Guns/CL/Triple6inMk16Mod1.png)
-![5in38Mk21](/Icons/Equipment/Guns/DD/5in38Mk21.png)
+![5in38Mk32](/Icons/Equipment/Guns/DD/5in38Mk32.png)
 ![Quad40mmBofors](/Icons/Equipment/AA/Quad40mmUSN.png)
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![SGRadar](/Icons/Equipment/Auxiliary/SGRadar.png) <br/>
@@ -76,10 +76,10 @@ Light Cruiser <br/>
 #### Members of Class: <br/>
 Biloxi | Birmingham | Cleveland | Little Cleveland | Columbia | Denver | Montpelier
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-![Biloxi](/Icons/Ship/EagleUnion/Biloxi.png) | ![Birmingham](/Icons/Ship/EagleUnion/Birmingham.png) | ![Cleveland](/Icons/Ship/EagleUnion/Cleveland.png) | ![Little Cleveland](/Icons/Ship/EagleUnion/Little_Chan.png) | ![Columbia](/Icons/Ship/EagleUnion/Columbia.png) | ![Denver](/Icons/Ship/EagleUnion/Denver.png) | ![Montpelier](/Icons/Ship/EagleUnion/Montpelier.png) <br/>
+![Biloxi](/Icons/Ship/EagleUnion/Biloxi.png) | ![Birmingham](/Icons/Ship/EagleUnion/Birmingham.png) | ![Cleveland](/Icons/Ship/EagleUnion/Cleveland.png) | ![Little Cleveland](/Icons/Ship/EagleUnion/Cleveland_Chan.png) | ![Columbia](/Icons/Ship/EagleUnion/Columbia.png) | ![Denver](/Icons/Ship/EagleUnion/Denver.png) | ![Montpelier](/Icons/Ship/EagleUnion/Montpelier.png) <br/>
 
 ![6inMk16](/Icons/Equipment/Guns/CL/Triple6inMk16Mod1.png)
-![5in38Mk21](/Icons/Equipment/Guns/DD/5in38Mk21.png)
+![5in38Mk32](/Icons/Equipment/Guns/DD/5in38Mk32.png)
 ![Quad40mmBofors](/Icons/Equipment/AA/Quad40mmUSN.png)
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![SGRadar](/Icons/Equipment/Auxiliary/SGRadar.png) <br/>
