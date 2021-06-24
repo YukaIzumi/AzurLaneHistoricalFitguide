@@ -73,8 +73,6 @@ Wichita | ....
 | ----- | ----- |
 ![Wichita](/Icons/Ship/EagleUnion/Wichita.png) |      ...        <br/>
 
-#### Dual-gun Build
-
 ![8inMk15](/Icons/Equipment/Guns/CA/Triple8inMk15.png)
 ![Single5in38](/Icons/Equipment/Guns/DD/5in38.png)
 ![Quad40mmBofors](/Icons/Equipment/AA/Quad40mmUSN.png)
