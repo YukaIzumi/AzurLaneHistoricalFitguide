@@ -49,6 +49,6 @@ I-168 | ....
 
 ![533mmType95](/Icons/Equipment/Torpedo/Submarine/533mmType95.png)
 ![533mmType95](/Icons/Equipment/Torpedo/Submarine/533mmType95.png)
-![120mm45](/Icons/Equipment/Guns/DD/100mm50Type88.png)
+![100mm50](/Icons/Equipment/Guns/DD/100mm50Type88.png)
 ![FuelFilter](/Icons/Equipment/Auxiliary/FuelFilter.png)
 ![OxyTorpUR](/Icons/Equipment/Auxiliary/OxygenTorpedoUR.png) <br/>

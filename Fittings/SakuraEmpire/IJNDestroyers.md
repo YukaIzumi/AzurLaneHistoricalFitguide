@@ -90,7 +90,7 @@ Asashio | Arashio | Kasumi | Michishio | Ooshio
 ![Asashio](/Icons/Ship/SakuraEmpire/Asashio.png) | ![Arashio](/Icons/Ship/SakuraEmpire/Arashio.png) | ![Kasumi](/Icons/Ship/SakuraEmpire/Kasumi.png) | ![Michishio](/Icons/Ship/SakuraEmpire/Michishio.png) | ![Ooshio](/Icons/Ship/SakuraEmpire/Ooshio.png) <br/>
 
 ![127mm50ModA](/Icons/Equipment/Guns/DD/127mm50ModB.png)
-![Quad610](/Icons/Equipment/Torpedo/Surface/610mmTripleIJN-Kai.png)
+![Quad610](/Icons/Equipment/Torpedo/Surface/610mmQuadIJN-Kai.png)
 ![25mmT](/Icons/Equipment/AA/25mmType96T.png)
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![NavalCamo](/Icons/Equipment/Auxiliary/OxygenTorpedoUR.png) <br/>
@@ -105,7 +105,7 @@ Hamakaze | Isokaze | Kagerou | Kuroshio | Nowaki | Oyashio | Shiranui | Tanikaze
 ![Hamakaze](/Icons/Ship/SakuraEmpire/Hamakaze.png) | ![Isokaze](/Icons/Ship/SakuraEmpire/Isokaze.png) | ![Kagerou](/Icons/Ship/SakuraEmpire/Kagerou.png) | ![Kuroshio](/Icons/Ship/SakuraEmpire/Kuroshio.png) | ![Nowaki](/Icons/Ship/SakuraEmpire/Nowaki.png) | ![Oyashio](/Icons/Ship/SakuraEmpire/Oyashio.png) | ![Shiranui](/Icons/Ship/SakuraEmpire/Shiranui.png) | ![Tanikaze](/Icons/Ship/SakuraEmpire/Tanikaze.png) | ![Urakaze](/Icons/Ship/SakuraEmpire/Urakaze.png) | ![Yukikaze](/Icons/Ship/SakuraEmpire/Yukikaze.png) <br/>
 
 ![127mm50ModA](/Icons/Equipment/Guns/DD/127mm50ModB.png)
-![Quad610](/Icons/Equipment/Torpedo/Surface/610mmTripleIJN-Kai.png)
+![Quad610](/Icons/Equipment/Torpedo/Surface/610mmQuadIJN-Kai.png)
 ![25mmTR](/Icons/Equipment/AA/25mmType96TT.png)
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![NavalCamo](/Icons/Equipment/Auxiliary/OxygenTorpedoUR.png) <br/>
@@ -120,7 +120,7 @@ Hanazuki | Harutsuki | Niizuki | Suzutsuki | Yoizuki
 ![Hanazuki](/Icons/Ship/SakuraEmpire/Hanazuki.png) | ![Harutsuki](/Icons/Ship/SakuraEmpire/Harutsuki.png) | ![Niizuki](/Icons/Ship/SakuraEmpire/Niizuki.png) | ![Suzutsuki](/Icons/Ship/SakuraEmpire/Suzutsuki.png) | ![Yoizuki](/Icons/Ship/SakuraEmpire/Yoizuki.png) <br/>
 
 ![100mmType98](/Icons/Equipment/Guns/DD/100mm65Type98.png)
-![Quad610](/Icons/Equipment/Torpedo/Surface/610mmTripleIJN.png)
+![Quad610](/Icons/Equipment/Torpedo/Surface/610mmQuadIJN.png)
 ![25mmT](/Icons/Equipment/AA/25mmType96TT.png)
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![HAFD](/Icons/Equipment/Auxiliary/Type94HAFD.png) <br/>
@@ -135,7 +135,7 @@ Kazagumo | Kiyonami | Makinami | Naganami
 ![Kazagumo](/Icons/Ship/SakuraEmpire/Kazagumo.png) | ![Kiyonami](/Icons/Ship/SakuraEmpire/Kiyonami.png) | ![Makinami](/Icons/Ship/SakuraEmpire/Makinami.png) | ![Naganami](/Icons/Ship/SakuraEmpire/Naganami.png) <br/>
 
 ![127mm50ModA](/Icons/Equipment/Guns/DD/127mm50ModB.png)
-![Quad610](/Icons/Equipment/Torpedo/Surface/610mmQuadIJN.png)
+![Quad610](/Icons/Equipment/Torpedo/Surface/610mmQuadIJN-Kai.png)
 ![25mmTR](/Icons/Equipment/AA/25mmType96TT.png)
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![NavalCamo](/Icons/Equipment/Auxiliary/OxygenTorpedoUR.png) <br/>
