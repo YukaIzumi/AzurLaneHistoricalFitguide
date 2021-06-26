@@ -150,7 +150,7 @@ Kitakaze | ....
 ![Kitakaze](/Icons/Ship/SakuraEmpire/Kitakaze.png) | ....<br/>
 
 ![100mmType98](/Icons/Equipment/Guns/DD/100mm65Type98.png)
-![533Quint](/Icons/Equipment/Torpedo/Surface/533mmQuintKMS.png)
+![533Quint](/Icons/Equipment/Torpedo/Surface/53.3cmQuintKMS.png)
 ![40mmType98](/Icons/Equipment/AA/40mmType98.png)
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![HAFD](/Icons/Equipment/Auxiliary/Type94HAFD.png) <br/>
