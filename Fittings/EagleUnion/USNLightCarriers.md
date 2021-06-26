@@ -26,7 +26,7 @@ Aircraft Carrier (Light)
 #### Members of Class: <br/>
 Long Island | ....
 | ----- | ----- |
-![Long Island](/Icons/Ship/EagleUnion/Long_Island.png) |      ...        <br/>
+![Long Island](/Icons/Ship/EagleUnion/LongIsland.png) |      ...        <br/>
 
 ![F4F](/Icons/Equipment/Aircraft/Fighter/F4FWildcat.png)
 ![SBD3](/Icons/Equipment/Aircraft/Bomber/SBD-3Dauntless.png)
