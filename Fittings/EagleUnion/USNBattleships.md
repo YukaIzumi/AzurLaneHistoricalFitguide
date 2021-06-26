@@ -99,9 +99,9 @@ Alabama | Massachusetts | South Dakota
 Battleship (Fast) <br/>
 
 #### Members of Class: <br/>
-Iowa | ....
+New Jersey | ....
 | ----- | ----- |
-![Iowa](/Icons/Ship/EagleUnion/Iowa.png) |      ...        <br/>
+![New Jersey](/Icons/Ship/EagleUnion/New_Jersey.png) |      ...        <br/>
 
 ![16in50Mk7](/Icons/Equipment/Guns/BB/16in50Mk7.png)
 ![Twin5in38](/Icons/Equipment/Guns/DD/Twin5in38.png)
