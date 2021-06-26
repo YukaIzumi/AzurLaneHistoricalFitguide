@@ -55,7 +55,7 @@ Battleship ("Super" Dreadnought) <br/>
 
 #### Members of Class: <br/>
 Colorado | Maryland | West Virginia
-| ----- | ----- |
+| ----- | ----- | ----- |
 ![Colorado](/Icons/Ship/EagleUnion/Colorado.png) | ![Maryland](/Icons/Ship/EagleUnion/Maryland.png) | ![West Virginia](/Icons/Ship/EagleUnion/West_Virginia.png) <br/>
 
 ![16in45Mk8](/Icons/Equipment/Guns/BB/16in45Mk8.png)
@@ -85,7 +85,7 @@ Battleship (Fast) <br/>
 
 #### Members of Class: <br/>
 Alabama | Massachusetts | South Dakota
-| ----- | ----- |
+| ----- | ----- | ----- |
 ![Alabama](/Icons/Ship/EagleUnion/Alabama.png) | ![Massachusetts](/Icons/Ship/EagleUnion/Massachusetts.png) | ![South Dakota](/Icons/Ship/EagleUnion/South_Dakota.png) <br/>
 
 ![16in45Mk6](/Icons/Equipment/Guns/BB/16in45Mk6.png)
