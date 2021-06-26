@@ -53,6 +53,7 @@ Enterprise | Little Enterprise | Hornet | Yorktown
 
 ##### Special Gear <br/>
 
+* Notable "special equipment" offered through events or the core shop that belongs to one or more ships of this class.<br/>
 ![F2AThatch](/Icons/Equipment/Aircraft/Fighter/F2AThatch.png)
 * F2A Thatch Squadron departed from USS Yorktown during the Battle of Midway.  <br/>
 ![TBDVT-8](/Icons/Equipment/Aircraft/Torpedo/TBDVT8.png)
@@ -102,6 +103,7 @@ Bunker Hill | Essex | Intrepid | Shangri-La | Ticonderoga
 
 ##### Special Gear <br/>
 
+* Notable "special equipment" offered through events or the core shop that belongs to one or more ships of this class.<br/>
 ![F4UVF17](/Icons/Equipment/Aircraft/Fighter/F4UVF17.png)
 * VF-17 "Jolly Rogers" flew from Bunker Hill. When the US Navy introduced the F6F Hellcat VF-17 stuck to their F4U Corsairs and attained a rtecord kill count of 154 planes. <br/>
 ![TBDVT-8](/Icons/Equipment/Aircraft/Torpedo/TBDVT8.png)
