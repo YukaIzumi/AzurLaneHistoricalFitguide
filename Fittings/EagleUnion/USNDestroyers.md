@@ -133,9 +133,9 @@ Allen M. Sumner | Cooper <br/>
 ![SGRadar](/Icons/Equipment/Auxiliary/SGRadar.png) <br/>
 
 ##### Special Gear <br/>
-
-![Catalina](/Icons/Equipment/Auxiliary/PBY-5ACatalina.png) <br/>
-* The Consolidated PBY-5A Catalina was sometimes used to rescuse sailors after the sinking of a ship. When USS Cooper was struck by a torpedo, Catalinas were able to rescue many members of her crew.
+* Notable "special equipment" offered through events or the core shop that belongs to one or more ships of this class.<br/>
+![Catalina](/Icons/Equipment/Auxiliary/PBY-5ACatalina.png)
+* The Consolidated PBY-5A Catalina was sometimes used to rescuse sailors after the sinking of a ship. When USS Cooper was struck by a torpedo, Catalinas were able to rescue many members of her crew. <br/>
 
 
 ### Additional Equipments: <br/>

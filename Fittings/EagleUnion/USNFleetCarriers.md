@@ -102,7 +102,7 @@ Bunker Hill | Essex | Intrepid | Shangri-La | Ticonderoga
 
 ##### Special Gear <br/>
 
-![F4UVF17](/Icons/Equipment/Auxiliary/F4UVF17.png)
+![F4UVF17](/Icons/Equipment/Aircraft/Fighter/F4UVF17.png)
 * VF-17 "Jolly Rogers" flew from Bunker Hill. When the US Navy introduced the F6F Hellcat VF-17 stuck to their F4U Corsairs and attained a rtecord kill count of 154 planes. <br/>
 ![TBDVT-8](/Icons/Equipment/Aircraft/Torpedo/TBDVT8.png)
 * TBD-1 VT-8 Squadron was assigned to USS Intrepid in 1943 and was transferred to USS Bunker Hill, ending the war aboard her. <br/>
