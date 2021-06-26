@@ -2,7 +2,7 @@
 
 ## General Info
 
-The submarines of Eagle Union consist of the Gato class (4 members) and the Balao class (1 member). These submarines are fairly middle-of-the-pack when it comes to performance, but several of them offer skills that relate to notable kills during their career or to supporting other USN submarines in your fleet.
+Tbe submarines of the Sakura Empire consist of 3 classes. Type A aviation submarine, Type B submarine, and Kaidai class. They have overall good torpedo damage and, with the Type A, a unique submarine launched aircraft mechanic. Skills will reference in-history notable sinkings or benefit the submarine.
 
 
 ### Type A Class
