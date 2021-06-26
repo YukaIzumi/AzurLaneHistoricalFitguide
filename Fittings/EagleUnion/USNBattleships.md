@@ -71,7 +71,7 @@ Battleship (Fast) <br/>
 #### Members of Class: <br/>
 North Carolina | Washington
 | ----- | ----- |
-![California](/Icons/Ship/EagleUnion/California.png) | ![Tennessee](/Icons/Ship/EagleUnion/Tennessee.png) <br/>
+![North Carolina](/Icons/Ship/EagleUnion/North_Carolina.png) | ![Washington](/Icons/Ship/EagleUnion/Washington.png) <br/>
 
 ![16in45Mk6](/Icons/Equipment/Guns/BB/16in45Mk6.png)
 ![Twin5in38](/Icons/Equipment/Guns/DD/Twin5in38.png)
