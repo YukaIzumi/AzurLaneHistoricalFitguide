@@ -86,7 +86,7 @@ Biloxi | Birmingham | Cleveland | Little Cleveland | Columbia | Denver | Montpel
 
 ### Seattle Class
 
-Light Cruiser, (Anti-air)
+Light Cruiser, (Anti-air / Project)
 
 #### Members of Class: <br/>
 Seattle | ....
