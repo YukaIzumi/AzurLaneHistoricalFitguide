@@ -15,6 +15,6 @@ Vestal | ....
 
 ![RepairCrane](/Icons/Equipment/Auxiliary/RepairCrane.png)
 ![3in50](/Icons/Equipment/AA/3in50Mk22.png)
-![Quad40mmBofors](/Icons/Equipment/AA/Twin40mmUSN.png)
+![Twin40mmBofors](/Icons/Equipment/AA/Twin40mmUSN.png)
 ![RepairCrane](/Icons/Equipment/Auxiliary/RepairCrane.png)
 ![AirRadar](/Icons/Equipment/Auxiliary/AirRadar.png) <br/>

@@ -1,1 +1,156 @@
-# Placeholder for future use
+# Destroyers of the Imperial Japanese Navy
+
+## General Info
+
+Destroyers of Sakura Empire offer a small variety of purposes. From the pre-war Kamikaze and Mutsuki, to the interwar "Special Type" Fubuki, and the late war torpedo delivery platofrm Yuugumo or anti-aircraft purpose-built Akizuki, there is no shortage of roles to fill. IJN destroyers will typically support a heavy torpedo stat and destructive capability.
+
+
+### Kamikaze Class
+
+Destroyer <br/>
+
+#### Members of Class: <br/>
+Hatakaze | Kamikaze | Matsukaze | Oite
+| ------ | ------ | ------ | ------ |
+![Hatakaze](/Icons/Ship/SakuraEmpire/Hatakaze.png) | ![Kamikaze](/Icons/Ship/SakuraEmpire/Kamikaze.png) | ![Matsukaze](/Icons/Ship/SakuraEmpire/Matsukaze.png) | ![Oite](/Icons/Ship/SakuraEmpire/Oite.png) | <br/>
+
+![120mm45Type3](/Icons/Equipment/Guns/DD/120mm45Type3.png)
+![Twin610](/Icons/Equipment/Torpedo/Surface/610mmTwinIJN.png)
+![25mmS](/Icons/Equipment/AA/25mmType96.png)
+![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
+![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamouflage.png) <br/>
+
+### Mutsuki Class
+
+Destroyer <br/>
+
+#### Members of Class: <br/>
+Fumizuki | Kisaragi | Mikazuki | Minazuki | Mutsuki | Nagatsuki | Uzuki
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+![Fumizuki](/Icons/Ship/SakuraEmpire/Fumizuki.png) | ![Kisaragi](/Icons/Ship/SakuraEmpire/Kisaragi.png) | ![Mikazuki](/Icons/Ship/SakuraEmpire/Mikazuki.png) | ![Minazuki](/Icons/Ship/SakuraEmpire/Minazuki.png) | ![Mutsuki](/Icons/Ship/SakuraEmpire/Mutsuki.png) | ![Nagatsuki](/Icons/Ship/SakuraEmpire/Nagatsuki.png) | ![Uzuki](/Icons/Ship/SakuraEmpire/Uzuki.png) | 
+
+![120mm45Type3](/Icons/Equipment/Guns/DD/120mm45Type3.png)
+![Triple610](/Icons/Equipment/Torpedo/Surface/610mmTripleIJN.png)
+![25mmS](/Icons/Equipment/AA/25mmType96.png)
+![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
+![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamouflage.png) <br/>
+
+### Fubuki Class
+
+Destroyer <br/>
+
+#### Members of Class: <br/>
+Akatsuki | Ayanami | Fubuki | Hibiki | Ikazuchi | Inazuma | Shirayuki | Uranami
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+![Akatsuki](/Icons/Ship/SakuraEmpire/Akatsuki.png) | ![Ayanami](/Icons/Ship/SakuraEmpire/Ayanami.png) | ![Fubuki](/Icons/Ship/SakuraEmpire/Fubuki.png) | ![Hibiki](/Icons/Ship/SakuraEmpire/Hibiki.png) | ![Ikazuchi](/Icons/Ship/SakuraEmpire/Ikazuchi.png) | ![Inazuma](/Icons/Ship/SakuraEmpire/Inazuma.png) | ![Shirayuki](/Icons/Ship/SakuraEmpire/Shirayuki.png) | ![Uranami](/Icons/Ship/SakuraEmpire/Uranami.png) <br/>
+
+![127mm50ModA](/Icons/Equipment/Guns/DD/127mm50ModA.png)
+![Triple610](/Icons/Equipment/Torpedo/Surface/610mmTripleIJN.png)
+![25mmT](/Icons/Equipment/AA/25mmType96T.png)
+![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
+![NavalCamo](/Icons/Equipment/Auxiliary/OxygenTorpedoUR.png) <br/>
+
+### Hatsuharu Class
+
+Destroyer <br/>
+
+#### Members of Class: <br/>
+Ariake | Hatsuharu | Hatsushimo | Wakaba | Yuugure
+| ------ | ------ | ------ | ------ | ------ |
+![Ariake](/Icons/Ship/SakuraEmpire/Ariake.png) | ![Hatsuharu](/Icons/Ship/SakuraEmpire/Hatsuharu.png) | ![Hatsushimo](/Icons/Ship/SakuraEmpire/Hatsushimo.png) | ![Wakaba](/Icons/Ship/SakuraEmpire/Wakaba.png) | ![Yuugure](/Icons/Ship/SakuraEmpire/Yuugure.png) <br/>
+
+![127mm50ModA](/Icons/Equipment/Guns/DD/127mm50ModB.png)
+![Triple610](/Icons/Equipment/Torpedo/Surface/610mmTripleIJN.png)
+![25mmT](/Icons/Equipment/AA/25mmType96T.png)
+![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
+![NavalCamo](/Icons/Equipment/Auxiliary/OxygenTorpedoUR.png) <br/>
+
+### Shiratsuyu Class
+
+Destroyer <br/>
+
+#### Members of Class: <br/>
+Kawakaze | Shigure | Shiratsuyu | Yuudachi
+| ------ | ------ | ------ | ------ |
+![Kawakaze](/Icons/Ship/SakuraEmpire/Kawakaze.png) | ![Shigure](/Icons/Ship/SakuraEmpire/Shigure.png) | ![Shiratsuyu](/Icons/Ship/SakuraEmpire/Shiratsuyu.png) | ![Yuudachi](/Icons/Ship/SakuraEmpire/Yuudachi.png) <br/>
+
+![127mm50ModA](/Icons/Equipment/Guns/DD/127mm50ModB.png)
+![Quad610](/Icons/Equipment/Torpedo/Surface/610mmQuadIJN.png)
+![25mmT](/Icons/Equipment/AA/25mmType96T.png)
+![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
+![NavalCamo](/Icons/Equipment/Auxiliary/OxygenTorpedoUR.png) <br/>
+
+### Asashio Class
+
+Destroyer <br/>
+
+#### Members of Class: <br/>
+Asashio | Arashio | Kasumi | Michishio | Ooshio
+| ------ | ------ | ------ | ------ | ------ |
+![Asashio](/Icons/Ship/SakuraEmpire/Asashio.png) | ![Arashio](/Icons/Ship/SakuraEmpire/Arashio.png) | ![Kasumi](/Icons/Ship/SakuraEmpire/Kasumi.png) | ![Michishio](/Icons/Ship/SakuraEmpire/Michishio.png) | ![Ooshio](/Icons/Ship/SakuraEmpire/Ooshio.png) <br/>
+
+![127mm50ModA](/Icons/Equipment/Guns/DD/127mm50ModB.png)
+![Quad610](/Icons/Equipment/Torpedo/Surface/610mmTripleIJN-Kai.png)
+![25mmT](/Icons/Equipment/AA/25mmType96T.png)
+![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
+![NavalCamo](/Icons/Equipment/Auxiliary/OxygenTorpedoUR.png) <br/>
+
+### Kagerou Class
+
+Destroyer <br/>
+
+#### Members of Class: <br/>
+Hamakaze | Isokaze | Kagerou | Kuroshio | Nowaki | Oyashio | Shiranui | Tanikaze | Urakaze | Yukikaze
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+![Hamakaze](/Icons/Ship/SakuraEmpire/Hamakaze.png) | ![Isokaze](/Icons/Ship/SakuraEmpire/Isokaze.png) | ![Kagerou](/Icons/Ship/SakuraEmpire/Kagerou.png) | ![Kuroshio](/Icons/Ship/SakuraEmpire/Kuroshio.png) | ![Nowaki](/Icons/Ship/SakuraEmpire/Nowaki.png) | ![Oyashio](/Icons/Ship/SakuraEmpire/Oyashio.png) | ![Shiranui](/Icons/Ship/SakuraEmpire/Shiranui.png) | ![Tanikaze](/Icons/Ship/SakuraEmpire/Tanikaze.png) | ![Urakaze](/Icons/Ship/SakuraEmpire/Urakaze.png) | ![Yukikaze](/Icons/Ship/SakuraEmpire/Yukikaze.png) <br/>
+
+![127mm50ModA](/Icons/Equipment/Guns/DD/127mm50ModB.png)
+![Quad610](/Icons/Equipment/Torpedo/Surface/610mmTripleIJN-Kai.png)
+![25mmTR](/Icons/Equipment/AA/25mmType96TT.png)
+![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
+![NavalCamo](/Icons/Equipment/Auxiliary/OxygenTorpedoUR.png) <br/>
+
+### Akizuki Class
+
+Destroyer <br/>
+
+#### Members of Class: <br/>
+Hanazuki | Harutsuki | Niizuki | Suzutsuki | Yoizuki
+| ------ | ------ | ------ | ------ | ------ |
+![Hanazuki](/Icons/Ship/SakuraEmpire/Hanazuki.png) | ![Harutsuki](/Icons/Ship/SakuraEmpire/Harutsuki.png) | ![Niizuki](/Icons/Ship/SakuraEmpire/Niizuki.png) | ![Suzutsuki](/Icons/Ship/SakuraEmpire/Suzutsuki.png) | ![Yoizuki](/Icons/Ship/SakuraEmpire/Yoizuki.png) <br/>
+
+![100mmType98](/Icons/Equipment/Guns/DD/100mm65Type98.png)
+![Quad610](/Icons/Equipment/Torpedo/Surface/610mmTripleIJN.png)
+![25mmT](/Icons/Equipment/AA/25mmType96TT.png)
+![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
+![HAFD](/Icons/Equipment/Auxiliary/Type94HAFD.png) <br/>
+
+### Yuugumo Class
+
+Destroyer <br/>
+
+#### Members of Class: <br/>
+Kazagumo | Kiyonami | Makinami | Naganami
+| ------ | ------ | ------ | ------ |
+![Kazagumo](/Icons/Ship/SakuraEmpire/Kazagumo.png) | ![Kiyonami](/Icons/Ship/SakuraEmpire/Kiyonami.png) | ![Makinami](/Icons/Ship/SakuraEmpire/Makinami.png) | ![Naganami](/Icons/Ship/SakuraEmpire/Naganami.png) <br/>
+
+![127mm50ModA](/Icons/Equipment/Guns/DD/127mm50ModB.png)
+![Quad610](/Icons/Equipment/Torpedo/Surface/610mmQuadIJN.png)
+![25mmTR](/Icons/Equipment/AA/25mmType96TT.png)
+![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
+![NavalCamo](/Icons/Equipment/Auxiliary/OxygenTorpedoUR.png) <br/>
+
+### Kitakaze Class
+
+Destroyer (Project) <br/>
+
+#### Members of Class: <br/>
+Kitakaze | ....
+| ------ | ------ 
+![Kitakaze](/Icons/Ship/SakuraEmpire/Kitakaze.png) | ....<br/>
+
+![100mmType98](/Icons/Equipment/Guns/DD/100mm65Type98.png)
+![533Quint](/Icons/Equipment/Torpedo/Surface/533mmQuintKMS.png)
+![40mmType98](/Icons/Equipment/AA/40mmType98.png)
+![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
+![HAFD](/Icons/Equipment/Auxiliary/Type94HAFD.png) <br/>
