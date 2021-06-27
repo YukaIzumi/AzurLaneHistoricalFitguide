@@ -79,6 +79,8 @@ North Carolina | Washington
 ![SHS](/Icons/Equipment/Auxiliary/SHS.png)
 ![HPFireControlRadar](/Icons/Equipment/Auxiliary/HPFCR.png) <br/>
 
+* Historically the North Carolina class were equipped with an older variant of the 5"38, being the Mk28, which is not available in game. To augment the role of the North Carolina class the main gun will be the 5"38 Mk38. This is most important on North Carolina, who benefits strongly from stacking AA stats.
+
 ### South Dakota Class
 
 Battleship (Fast) <br/>
@@ -93,6 +95,7 @@ Alabama | Massachusetts | South Dakota
 ![Quad40mmBofors](/Icons/Equipment/AA/Quad40mmUSN.png)
 ![SHS](/Icons/Equipment/Auxiliary/SHS.png)
 ![HPFireControlRadar](/Icons/Equipment/Auxiliary/HPFCR.png) <br/>
+
 
 ### Iowa Class
 

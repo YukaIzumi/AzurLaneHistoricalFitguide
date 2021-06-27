@@ -68,6 +68,7 @@ Atlanta | Juneau | Reno | San Diego | Little Sandy | San Juan
 ![SGRadar](/Icons/Equipment/Auxiliary/AirRadar.png) <br/>
 
 * The original armament of the Atlanta class depended on the quadruple 1.1in "Chicago Piano", but with the Oakland subclass, and similar requirements as the Brooklyn class, the switch was made to a mid-caliber armament of 40mm Bofors in twin mounts.
+* Additionally, the Atlanta class were equipped with an older variant of the 5"38, being the Mk28, which is not available in game. To augment the role of the Atlanta class and Oakland subclass, the main gun will be the 5"38 Mk38.
 
 ### Cleveland Class
 
