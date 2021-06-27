@@ -122,7 +122,7 @@ Georgia | ....
 ![Georgia](/Icons/Ship/EagleUnion/Georgia.png) |      ...        <br/>
 
 ![18inMkA](/Icons/Equipment/Guns/BB/18inMkA.png)
-![Twin5in38](/Icons/Equipment/Guns/DD/Twin5in38.png)
+![Twin5in38](/Icons/Equipment/Guns/DD/5in38Mk38.png)
 ![Quad40mmBofors](/Icons/Equipment/AA/Quad40mmUSN.png)
 ![SHS](/Icons/Equipment/Auxiliary/SHS.png)
 ![HPFireControlRadar](/Icons/Equipment/Auxiliary/HPFCR.png) <br/>
