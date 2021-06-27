@@ -13,4 +13,4 @@ The Eagle Union represents the US Navy of World War II. This faction was introdu
 * [Battleships](/Fittings/EagleUnion/USNBattleships.md) <br/>
 * [Light Carriers](/Fittings/EagleUnion/USNLightCarriers.md) <br/>
 * [Heavy Carriers](/Fittings/EagleUnion/USNFleetCarriers.md) <br/>
-* [Auxiliary Ships](/Fittings/EagleUnion/USNAuxiliaryShips.md) <br/>
+* [Auxiliary Ships](/Fittings/EagleUnion/USNAuxiliary.md) <br/>
