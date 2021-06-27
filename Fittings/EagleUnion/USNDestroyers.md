@@ -126,7 +126,7 @@ Allen M. Sumner | Cooper <br/>
 | ------ | ------ |
 ![AllenMSumner](/Icons/Ship/EagleUnion/AllenMSumner.png) | ![Cooper](/Icons/Ship/EagleUnion/Cooper.png) <br/>
 
-![Twin5in38](/Icons/Equipment/Guns/DD/Twin5in38.png)
+![Twin5in38](/Icons/Equipment/Guns/DD/5in38Mk38.png)
 ![Quintuple21in](/Icons/Equipment/Torpedo/Surface/21inQuintupleUSN.png)
 ![Quad40mmBofors](/Icons/Equipment/AA/Quad40mmUSN.png)
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)

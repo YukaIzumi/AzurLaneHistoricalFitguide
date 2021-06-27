@@ -53,7 +53,7 @@ Atlanta | Juneau | Reno | San Diego | Little Sandy | San Juan
 | ----- | ----- | ----- | ----- | ----- | ----- |
 ![Atlanta](/Icons/Ship/EagleUnion/Atlanta.png) | ![Juneau](/Icons/Ship/EagleUnion/Juneau.png) | ![Reno](/Icons/Ship/EagleUnion/Reno.png) | ![San_Diego](/Icons/Ship/EagleUnion/San_Diego.png) | ![Little Sandy](/Icons/Ship/EagleUnion/Sandy_Chan.png) | ![San Juan](/Icons/Ship/EagleUnion/San_Juan.png)
 
-![Twin5in38](/Icons/Equipment/Guns/DD/Twin5in38.png)
+![Twin5in38](/Icons/Equipment/Guns/DD/5in38Mk38.png)
 ![Quadruple21in](/Icons/Equipment/Torpedo/Surface/21inQuadrupleUSN.png)
 ![Quad28mm](/Icons/Equipment/AA/Quad1in.png)
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
@@ -61,14 +61,14 @@ Atlanta | Juneau | Reno | San Diego | Little Sandy | San Juan
 
 ##### Late-war Fitting / Oakland Subclass <br/>
 
-![Twin5in38](/Icons/Equipment/Guns/DD/Twin5in38.png)
+![Twin5in38](/Icons/Equipment/Guns/DD/5in38Mk38.png)
 ![Quadruple21in](/Icons/Equipment/Torpedo/Surface/21inQuadrupleUSN.png)
 ![Quad40mmBofors](/Icons/Equipment/AA/Twin40mmUSN.png)
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![SGRadar](/Icons/Equipment/Auxiliary/AirRadar.png) <br/>
 
 * The original armament of the Atlanta class depended on the quadruple 1.1in "Chicago Piano", but with the Oakland subclass, and similar requirements as the Brooklyn class, the switch was made to a mid-caliber armament of 40mm Bofors in twin mounts.
-* Additionally, the Atlanta class were equipped with an older variant of the 5"38, being the Mk28, which is not available in game. To augment the role of the Atlanta class and Oakland subclass, the main gun will be the 5"38 Mk38.
+* Additionally, the Atlanta class were equipped with an older variant of the 5"38, being the Mk28, which is not available in game. To augment the role of the Atlanta class and Oakland subclass the main gun will be the 5"38 Mk38.
 
 ### Cleveland Class
 

@@ -74,7 +74,7 @@ North Carolina | Washington
 ![North Carolina](/Icons/Ship/EagleUnion/North_Carolina.png) | ![Washington](/Icons/Ship/EagleUnion/Washington.png) <br/>
 
 ![16in45Mk6](/Icons/Equipment/Guns/BB/16in45Mk6.png)
-![5in38Mk32](/Icons/Equipment/Guns/DD/5in38Mk32.png)
+![5in38Mk32](/Icons/Equipment/Guns/DD/5in38Mk38.png)
 ![Quad40mmBofors](/Icons/Equipment/AA/Quad40mmUSN.png)
 ![SHS](/Icons/Equipment/Auxiliary/SHS.png)
 ![HPFireControlRadar](/Icons/Equipment/Auxiliary/HPFCR.png) <br/>
