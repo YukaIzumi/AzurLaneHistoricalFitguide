@@ -48,7 +48,7 @@ Aircraft Carrier (Light)
 #### Members of Class: <br/>
 Ryuuhou | ....
 | ----- | ----- |
-![Ryuuhou](/Icons/Ship/EagleUnion/Ryuuhou.png) |      ...        <br/>
+![Ryuuhou](/Icons/Ship/SakuraEmpire/Ryuuhou.png) |      ...        <br/>
 
 ![A6M2](/Icons/Equipment/Aircraft/Fighter/A6M2.png)
 ![B5N](/Icons/Equipment/Aircraft/Torpedo/B5N.png)
@@ -68,7 +68,7 @@ Aircraft Carrier (Light) <br/>
 #### Members of Class: <br/>
 Chitose | Chiyoda | Shouhou
 | ----- | ----- | ----- |
-![Chitose](/Icons/Ship/EagleUnion/Chitose.png) | ![Chiyoda](/Icons/Ship/EagleUnion/Chiyoda.png) | ![Shouhou](/Icons/Ship/EagleUnion/Shouhou.png) <br/>
+![Chitose](/Icons/Ship/SakuraEmpire/Chitose.png) | ![Chiyoda](/Icons/Ship/SakuraEmpire/Chiyoda.png) | ![Shouhou](/Icons/Ship/SakuraEmpire/Shouhou.png) <br/>
 
 ![A6M2](/Icons/Equipment/Aircraft/Fighter/A6M2.png)
 ![B6N](/Icons/Equipment/Aircraft/Torpedo/B6N.png)
