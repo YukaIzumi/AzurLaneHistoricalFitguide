@@ -170,11 +170,10 @@ Taihou | ...
 ### Yamato Class
 
 Aircraft Carrier (Fleet, Armored)
-
 #### Members of Class: <br/>
 Shinano | ...
 | ----- | ----- |
-![Shinano](/Icons/Ship/EagleUnion/Shinano.png) | ...  <br/>
+![Shinano](/Icons/Ship/SakuraEmpire/Shinano.png) | ...  <br/>
 
 ![A7M](/Icons/Equipment/Aircraft/Fighter/A7M.png)
 ![D4Y](/Icons/Equipment/Aircraft/Bomber/D4Y.png)
