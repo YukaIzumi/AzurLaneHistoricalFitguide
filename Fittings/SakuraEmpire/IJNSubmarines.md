@@ -15,7 +15,7 @@ I-13 | ....
 
 ![533mmType95](/Icons/Equipment/Torpedo/Submarine/533mmType95.png)
 ![533mmType95](/Icons/Equipment/Torpedo/Submarine/533mmType95.png)
-![120mm45](/Icons/Equipment/Guns/DD/120mm45Type10.png)
+![120mm45](/Icons/Equipment/Guns/DD/45CaliberType1012cm.png)
 ![FuelFilter](/Icons/Equipment/Auxiliary/FuelFilter.png)
 ![OxyTorpUR](/Icons/Equipment/Auxiliary/OxygenTorpedoUR.png) <br/>
 
@@ -35,7 +35,7 @@ I-19 | I-25 | I-26 | I-56 | I-58
 
 ![533mmType95](/Icons/Equipment/Torpedo/Submarine/533mmType95.png)
 ![533mmType95](/Icons/Equipment/Torpedo/Submarine/533mmType95.png)
-![120mm45](/Icons/Equipment/Guns/DD/120mm45Type10.png)
+![120mm45](/Icons/Equipment/Guns/DD/45CaliberType1012cm.png)
 ![FuelFilter](/Icons/Equipment/Auxiliary/FuelFilter.png)
 ![OxyTorpUR](/Icons/Equipment/Auxiliary/OxygenTorpedoUR.png) <br/>
 
@@ -49,6 +49,6 @@ I-168 | ....
 
 ![533mmType95](/Icons/Equipment/Torpedo/Submarine/533mmType95.png)
 ![533mmType95](/Icons/Equipment/Torpedo/Submarine/533mmType95.png)
-![100mm50](/Icons/Equipment/Guns/DD/100mm50Type88.png)
+![100mm50](/Icons/Equipment/Guns/DD/50CaliberType8810cm.png)
 ![FuelFilter](/Icons/Equipment/Auxiliary/FuelFilter.png)
 ![OxyTorpUR](/Icons/Equipment/Auxiliary/OxygenTorpedoUR.png) <br/>
