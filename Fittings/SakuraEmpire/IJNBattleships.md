@@ -2,7 +2,7 @@
 
 ## General Info
 
-The battleships of the Eagle Union span from the interwar dreadnought "heavies" of the Nevada and Pennsylvania class, up toward the North Carolina, South Dakota, and eventual Iowa class. Expect heavy AA Armaments in later classes and a continual focus on consistent gun performance. All ships are equipped with destroyer caliber secondary weapons, so while your volleys are quick they may be less useful against maps with heavy suicide craft presence.
+The battleships of the Sakura Empire represent a long history of innovation and trials. Not all the innovation panned out, with odd concepts such as hybrid battleships, but did provide generally reliable ships with what little resources were present to operate from. In game, IJN battleships will provide heavy gun support, barrages, and potent fleet buffs. Be wary, for your anti-aircraft armament isn't as strong as other nations. Consider supplying a carrier or light carrier if enemy aircraft become a persistent threat.
 
 ### Nevada Class
 
