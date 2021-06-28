@@ -1,4 +1,4 @@
-# Light Cruisers of the Imperial Japanese Navy
+# Heavy Cruisers of the Imperial Japanese Navy
 
 ## General Info
 
