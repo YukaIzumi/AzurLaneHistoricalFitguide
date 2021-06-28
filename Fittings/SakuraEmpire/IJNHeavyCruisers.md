@@ -79,7 +79,7 @@ Kumano | Mogami | Mikuma | Suzuya |
 ![SteeringGear](/Icons/Equipment/Auxiliary/OxygenTorpedoUR.png)
 ![TorpedoBulge](/Icons/Equipment/Auxiliary/TorpedoBulge.png) <br/>
 
-***** Light Cruiser Gun Fit
+##### Light Cruiser Gun Fit
 
 ![Triple15cm](/Icons/Equipment/Guns/CL/60Caliber3rdYearType15.5cm.png)
 ![Quad610](/Icons/Equipment/Torpedo/Surface/610mmQuadIJN.png)
@@ -98,7 +98,7 @@ Chikuma | Tone |
 
 ![Twin20cm2](/Icons/Equipment/Guns/CA/50Caliber3rdYearType20cmNo2.png)
 ![Quad610](/Icons/Equipment/Torpedo/Surface/610mmQuadIJN.png)
-![N1K1](/Icons/Equipment/Aircraft/Seaplant/N1K1.png)
+![N1K1](/Icons/Equipment/Aircraft/Seaplane/N1K1.png)
 ![SteeringGear](/Icons/Equipment/Auxiliary/OxygenTorpedoUR.png)
 ![TorpedoBulge](/Icons/Equipment/Auxiliary/TorpedoBulge.png) <br/>
 

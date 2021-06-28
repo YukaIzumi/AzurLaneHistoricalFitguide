@@ -13,7 +13,7 @@ Abukuma | Isuzu | Kinu | Nagara
 | ------ | ------ | ------ | ------ |
 ![Abukuma](/Icons/Ship/SakuraEmpire/Abukuma.png) | ![Isuzu](/Icons/Ship/SakuraEmpire/Isuzu.png) | ![Kinu](/Icons/Ship/SakuraEmpire/Kinu.png) | ![Nagara](/Icons/Ship/SakuraEmpire/Nagara.png) <br/>
 
-![Single140](/Icons/Equipment/Guns/CL/140mm50-3rdYearType.png)
+![Single140](/Icons/Equipment/Guns/CL/50Caliber3rdYearType14cm.png)
 ![Twin610](/Icons/Equipment/Torpedo/Surface/610mmTwinIJN.png)
 ![25mmT](/Icons/Equipment/AA/25mmType96T.png)
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
@@ -40,7 +40,7 @@ Jintsuu | Naka | Sendai |
 | ------ | ------ | ------ |
 ![Jintsuu](/Icons/Ship/SakuraEmpire/Jintsuu.png) | ![Naka](/Icons/Ship/SakuraEmpire/Naka.png) | ![Sendai](/Icons/Ship/SakuraEmpire/Sendai.png) <br/>
 
-![Single140](/Icons/Equipment/Guns/CL/140mm50-3rdYearType.png)
+![Single140](/Icons/Equipment/Guns/CL/50Caliber3rdYearType14cm.png)
 ![Twin610](/Icons/Equipment/Torpedo/Surface/610mmTwinIJN.png)
 ![25mmT](/Icons/Equipment/AA/25mmType96T.png)
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
