@@ -2,7 +2,7 @@
 
 ## General Info
 
-The light cruisers of Sakura Empire begin with the torpedo-cruisers of the Nagara and Sendai class. The Yuubari class serves as a brief transitional cruiser to the larger and more general-purpose Agano class. These light cruisers are potent additions to any torpedo fleet and often come with skills to aid your vanguard.
+The heavy cruisers of the Sakura Empire have a span of similary-built ships that grow steadily stronger. These are decent gun-torpedo hybrid heavy cruisers with good health values and low AA.
 
 ### Furutaka Class
 
