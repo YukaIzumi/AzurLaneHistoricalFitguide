@@ -4,6 +4,8 @@
 
 The heavy cruisers of the Sakura Empire have a span of similary-built ships that grow steadily stronger. These are decent gun-torpedo hybrid heavy cruisers with good health values and low AA.
 
+Many of these ships did not surive to the end of the war or were crippled by lack of industrial output, so additional fittings or equipment may be suggested below each historical fitting to predict what an end-of-war historical fitting would look like.
+
 ### Furutaka Class
 
 Heavy Cruiser <br/>

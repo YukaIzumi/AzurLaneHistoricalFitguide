@@ -114,8 +114,9 @@ Aulick | Bache | Bush | Charles Ausburne | Fletcher | Foote | Halsey Powell | Ha
 
 ##### Special Gear <br/>
 
-![LittleBeaver](/Icons/Equipment/Auxiliary/BeaverBadge.png) <br/>
+
 * The "Little Beaver Squadron" badge belongs to the Fletcher class, specifically  Destroyer Squadron 23, consisting of Charles Ausburne, Claxton, Dyson, Stanly, Converse, Foote, Spence, and Thatcher. It was one of few (if any) destroyer squadrons awared a group Presidential Unit Citation for its record under Capt. Arleigh Burke over 17 weeks at the close of the campaign in the Solomon Islands.
+![LittleBeaver](/Icons/Equipment/Auxiliary/BeaverBadge.png) <br/>
 
 ### Allen M. Sumner Class <br/>
 
@@ -137,7 +138,3 @@ Allen M. Sumner | Cooper <br/>
 ![Catalina](/Icons/Equipment/Auxiliary/PBY-5ACatalina.png)
 * The Consolidated PBY-5A Catalina was sometimes used to rescuse sailors after the sinking of a ship. When USS Cooper was struck by a torpedo, Catalinas were able to rescue many members of her crew. <br/>
 
-
-### Additional Equipments: <br/>
-* All destroyers up and down the lineup may equip any depth charge or sonar system. <br/>
-* Any member of the Sims, Benson, Fletcher, or Allen M. Sumner class may equip Single 20mm Oerlikon, Twin 20mm Oerlikon, Twin 40mm Bofors. These were all used in their varied AA Armament. <br/>

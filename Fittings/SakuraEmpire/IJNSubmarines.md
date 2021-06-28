@@ -4,6 +4,8 @@
 
 Tbe submarines of the Sakura Empire consist of 3 classes. Type A aviation submarine, Type B submarine, and Kaidai class. They have overall good torpedo damage and, with the Type A, a unique submarine launched aircraft mechanic. Skills will reference in-history notable sinkings or benefit the submarine.
 
+Many of these ships did not surive to the end of the war or were crippled by lack of industrial output, so additional fittings or equipment may be suggested below each historical fitting to predict what an end-of-war historical fitting would look like.
+
 
 ### Type A Class
 

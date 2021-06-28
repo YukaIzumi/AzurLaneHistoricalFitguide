@@ -4,6 +4,8 @@
 
 The light cruisers of Sakura Empire begin with the torpedo-cruisers of the Nagara and Sendai class. The Yuubari class serves as a brief transitional cruiser to the larger and more general-purpose Agano class. These light cruisers are potent additions to any torpedo fleet and often come with skills to aid your vanguard.
 
+Many of these ships did not surive to the end of the war or were crippled by lack of industrial output, so additional fittings or equipment may be suggested below each historical fitting to predict what an end-of-war historical fitting would look like.
+
 ### Nagara Class
 
 Light Cruiser (Torpedo) <br/>

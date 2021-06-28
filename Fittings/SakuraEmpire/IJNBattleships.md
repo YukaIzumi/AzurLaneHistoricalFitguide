@@ -4,6 +4,8 @@
 
 The battleships of the Sakura Empire represent a long history of innovation and trials. Not all the innovation panned out, with odd concepts such as hybrid battleships, but did provide generally reliable ships with what little resources were present to operate from. In game, IJN battleships will provide heavy gun support, barrages, and potent fleet buffs. Be wary, for your anti-aircraft armament isn't as strong as other nations. Consider supplying a carrier or light carrier if enemy aircraft become a persistent threat.
 
+Many of these ships did not surive to the end of the war or were crippled by lack of industrial output, so additional fittings or equipment may be suggested below each historical fitting to predict what an end-of-war historical fitting would look like.
+
 ### Nevada Class
 
 Battleship (Dreadnought) <br/>
