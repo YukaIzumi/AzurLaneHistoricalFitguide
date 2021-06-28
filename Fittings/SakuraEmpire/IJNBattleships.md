@@ -25,7 +25,7 @@ Battleship (Battlecruiser)  <br/>
 
 #### Members of Class: <br/>
 Haruna | Hiei | Hiei-chan | Kirishima | Kongou
-| ----- | ----- |
+| ----- | ----- | ----- | ----- | ----- |
 ![Haruna](/Icons/Ship/SakuraEmpire/Haruna.png) | ![Hiei](/Icons/Ship/SakuraEmpire/Hiei.png) | ![Hiei-chan](/Icons/Ship/SakuraEmpire/Hiei-chan.png) | ![Kirishima](/Icons/Ship/SakuraEmpire/Kirishima.png) | ![Kongou](/Icons/Ship/SakuraEmpire/Kongou.png) <br/>
 
 ![36cm](/Icons/Equipment/Guns/BB/45Caliber41stYearType36cm.png)
@@ -149,10 +149,10 @@ Battleship (Project) <br/>
 #### Members of Class: <br/>
 Izumo | ...
 | ----- | ----- |
-![Kii](/Icons/Ship/SakuraEmpire/Kii.png) | ... <br/>
+![Izumo](/Icons/Ship/SakuraEmpire/Izumo.png) | ... <br/>
 
 ![40cmP](/Icons/Equipment/Guns/BB/45CaliberType9440cm.png)
-![5in38Mk32](/Icons/Equipment/Guns/DD/5in38Mk32.png)
-![Quad28mm](/Icons/Equipment/AA/Quad1in.png)
+![Triple15cm](/Icons/Equipment/Guns/CL/60Caliber3rdYearType15.5cm.png)
+![25mmTR](/Icons/Equipment/AA/25mmType96TT.png)
 ![Type1AP](/Icons/Equipment/Auxiliary/Type1AP.png)
 ![Type98DFD](/Icons/Equipment/Auxiliary/Type98DFD.png) <br/>
