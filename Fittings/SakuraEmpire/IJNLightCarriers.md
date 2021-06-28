@@ -37,7 +37,7 @@ Ryuujou | ....
 ![SteamCatapult](/Icons/Equipment/Auxiliary/DropTank.png) <br/>
 
 ##### Alternate Torpedo Bomber
-* Assuming survival toward end of war, the B6N was the replacement aircraft for the antiquated B5N.
+* Assuming survival toward end of war, the B6N was the replacement aircraft for the antiquated B5N.<br/>
 ![B6N](/Icons/Equipment/Aircraft/Torpedo/B6N.png)
 
 
@@ -57,7 +57,7 @@ Ryuuhou | ....
 ![SteamCatapult](/Icons/Equipment/Auxiliary/DropTank.png) <br/>
 
 ##### Alternate Torpedo Bomber
-* Assuming survival toward end of war, the B6N was the replacement aircraft for the antiquated B5N.
+* Assuming survival toward end of war, the B6N was the replacement aircraft for the antiquated B5N.<br/>
 ![B6N](/Icons/Equipment/Aircraft/Torpedo/B6N.png)
 
 
@@ -77,6 +77,6 @@ Chitose | Chiyoda | Shouhou
 ![SteamCatapult](/Icons/Equipment/Auxiliary/DropTank.png) <br/>
 
 ##### Alternate Fighters
-* Assuming survival toward end of war, these aircraft would have taken the place of the aforementioned figther.
+* Assuming survival toward end of war, these aircraft would have taken the place of the aforementioned figther.<br/>
 ![A6M5](/Icons/Equipment/Aircraft/Fighter/A6M5.png)
 ![N1K3-A](/Icons/Equipment/Aircraft/Fighter/N1K3-A.png)

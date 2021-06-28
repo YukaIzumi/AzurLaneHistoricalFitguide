@@ -13,7 +13,7 @@ Aircraft Carrier (Fleet)
 #### Members of Class: <br/>
 Kaga | ....
 | ----- | ----- |
-![Kaga](/Icons/Ship/EagleUnion/Kaga.png) |      ...        <br/>
+![Kaga](/Icons/Ship/SakuraEmpire/Kaga.png) |      ...        <br/>
 
 ![A6M2](/Icons/Equipment/Aircraft/Fighter/A6M2.png)
 ![D3A](/Icons/Equipment/Aircraft/Bomber/D3A.png)
@@ -36,7 +36,7 @@ Aircraft Carrier (Fleet)
 #### Members of Class: <br/>
 Akagi | Akagi-chan
 | ----- | ----- |
-![Akagi](/Icons/Ship/EagleUnion/Akagi.png) | ![Akagi-chan](/Icons/Ship/EagleUnion/Akagi-chan.png) |  <br/>
+![Akagi](/Icons/Ship/SakuraEmpire/Akagi.png) | ![Akagi-chan](/Icons/Ship/SakuraEmpire/Akagi-chan.png) |  <br/>
 
 ![A6M2](/Icons/Equipment/Aircraft/Fighter/A6M2.png)
 ![D3A](/Icons/Equipment/Aircraft/Bomber/D3AT99.png)
@@ -59,7 +59,7 @@ Aircraft Carrier (Fleet)
 #### Members of Class: <br/>
 Souryuu | ....
 | ----- | ----- |
-![Souryuu](/Icons/Ship/EagleUnion/Souryuu.png) |      ...        <br/>
+![Souryuu](/Icons/Ship/SakuraEmpire/Souryuu.png) |      ...        <br/>
 
 ![A6M2](/Icons/Equipment/Aircraft/Fighter/A6M2.png)
 ![D4Y](/Icons/Equipment/Aircraft/Bomber/D4Y.png)
@@ -82,7 +82,7 @@ Aircraft Carrier (Fleet)
 #### Members of Class: <br/>
 Hiryuu | ...
 | ----- | ----- |
-![Hiryuu](/Icons/Ship/EagleUnion/Hiryuu.png) | ...  <br/>
+![Hiryuu](/Icons/Ship/SakuraEmpire/Hiryuu.png) | ...  <br/>
 
 ![A6M2](/Icons/Equipment/Aircraft/Fighter/A6M2.png)
 ![D3A](/Icons/Equipment/Aircraft/Bomber/D3A.png)
@@ -105,7 +105,7 @@ Aircraft Carrier (Fleet)
 #### Members of Class: <br/>
 Shoukaku | Zuikaku
 | ----- | ----- |
-![Shoukaku](/Icons/Ship/EagleUnion/Shoukaku.png) | ![Zuikaku](/Icons/Ship/EagleUnion/Zuikaku.png) |  <br/>
+![Shoukaku](/Icons/Ship/SakuraEmpire/Shoukaku.png) | ![Zuikaku](/Icons/Ship/SakuraEmpire/Zuikaku.png) |  <br/>
 
 ![A6M5](/Icons/Equipment/Aircraft/Fighter/A6M5.png)
 ![D4Y](/Icons/Equipment/Aircraft/Bomber/D4Y.png)
@@ -128,7 +128,7 @@ Aircraft Carrier (Fleet)
 #### Members of Class: <br/>
 Hiyou | Junyou
 | ----- | ----- |
-![Hiyou](/Icons/Ship/EagleUnion/Hiyou.png) | ![Junyou](/Icons/Ship/EagleUnion/Junyou.png) |  <br/>
+![Hiyou](/Icons/Ship/SakuraEmpire/Hiyou.png) | ![Junyou](/Icons/Ship/SakuraEmpire/Junyou.png) |  <br/>
 
 ![A6M2](/Icons/Equipment/Aircraft/Fighter/A6M5.png)
 ![D3A](/Icons/Equipment/Aircraft/Bomber/D3A.png)
@@ -151,7 +151,7 @@ Aircraft Carrier (Fleet, Armored)
 #### Members of Class: <br/>
 Taihou | ...
 | ----- | ----- |
-![Taihou](/Icons/Ship/EagleUnion/Taihou.png) | ...  <br/>
+![Taihou](/Icons/Ship/SakuraEmpire/Taihou.png) | ...  <br/>
 
 ![A7M](/Icons/Equipment/Aircraft/Fighter/A7M.png)
 ![D4Y](/Icons/Equipment/Aircraft/Bomber/D4Y.png)
@@ -192,5 +192,5 @@ Shinano | ...
 
 ##### Special Gear
 
-* Shinano is a conversion of the Yamato class battleships, which employed VH armor plating as part of their protection scheme.
+* Shinano is a conversion of the Yamato class battleships, which employed VH armor plating as part of their protection scheme.<br/>
 ![VHPlate](/Icons/Equipment/Auxiliary/VHPlate.png) <br/>
