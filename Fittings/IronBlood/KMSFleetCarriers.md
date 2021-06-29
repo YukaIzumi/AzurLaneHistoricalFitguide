@@ -30,7 +30,7 @@ Graf Zeppelin | Peter Strasser | Zeppy
 
 ##### Secondary Gun Fitting
 * Zeppy allows the use of a Light Cruiser gun in her third slot. Use the following. <br/>
-![15cmTbtskC36T](/Icons/Equipment/Guns/CL/15cmTbtskC36T.png)
+![15cmTbtskC36T](/Icons/Equipment/Guns/CL/15cmTbtsKC36T.png)
 
 ##### Additional Information
 * A special variant of the Focke-Wulfe 109 was built for carrier usage. It was built and did fly, albeit not from a carrier. <br/>

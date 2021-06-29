@@ -15,7 +15,7 @@ Z1 | Z2
 
 ![12.8cmSKC34](/Icons/Equipment/Guns/DD/12.8cmSKC34.png)
 ![53.3cmG7aQuad](/Icons/Equipment/Torpedo/Surface/53.3cmG7aQuad.png)
-![3.7cmSKC30](/Icons/Equipment/AA/3.7cmSKC30]
+![3.7cmSKC30](/Icons/Equipment/AA/3.7cmSKC30.png)
 ![RepairKit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamouflage.png) <br/>
 
@@ -30,7 +30,7 @@ Z18 | Z19 | Z20 | Z21
 
 ![12.8cmSKC34](/Icons/Equipment/Guns/DD/12.8cmSKC34.png)
 ![53.3cmG7aQuad](/Icons/Equipment/Torpedo/Surface/53.3cmG7aQuad.png)
-![3.7cmSKC30](/Icons/Equipment/AA/3.7cmSKC30]
+![3.7cmSKC30](/Icons/Equipment/AA/3.7cmSKC30.png)
 ![RepairKit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamouflage.png) <br/>
 
@@ -43,16 +43,16 @@ Z23 | Z24 | Z25 | Z26 | Z28
 | ----- | ----- | ----- | ----- | ----- |
 ![Z23](/Icons/Ship/IronBlood/Z23.png) | ![Z24](/Icons/Ship/IronBlood/Z24.png) | ![Z25](/Icons/Ship/IronBlood/Z25.png) | ![Z26](/Icons/Ship/IronBlood/Z26.png) | ![Z28](/Icons/Ship/IronBlood/Z28.png)<br/>
 
-![15cmTbtskC36](/Icons/Equipment/Guns/CL/15cmTbtskC36.png)
+![15cmTbtskC36](/Icons/Equipment/Guns/CL/15cmTbtsKC36.png)
 ![53.3cmG7aQuad](/Icons/Equipment/Torpedo/Surface/53.3cmG7aQuad.png)
-![3.7cmSKC30](/Icons/Equipment/AA/3.7cmSKC30]
+![3.7cmSKC30](/Icons/Equipment/AA/3.7cmSKC30.png)
 ![RepairKit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamouflage.png) <br/>
 
 ##### After Refit
-![15cmTbtskC36T](/Icons/Equipment/Guns/CL/15cmTbtskC36T.png)
+![15cmTbtskC36T](/Icons/Equipment/Guns/CL/15cmTbtsKC36T.png)
 ![53.3cmG7aQuad](/Icons/Equipment/Torpedo/Surface/53.3cmG7aQuad.png)
-![3.7cmSKC30](/Icons/Equipment/AA/2cmFlak38]
+![3.7cmSKC30](/Icons/Equipment/AA/2cmFlak38.png)
 ![RepairKit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamouflage.png) <br/>
 
@@ -71,7 +71,7 @@ Z35 | Z36
 
 ![12.8cmSKC34](/Icons/Equipment/Guns/DD/12.8cmSKC34.png)
 ![53.3cmG7aQuad](/Icons/Equipment/Torpedo/Surface/53.3cmG7aQuad.png)
-![3.7cmSKC30](/Icons/Equipment/AA/3.7cmSKC30]
+![3.7cmSKC30](/Icons/Equipment/AA/3.7cmSKC30.png)
 ![RepairKit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamouflage.png) <br/>
 
@@ -86,7 +86,7 @@ Z46 | ...
 
 ![12.8cmSKC41(/Icons/Equipment/Guns/DD/12.8cmSKC41.png)
 ![53.3cmG7aQuad](/Icons/Equipment/Torpedo/Surface/53.3cmG7aQuad.png)
-![3.7cmSKC30](/Icons/Equipment/AA/3.7cmSKC30]
+![3.7cmSKC30](/Icons/Equipment/AA/3.7cmSKC30.png)
 ![RepairKit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![NavalCamo](/Icons/Equipment/Auxiliary/HPAARadar.png) <br/>
 

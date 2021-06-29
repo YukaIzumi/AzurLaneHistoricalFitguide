@@ -14,7 +14,7 @@ Gneisenau | Scharnhorst
 ![Gneisenau](/Icons/Ship/IronBlood/Gneisenau.png) | ![Scharnhorst](/Icons/Ship/IronBlood/Scharnhorst.png) <br/>
 
 ![28.3cm](/Icons/Equipment/Guns/BB/28.3cmSKC34.png)
-![15cmTbtskC36](/Icons/Equipment/Guns/CL/15cmTbtskC36.png)
+![15cmTbtskC36](/Icons/Equipment/Guns/CL/15cmTbtsKC36.png)
 ![10.5cmSKC33NA](/Icons/Equipment/AA/10.5cmSKC33NA.png)
 ![FuMo25](/Icons/Equipment/Auxiliary/FuMo25.png)
 ![FireControlRadar](/Icons/Equipment/Auxiliary/FireControlRadar.png) <br/>
