@@ -41,7 +41,7 @@ Light Cruiser (Project) <br/>
 #### Members of Class: <br/>
 Mainz | ...
 | ----- | ----- |
-![Leipzig](/Icons/Ship/IronBlood/Leipzig.png) | ... <br/>
+![Mainz](/Icons/Ship/IronBlood/Mainz.png) | ... <br/>
 
 ![15cmC25](/Icons/Equipment/Guns/CL/15cmSKC25.png)
 ![G7aTriple](/Icons/Equipment/Torpedo/Surface/53.3cmG7aTriple.png)
