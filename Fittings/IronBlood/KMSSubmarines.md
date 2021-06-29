@@ -18,7 +18,7 @@ U-47 | U-73 | U-101
 ![G7a](/Icons/Equipment/Torpedo/Submarine/53.3cmG7a.png)
 ![76mmSingle](/Icons/Equipment/Guns/DD/3in50.png)
 ![SubmarineSnorkel](/Icons/Equipment/Auxiliary/SubmarineSnorkel.png)
-![Pressurehull](/Icons/Equipment/Auxiliary/Pressurehull.png) <br/>
+![PressureHull](/Icons/Equipment/Auxiliary/PressureHull.png) <br/>
 
 * The G7a torpedo was widely used on Type VII and Type IX submarines up until around 1942 when it was surpassed by the G7e, a homing torpedo that produced no wake. Additionally, there is no single 8.8cm gun to use in their gun slot so I have approximated with the likely closest performer. 
 
@@ -28,7 +28,7 @@ U-47 | U-73 | U-101
 ![G7a](/Icons/Equipment/Torpedo/Submarine/53.3cmG7e.png)
 ![76mmSingle](/Icons/Equipment/Guns/DD/3in50.png)
 ![SubmarineSnorkel](/Icons/Equipment/Auxiliary/SubmarineSnorkel.png)
-![Pressurehull](/Icons/Equipment/Auxiliary/Pressurehull.png) <br/>
+![PressureHull](/Icons/Equipment/Auxiliary/PressureHull.png) <br/>
 
 ##### Alternative Auxiliary Equipment
 * German submarines often used diesel generators to charge batteries during the night, which let them operate silently during the day.
@@ -47,7 +47,7 @@ U-81 | U-96 | U-556 | U-557
 ![G7a](/Icons/Equipment/Torpedo/Submarine/53.3cmG7e.png)
 ![76mmSingle](/Icons/Equipment/Guns/DD/3in50.png)
 ![SubmarineSnorkel](/Icons/Equipment/Auxiliary/SubmarineSnorkel.png)
-![Pressurehull](/Icons/Equipment/Auxiliary/Pressurehull.png) <br/>
+![PressureHull](/Icons/Equipment/Auxiliary/PressureHull.png) <br/>
 
 ##### Special Equipment
 * The Unfulfilled Promise is in reference to a document given to the Bismarck by U-556 on their launch, as they launched on the same day.
@@ -66,7 +66,7 @@ U-37 | ...
 ![G7a](/Icons/Equipment/Torpedo/Submarine/53.3cmG7e.png)
 ![4inMk5](/Icons/Equipment/Guns/DD/Single4inMkV.png)
 ![SubmarineSnorkel](/Icons/Equipment/Auxiliary/SubmarineSnorkel.png)
-![Pressurehull](/Icons/Equipment/Auxiliary/Pressurehull.png) <br/>
+![PressureHull](/Icons/Equipment/Auxiliary/PressureHull.png) <br/>
 
 ### Type IXB
 
@@ -81,7 +81,7 @@ U-110 | ...
 ![G7a](/Icons/Equipment/Torpedo/Submarine/53.3cmG7e.png)
 ![4inMk5](/Icons/Equipment/Guns/DD/Single4inMkV.png)
 ![SubmarineSnorkel](/Icons/Equipment/Auxiliary/SubmarineSnorkel.png)
-![Pressurehull](/Icons/Equipment/Auxiliary/Pressurehull.png) <br/>
+![PressureHull](/Icons/Equipment/Auxiliary/PressureHull.png) <br/>
 
 ### Type IXC
 
@@ -96,4 +96,4 @@ U-522 | ...
 ![G7a](/Icons/Equipment/Torpedo/Submarine/53.3cmG7e.png)
 ![4inMk5](/Icons/Equipment/Guns/DD/Single4inMkV.png)
 ![SubmarineSnorkel](/Icons/Equipment/Auxiliary/SubmarineSnorkel.png)
-![Pressurehull](/Icons/Equipment/Auxiliary/Pressurehull.png) <br/>
+![PressureHull](/Icons/Equipment/Auxiliary/PressureHull.png) <br/>
