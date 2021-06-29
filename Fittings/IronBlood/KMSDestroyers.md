@@ -84,7 +84,7 @@ Z46 | ...
 | ----- | ----- |
 ![Z46](/Icons/Ship/IronBlood/Z46.png) | ... <br/>
 
-![12.8cmSKC41(/Icons/Equipment/Guns/DD/12.8cmSKC41.png)
+![12.8cmSKC41](/Icons/Equipment/Guns/DD/12.8cmSKC41.png)
 ![53.3cmG7aQuad](/Icons/Equipment/Torpedo/Surface/53.3cmG7aQuad.png)
 ![3.7cmSKC30](/Icons/Equipment/AA/3.7cmSKC30.png)
 ![RepairKit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
