@@ -43,7 +43,7 @@ Aircraft Carrier (Fleet) <br/>
 #### Members of Class: <br/>
 Ark Royal | ...
 | ----- | ----- |
-![Ark Royal](/Icons/Ship/RoyalNavy/Ark_Royal .png) | ... <br/>
+![Ark Royal](/Icons/Ship/RoyalNavy/Ark_Royal.png) | ... <br/>
 
 
 ![FaireySwordfish818](/Icons/Equipment/Aircraft/Torpedo/FaireySwordfish818.png)
@@ -65,7 +65,7 @@ Aircraft Carrier (Fleet) <br/>
 
 #### Members of Class: <br/>
 Formidable | Illustrious | Little Illustrious | Victorious
-| ----- | ----- | ----- | ----- | ----- |
+| ----- | ----- | ----- | -----
 ![Formidable](/Icons/Ship/RoyalNavy/Formidable.png) | ![Illustrious](/Icons/Ship/RoyalNavy/Illustrious.png) | ![Little Illustrious](/Icons/Ship/RoyalNavy/Little_Illustrious.png) | ![Victorious](/Icons/Ship/RoyalNavy/Victorious.png) <br/>
 
 
