@@ -88,7 +88,6 @@ Nelson | Rodney
 | ----- | ----- |
 ![Nelson](/Icons/Ship/RoyalNavy/Nelson.png) | ![Rodney](/Icons/Ship/RoyalNavy/Rodney.png)  <br/>
 
-<img src="Icons/Equipment/Guns/BB/16in46MkI.png" width="128">
 ![16in46MkI](/Icons/Equipment/Guns/BB/16in46MkI.png)
 ![6in50MkXXIIT](/Icons/Equipment/Guns/CL/6in50MkXXIIT.png)
 ![4in45MkV](/Icons/Equipment/AA/4in45MkV.png)
@@ -105,7 +104,6 @@ Duke of York | Howe | King George V | Prince of Wales
 | ----- | ----- | ----- | ----- |
 ![DukeofYork](/Icons/Ship/RoyalNavy/Duke_of_York.png) | ![Howe](/Icons/Ship/RoyalNavy/Howe.png) | ![King George V](/Icons/Ship/RoyalNavy/King_George_V.png) | ![Prince of Wales](/Icons/Ship/RoyalNavy/Prince_of_Wales.png)     <br/>
 
-<img src="Icons/Equipment/Guns/BB/14in45MkVII.png" width="128">
 ![14in45MkVII](/Icons/Equipment/Guns/BB/14in45MkVII.png)
 ![5.25in50MkII](/Icons/Equipment/Guns/DD/5.25in50MkII.png)
 ![Octuple40mmPomPom](/Icons/Equipment/AA/Octuple40mmPomPom.png)
@@ -121,7 +119,6 @@ Monarch | ...
 | ----- | ----- |
 ![Monarch](/Icons/Ship/RoyalNavy/Monarch.png) | ...  <br/>
 
-<img src="Icons/Equipment/Guns/BB/15in45MkIII.png" width="128">
 ![15in45MkIII](/Icons/Equipment/Guns/BB/15in45MkIII.png)
 ![5.25in50MkII](/Icons/Equipment/Guns/DD/5.25in50MkII.png)
 ![Sextuple40mmBofors](/Icons/Equipment/AA/Sextuple40mmBofors.png)
