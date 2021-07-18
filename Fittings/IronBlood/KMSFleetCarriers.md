@@ -38,7 +38,7 @@ Graf Zeppelin | Peter Strasser | Zeppy
 
 ### August Von Parseval Class
 
-Aircraft Carrier (Fleet) <br/>
+Aircraft Carrier (Fleet, Project) <br/>
 
 #### Members of Class: <br/>
 August von Parseval | ...

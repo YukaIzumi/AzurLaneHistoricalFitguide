@@ -196,7 +196,7 @@ Shinano | ...
 
 ### Project G-15 "Taihou-Kai"
 
-Aircraft Carrier (Fleet, Armored)
+Aircraft Carrier (Fleet, Project)
 #### Members of Class: <br/>
 Hakuryuu | ...
 | ----- | ----- |
