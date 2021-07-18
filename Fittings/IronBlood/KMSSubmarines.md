@@ -39,9 +39,9 @@ U-47 | U-73 | U-101
 Submarine <br/>
 
 #### Members of Class: <br/>
-U-81 | U-96 | U-556 | U-557
-| ----- | ----- | ----- | ----- | 
-![U-81](/Icons/Ship/IronBlood/U-81.png) | ![U-96](/Icons/Ship/IronBlood/U-96.png) | ![U-556](/Icons/Ship/IronBlood/U-556.png) | ![U-557](/Icons/Ship/IronBlood/U-557.png) <br/>
+U-81 | U-96 | U-410 | U-556 | U-557
+| ----- | ----- | ----- | ----- |  ----- | 
+![U-81](/Icons/Ship/IronBlood/U-81.png) | ![U-96](/Icons/Ship/IronBlood/U-96.png) | ![U-410](/Icons/Ship/IronBlood/U-410.png) | ![U-556](/Icons/Ship/IronBlood/U-556.png) | ![U-557](/Icons/Ship/IronBlood/U-557.png) <br/>
 
 ![G7a](/Icons/Equipment/Torpedo/Submarine/53.3cmG7e.png)
 ![G7a](/Icons/Equipment/Torpedo/Submarine/53.3cmG7e.png)
