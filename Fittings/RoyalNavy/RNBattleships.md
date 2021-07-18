@@ -88,7 +88,7 @@ Nelson | Rodney
 | ----- | ----- |
 ![Nelson](/Icons/Ship/RoyalNavy/Nelson.png) | ![Rodney](/Icons/Ship/RoyalNavy/Rodney.png)  <br/>
 
-![16in46MkI](/Icons/Equipment/Guns/BB/16in46MkI.png)
+![16in46MkI](/Icons/Equipment/Guns/BB/16in46MkI.png =128x)
 ![6in50MkXXIIT](/Icons/Equipment/Guns/CL/6in50MkXXIIT.png)
 ![4in45MkV](/Icons/Equipment/AA/4in45MkV.png)
 ![Rammer](/Icons/Equipment/Auxiliary/Rammer.png)
@@ -104,7 +104,7 @@ Duke of York | Howe | King George V | Prince of Wales
 | ----- | ----- | ----- | ----- |
 ![DukeofYork](/Icons/Ship/RoyalNavy/Duke_of_York.png) | ![Howe](/Icons/Ship/RoyalNavy/Howe.png) | ![King George V](/Icons/Ship/RoyalNavy/King_George_V.png) | ![Prince of Wales](/Icons/Ship/RoyalNavy/Prince_of_Wales.png)     <br/>
 
-![14in45MkVII](/Icons/Equipment/Guns/BB/14in45MkVII.png)
+![14in45MkVII](/Icons/Equipment/Guns/BB/14in45MkVII.png =128x)
 ![5.25in50MkII](/Icons/Equipment/Guns/DD/5.25in50MkII.png)
 ![Octuple40mmPomPom](/Icons/Equipment/AA/Octuple40mmPomPom.png)
 ![Rammer](/Icons/Equipment/Auxiliary/Rammer.png)
@@ -119,7 +119,7 @@ Monarch | ...
 | ----- | ----- |
 ![Monarch](/Icons/Ship/RoyalNavy/Monarch.png) | ...  <br/>
 
-![15in45MkIII](/Icons/Equipment/Guns/BB/15in45MkIII.png)
+![15in45MkIII](/Icons/Equipment/Guns/BB/15in45MkIII.png =128x)
 ![5.25in50MkII](/Icons/Equipment/Guns/DD/5.25in50MkII.png)
 ![Sextuple40mmBofors](/Icons/Equipment/AA/Sextuple40mmBofors.png)
 ![FireControlRadar](/Icons/Equipment/Auxiliary/FireControlRadar.png)
