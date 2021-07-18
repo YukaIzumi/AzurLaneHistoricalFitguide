@@ -93,3 +93,18 @@ Baltimore | Bremerton
 ![Quad40mmBofors](/Icons/Equipment/AA/Quad40mmUSN.png)
 ![SGRadar](/Icons/Equipment/Auxiliary/SGRadar.png)
 ![FireControlRadar](/Icons/Equipment/Auxiliary/FireControlRadar.png)  <br/>
+
+### Anchorage Class
+
+Heavy Cruiser (Project)
+
+#### Members of Class: <br/>
+Anchorage | ....
+| ----- | ----- |
+![Anchorage](/Icons/Ship/EagleUnion/Anchorage.png) |      ...        <br/>
+
+![8inMk15](/Icons/Equipment/Guns/CA/Triple8inMk15.png)
+![Quadruple21in](/Icons/Equipment/Torpedo/Surface/21inQuadrupleUSN.png)
+![Quad28mm](/Icons/Equipment/AA/Quad1in.png)
+![SGRadar](/Icons/Equipment/Auxiliary/SGRadar.png)
+![FireControlRadar](/Icons/Equipment/Auxiliary/FireControlRadar.png) <br/>

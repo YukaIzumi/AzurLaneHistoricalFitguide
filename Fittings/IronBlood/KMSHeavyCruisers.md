@@ -21,7 +21,7 @@ Admiral Hipper | Lutzow | Prinz Eugen
 
 ### Deutschland Class
 
-Heavy Cruiser <br/>
+Battlecruiser <br/>
 
 #### Members of Class: <br/>
 Deutschland | Admiral Graf Spee
@@ -36,7 +36,7 @@ Deutschland | Admiral Graf Spee
 
 ### P Class
 
-Heavy Cruiser (Project) <br/>
+Battlecruiser (Project) <br/>
 
 #### Members of Class: <br/>
 Prinz Heinrich | ...
@@ -59,6 +59,21 @@ Roon | ...
 ![Roon](/Icons/Ship/IronBlood/Roon.png) | ... <br/>
 
 ![20.3cmSKC34Prototype](/Icons/Equipment/Guns/CA/20.3cmSKC34Prototype.png)
+![G7aQuad](/Icons/Equipment/Torpedo/Surface/53.3cmG7aQuad.png)
+![10.5cmSKC33NA](/Icons/Equipment/AA/10.5cmSKC33NA.png)
+![TorpedoBulge](/Icons/Equipment/Auxiliary/TorpedoBulge.png)
+![FuMo25](/Icons/Equipment/Auxiliary/FuMo25.png) <br/>
+
+### Agir Class
+
+Battlecruiser (Project) <br/>
+
+#### Members of Class: <br/>
+Agir | ...
+| ----- | ----- |
+![Agir](/Icons/Ship/IronBlood/Agir.png) | ... <br/>
+
+![30.5cmSKC39](/Icons/Equipment/Guns/CB/30.5cmSKC39.png)
 ![G7aQuad](/Icons/Equipment/Torpedo/Surface/53.3cmG7aQuad.png)
 ![10.5cmSKC33NA](/Icons/Equipment/AA/10.5cmSKC33NA.png)
 ![TorpedoBulge](/Icons/Equipment/Auxiliary/TorpedoBulge.png)

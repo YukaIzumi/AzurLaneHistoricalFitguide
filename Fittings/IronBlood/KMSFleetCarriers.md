@@ -35,3 +35,19 @@ Graf Zeppelin | Peter Strasser | Zeppy
 ##### Additional Information
 * A special variant of the Focke-Wulfe 109 was built for carrier usage. It was built and did fly, albeit not from a carrier. <br/>
 ![FW109](/Icons/Equipment/Aircraft/Fighter/FW109.png)
+
+### August Von Parseval Class
+
+Aircraft Carrier (Fleet) <br/>
+
+#### Members of Class: <br/>
+August von Parseval | ...
+| ----- | 
+![August von Parseval](/Icons/Ship/IronBlood/August_von_Parseval.png) | ... <br/>
+
+
+![MEBF109T](/Icons/Equipment/Aircraft/Fighter/MEBF109G.png)
+![JU87](/Icons/Equipment/Aircraft/Bomber/JU87.png)
+![JU87D](/Icons/Equipment/Aircraft/Torpedo/JU87D.png)
+![SteamCatapult](/Icons/Equipment/Auxiliary/SteamCatapult.png)
+![AirRadar](/Icons/Equipment/Auxiliary/AirRadar.png) <br/>

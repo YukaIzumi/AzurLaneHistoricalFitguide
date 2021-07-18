@@ -193,3 +193,17 @@ Shinano | ...
 
 * Shinano is a conversion of the Yamato class battleships, which employed VH armor plating as part of their protection scheme.<br/>
 ![VHPlate](/Icons/Equipment/Auxiliary/VHPlate.png) <br/>
+
+### Project G-15 "Taihou-Kai"
+
+Aircraft Carrier (Fleet, Armored)
+#### Members of Class: <br/>
+Hakuryuu | ...
+| ----- | ----- |
+![Hakuryuu](/Icons/Ship/SakuraEmpire/Hakuryuu.png) | ...  <br/>
+
+![A7M](/Icons/Equipment/Aircraft/Fighter/A7M.png)
+![J5N](/Icons/Equipment/Aircraft/Bomber/J5N.png)
+![C6N](/Icons/Equipment/Aircraft/Torpedo/C6N.png)
+![SteamCatapult](/Icons/Equipment/Auxiliary/SteamCatapult.png)
+![SteamCatapult](/Icons/Equipment/Auxiliary/DropTank.png) <br/>
