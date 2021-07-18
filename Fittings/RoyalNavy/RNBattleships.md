@@ -14,7 +14,7 @@ Erebus | Terror
 ![Erebus](/Icons/Ship/RoyalNavy/Erebus.png) | ![Terror](/Icons/Ship/RoyalNavy/Terror.png) <br/>
 
 ![15in42MkI](/Icons/Equipment/Guns/BB/15in42MkI.png)
-![Single5in38Mk21](/Icons/Equipment/Guns/DD/5in38Mk21.png)
+![3in50](/Icons/Equipment/Guns/DD/3in50.png)
 ![3in50Mk22](/Icons/Equipment/AA/3in50Mk22.png)
 ![Rammer](/Icons/Equipment/Auxiliary/Rammer.png)
 ![FireControlRadar](/Icons/Equipment/Auxiliary/FireControlRadar.png) <br/>
@@ -58,7 +58,7 @@ Lil Renown | Renown | Repulse
 | ----- | ----- | ----- |
 ![Lil Renown](/Icons/Ship/RoyalNavy/Lil_Renown.png) | ![Renown](/Icons/Ship/RoyalNavy/Renown.png) | ![Repulse](/Icons/Ship/RoyalNavy/Repulse.png) <br/>
 
-![15in42MkII](/Icons/Equipment/Guns/BB/16in45Mk8.png)
+![15in42MkII](/Icons/Equipment/Guns/BB/15in42MkII.png)
 ![4in45MkIX](/Icons/Equipment/Guns/DD/4in45MkIX.png)
 ![3in50Mk22](/Icons/Equipment/AA/3in50Mk22.png)
 ![Rammer](/Icons/Equipment/Auxiliary/Rammer.png)
@@ -73,7 +73,7 @@ Hood | ...
 | ----- | ----- |
 ![Hood](/Icons/Ship/RoyalNavy/Hood.png) | ... <br/>
 
-![15in42MkII](/Icons/Equipment/Guns/BB/16in45Mk6.png)
+![15in42MkII](/Icons/Equipment/Guns/BB/15in42MkII.png)
 ![4in45MkXVI](/Icons/Equipment/Guns/DD/4in45MkXVI.png)
 ![Octuple40mmPomPom](/Icons/Equipment/AA/Octuple40mmPomPom.png)
 ![Rammer](/Icons/Equipment/Auxiliary/Rammer.png)
