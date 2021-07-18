@@ -29,7 +29,7 @@ Acasta | Amazon | Ardent | Beagle | Bulldog
 | ------ | ------ | ------ | ------ | ------ |
 ![Acasta](/Icons/Ship/RoyalNavy/Acasta.png) | ![Amazon](/Icons/Ship/RoyalNavy/Amazon.png) | ![Ardent](/Icons/Ship/RoyalNavy/Ardent.png) | ![Beagle](/Icons/Ship/RoyalNavy/Beagle.png) | ![Bulldog](/Icons/Ship/RoyalNavy/Bulldog.png) <br/>
 
-![Single5in38Mk21](/Icons/Equipment/Guns/DD/4.7in45MkIX.png)
+![Single4.7in38MkIX](/Icons/Equipment/Guns/DD/4.7in45MkIX.png)
 ![Triple21in](/Icons/Equipment/Torpedo/Surface/Triple21inMkIX.png)
 ![0.5inAAMG](/Icons/Equipment/AA/0.5inAAMG.png)
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
@@ -44,7 +44,7 @@ Comet | Crescent | Cygnet
 | ------ | ------ | ------ |
 ![Comet](/Icons/Ship/RoyalNavy/Comet.png) | ![Crescent](/Icons/Ship/RoyalNavy/Crescent.png) | ![Cygnet](/Icons/Ship/RoyalNavy/Cygnet.png) <br/>
 
-![Single5in38Mk21](/Icons/Equipment/Guns/DD/5in38Mk21.png)
+![Single4.7in38MkIX](/Icons/Equipment/Guns/DD/4.7in45MkIX.png)
 ![Triple21in](/Icons/Equipment/Torpedo/Surface/Triple21inMkIX.png)
 ![0.5inAAMG](/Icons/Equipment/AA/0.5inAAMG.png)
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
@@ -59,7 +59,7 @@ Echo | Fortune | Foxhound
 | ------ | ------ | ------ 
 ![Echo](/Icons/Ship/RoyalNavy/Echo.png) | ![Fortune](/Icons/Ship/RoyalNavy/Fortune.png) | ![Foxhound](/Icons/Ship/RoyalNavy/Foxhound.png) <br/>
 
-![Single5in38Mk21](/Icons/Equipment/Guns/DD/5in38Mk21.png)
+![Single4.7in38MkIX](/Icons/Equipment/Guns/DD/4.7in45MkIX.png)
 ![Quad21in](/Icons/Equipment/Torpedo/Surface/Quadruple21inMkIX.png)
 ![0.5inAAMG](/Icons/Equipment/AA/0.5inAAMG.png)
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
@@ -74,7 +74,7 @@ Glowworm | Grenville | Hardy | Hunter
 | ------ | ------ | ------ | ------ |
 ![Glowworm](/Icons/Ship/RoyalNavy/Glowworm.png) | ![Grenville](/Icons/Ship/RoyalNavy/Grenville.png) | ![Hardy](/Icons/Ship/RoyalNavy/Hardy.png) | ![Hunter](/Icons/Ship/RoyalNavy/Hunter.png) <br/>
 
-![Single5in38Mk21](/Icons/Equipment/Guns/DD/5in38Mk21.png)
+![Single4.7in38MkIX](/Icons/Equipment/Guns/DD/4.7in45MkIX.png)
 ![Quad21in](/Icons/Equipment/Torpedo/Surface/Quadruple21inMkIX.png)
 ![0.5inAAMG](/Icons/Equipment/AA/0.5inAAMG.png)
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
@@ -90,7 +90,7 @@ Icarus | ...
 ![Icarus](/Icons/Ship/RoyalNavy/Icarus.png) | ... <br/>
 
 
-![Single5in38Mk21](/Icons/Equipment/Guns/DD/5in38Mk21.png)
+![Single4.7in38MkIX](/Icons/Equipment/Guns/DD/4.7in45MkIX.png)
 ![Quint21in](/Icons/Equipment/Torpedo/Surface/Quintuple21inMkIX.png)
 ![20mm](/Icons/Equipment/AA/20mmOerlikon.png)
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
