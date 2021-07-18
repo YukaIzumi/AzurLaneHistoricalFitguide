@@ -11,7 +11,7 @@ Monitor <br/>
 #### Members of Class: <br/>
 Erebus | Terror
 | ----- | ----- |
-![Erebus](/Icons/Ship/EagleUnion/Erebus.png) | ![Terror](/Icons/Ship/EagleUnion/Terror.png) <br/>
+![Erebus](/Icons/Ship/RoyalNavy/Erebus.png) | ![Terror](/Icons/Ship/RoyalNavy/Terror.png) <br/>
 
 ![15in42MkI](/Icons/Equipment/Guns/BB/15in42MkI.png)
 ![Single5in38Mk21](/Icons/Equipment/Guns/DD/5in38Mk21.png)
@@ -26,7 +26,7 @@ Monitor <br/>
 #### Members of Class: <br/>
 Abercrombie | ...
 | ----- | ----- |
-![Abercrombie](/Icons/Ship/EagleUnion/Abercrombie.png) | ... <br/>
+![Abercrombie](/Icons/Ship/RoyalNavy/Abercrombie.png) | ... <br/>
 
 ![15in42MkI](/Icons/Equipment/Guns/BB/15in42MkI.png)
 ![4in45MkXVI](/Icons/Equipment/Guns/DD/4in45MkXVI.png)
@@ -41,7 +41,7 @@ Battleship (Dreadnought) <br/>
 #### Members of Class: <br/>
 Queen Elizabeth | Valiant | Warspite
 | ----- | ----- | ----- |
-![Queen Elizabeth](/Icons/Ship/EagleUnion/Queen_Elizabeth.png) | ![Valiant](/Icons/Ship/EagleUnion/Valiant.png) | ![Warspite](/Icons/Ship/EagleUnion/Warspite.png)<br/>
+![Queen Elizabeth](/Icons/Ship/RoyalNavy/Queen_Elizabeth.png) | ![Valiant](/Icons/Ship/RoyalNavy/Valiant.png) | ![Warspite](/Icons/Ship/RoyalNavy/Warspite.png)<br/>
 
 ![15in42MkI](/Icons/Equipment/Guns/BB/15in42MkI.png)
 ![6inMkXII](/Icons/Equipment/Guns/CL/6inMkXII.png)
@@ -56,7 +56,7 @@ Battlecruiser <br/>
 #### Members of Class: <br/>
 Lil Renown | Renown | Repulse
 | ----- | ----- | ----- |
-![Lil Renown](/Icons/Ship/EagleUnion/Lil_Renown.png) | ![Renown](/Icons/Ship/EagleUnion/Renown.png) | ![Repulse](/Icons/Ship/EagleUnion/Repulse.png) <br/>
+![Lil Renown](/Icons/Ship/RoyalNavy/Lil_Renown.png) | ![Renown](/Icons/Ship/RoyalNavy/Renown.png) | ![Repulse](/Icons/Ship/RoyalNavy/Repulse.png) <br/>
 
 ![15in42MkII](/Icons/Equipment/Guns/BB/16in45Mk8.png)
 ![4in45MkIX](/Icons/Equipment/Guns/DD/4in45MkIX.png)
@@ -71,7 +71,7 @@ Battleship (Dreadnought) <br/>
 #### Members of Class: <br/>
 Hood | ...
 | ----- | ----- |
-![Hood](/Icons/Ship/EagleUnion/Hood.png) | ... <br/>
+![Hood](/Icons/Ship/RoyalNavy/Hood.png) | ... <br/>
 
 ![15in42MkII](/Icons/Equipment/Guns/BB/16in45Mk6.png)
 ![4in45MkXVI](/Icons/Equipment/Guns/DD/4in45MkXVI.png)
@@ -86,7 +86,7 @@ Battleship <br/>
 #### Members of Class: <br/>
 Nelson | Rodney
 | ----- | ----- |
-![Nelson](/Icons/Ship/EagleUnion/Nelson.png) | ![Rodney](/Icons/Ship/EagleUnion/Rodney.png)  <br/>
+![Nelson](/Icons/Ship/RoyalNavy/Nelson.png) | ![Rodney](/Icons/Ship/RoyalNavy/Rodney.png)  <br/>
 
 ![16in46MkI](/Icons/Equipment/Guns/BB/16in46MkI.png)
 ![6in50MkXXIIT](/Icons/Equipment/Guns/CL/6in50MkXXIIT.png)
@@ -102,7 +102,7 @@ Battleship <br/>
 #### Members of Class: <br/>
 Duke of York | Howe | King George V | Prince of Wales
 | ----- | ----- | ----- | ----- |
-![DukeofYork](/Icons/Ship/EagleUnion/Duke_of_York.png) | ![Howe](/Icons/Ship/EagleUnion/Howe.png) | ![King George V](/Icons/Ship/EagleUnion/King_George_V.png) | ![Prince of Wales](/Icons/Ship/EagleUnion/Prince_of_Wales.png)     <br/>
+![DukeofYork](/Icons/Ship/RoyalNavy/Duke_of_York.png) | ![Howe](/Icons/Ship/RoyalNavy/Howe.png) | ![King George V](/Icons/Ship/RoyalNavy/King_George_V.png) | ![Prince of Wales](/Icons/Ship/RoyalNavy/Prince_of_Wales.png)     <br/>
 
 ![14in45MkVII](/Icons/Equipment/Guns/BB/14in45MkVII.png)
 ![5.25in50MkII](/Icons/Equipment/Guns/DD/5.25in50MkII.png)

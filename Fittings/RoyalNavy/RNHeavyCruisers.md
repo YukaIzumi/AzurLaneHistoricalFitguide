@@ -11,7 +11,7 @@ Heavy Cruiser <br/>
 #### Members of Class: <br/>
 Dorsetshire | Kent | London | Norfolk | Shropshire | Suffolk | Sussex
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-![Dorsetshire](/Icons/Ship/EagleUnion/Dorsetshire.png) | ![Kent](/Icons/Ship/EagleUnion/Kent.png)| ![London](/Icons/Ship/EagleUnion/London.png)| ![Norfolk](/Icons/Ship/EagleUnion/Norfolk.png)| ![Shropshire](/Icons/Ship/EagleUnion/Shropshire.png)| ![Suffolk](/Icons/Ship/EagleUnion/Suffolk.png)| ![Sussex](/Icons/Ship/EagleUnion/Sussex.png)|  <br/>
+![Dorsetshire](/Icons/Ship/RoyalNavy/Dorsetshire.png) | ![Kent](/Icons/Ship/RoyalNavy/Kent.png)| ![London](/Icons/Ship/RoyalNavy/London.png)| ![Norfolk](/Icons/Ship/RoyalNavy/Norfolk.png)| ![Shropshire](/Icons/Ship/RoyalNavy/Shropshire.png)| ![Suffolk](/Icons/Ship/RoyalNavy/Suffolk.png)| ![Sussex](/Icons/Ship/RoyalNavy/Sussex.png)|  <br/>
 
 ![8in50MkVIII](/Icons/Equipment/Guns/CA/8in50MkVIII.png)
 ![Quad21in](/Icons/Equipment/Torpedo/Surface/Quadruple21inMkIX.png)
@@ -26,7 +26,7 @@ Heavy Cruiser <br/>
 #### Members of Class: <br/>
 Exeter | York
 | -----  | ----- |
-![Exeter](/Icons/Ship/EagleUnion/Exeter.png) | ![York](/Icons/Ship/EagleUnion/York.png) <br/>
+![Exeter](/Icons/Ship/RoyalNavy/Exeter.png) | ![York](/Icons/Ship/RoyalNavy/York.png) <br/>
 
 ![8in50MkVIII](/Icons/Equipment/Guns/CA/8in50MkVIII.png)
 ![Triple21in](/Icons/Equipment/Torpedo/Surface/Triple21inMkIX.png)
@@ -41,7 +41,7 @@ Heavy Cruiser (Project)<br/>
 #### Members of Class: <br/>
 Cheshire | ....
 | ----- | ----- |
-![Cheshire](/Icons/Ship/EagleUnion/Cheshire.png) | ... <br/>
+![Cheshire](/Icons/Ship/RoyalNavy/Cheshire.png) | ... <br/>
 
 ![9.2inMkXII](/Icons/Equipment/Guns/CA/9.2inMkXII.png)
 ![Quad21in](/Icons/Equipment/Torpedo/Surface/Quadruple21inMkIX.png)
@@ -56,7 +56,7 @@ Light Cruiser (Project)<br/>
 #### Members of Class: <br/>
 Drake | ....
 | ----- | ----- |
-![Drake](/Icons/Ship/EagleUnion/Drake.png) | ... <br/>
+![Drake](/Icons/Ship/RoyalNavy/Drake.png) | ... <br/>
 
 ![9.2inMkXIIB](/Icons/Equipment/Guns/CA/9.2inMkXIIB.png)
 ![Quad21in](/Icons/Equipment/Torpedo/Surface/Quadruple21inMkIX.png)
