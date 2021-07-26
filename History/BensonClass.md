@@ -87,7 +87,6 @@ Armament Type | Name |
 ![DC](/Icons/Equipment/Auxiliary/DepthCharge.png) | Depth charge K-gun projector x 4-6, mounted rear third of ship, 3 per side.
 ![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge rack x 2, mounted aft. <br/>
 
-
 #### Sensor Equipment
 
 Type | Name |

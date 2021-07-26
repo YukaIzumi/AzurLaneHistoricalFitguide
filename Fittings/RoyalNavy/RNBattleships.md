@@ -34,7 +34,7 @@ Abercrombie | ...
 ![Rammer](/Icons/Equipment/Auxiliary/Rammer.png)
 ![FireControlRadar](/Icons/Equipment/Auxiliary/FireControlRadar.png) <br/>
 
-### Queen Elizabeth Class
+### [Queen Elizabeth Class](/History/QueenElizabethClass.md)
 
 Battleship (Dreadnought) <br/>
 
@@ -49,7 +49,7 @@ Queen Elizabeth | Valiant | Warspite
 ![Rammer](/Icons/Equipment/Auxiliary/Rammer.png)
 ![FireControlRadar](/Icons/Equipment/Auxiliary/FireControlRadar.png) <br/>
 
-### Renown Class
+### [Renown Class](/History/RenownClass.md)
 
 Battlecruiser <br/>
 
