@@ -64,7 +64,7 @@ Armament Type | Name |
 ![15in42MkII](/Icons/Equipment/Guns/BB/15in42MkII.png) | Twin 15"42 Mk I x 3, in ABX arrangement.
 ![4.5in45MkI](/Icons/Equipment/AA/4.5in45MkI.png) | Twin 4.5"45 QF Mk II X 10.
 ![Octuple40mmPomPom](/Icons/Equipment/AA/Octuple40mmPomPom.png) | Octuple QF 2lb Pom-Pom x 3.
-![Octuple40mmPomPom](/Icons/Equipment/AA/Quadruple40mmPomPom.png) | Quadruple QF 2lb Pom-Pom x 1.
+![Quad40PomPom](/Icons/Equipment/AA/Quad40mmPomPom.png) | Quadruple QF 2lb Pom-Pom x 1.
 ![20mmOerlikonT](/Icons/Equipment/AA/20mmOerlikonT.png) | Twin 20mm Oerlikon x 23.
 ![20mmOerlikon](/Icons/Equipment/AA/20mmOerlikon.png) | 20mm Oerlikon x 26.<br/>
 
