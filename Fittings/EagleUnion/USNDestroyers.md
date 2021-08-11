@@ -125,7 +125,7 @@ Destroyer <br/>
 #### Members of Class: <br/>
 Allen M. Sumner | Cooper | Ingraham <br/>
 | ------ | ------ | ------ |
-![AllenMSumner](/Icons/Ship/EagleUnion/AllenMSumner.png) | ![Cooper](/Icons/Ship/EagleUnion/Ingraham.png) | ![Ingraham](/Icons/Ship/EagleUnion/Ingraham.png) <br/>
+![AllenMSumner](/Icons/Ship/EagleUnion/AllenMSumner.png) | ![Cooper](/Icons/Ship/EagleUnion/Cooper.png) | ![Ingraham](/Icons/Ship/EagleUnion/Ingraham.png) <br/>
 
 ![Twin5in38](/Icons/Equipment/Guns/DD/5in38Mk38.png)
 ![Quintuple21in](/Icons/Equipment/Torpedo/Surface/21inQuintupleUSN.png)
