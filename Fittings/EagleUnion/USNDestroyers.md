@@ -115,7 +115,7 @@ Aulick | Bache | Bush | Charles Ausburne | Fletcher | Foote | Halsey Powell | Ha
 ##### Special Gear <br/>
 
 
-* The "Little Beaver Squadron" badge belongs to the Fletcher class, specifically  Destroyer Squadron 23, consisting of Charles Ausburne, Claxton, Dyson, Stanly, Converse, Foote, Spence, and Thatcher. It was one of few (if any) destroyer squadrons awared a group Presidential Unit Citation for its record under Capt. Arleigh Burke over 17 weeks at the close of the campaign in the Solomon Islands.
+* The "Little Beaver Squadron" badge belongs to the Fletcher class, specifically  Destroyer Squadron 23, consisting of Charles Ausburne, Claxton, Dyson, Stanly, Converse, Foote, Spence, and Thatcher. It was one of few (if any) destroyer squadrons awared a group Presidential Unit Citation for its record under Capt. Arleigh Burke over 17 weeks at the close of the campaign in the Solomon Islands.  <br/>
 ![LittleBeaver](/Icons/Equipment/Auxiliary/BeaverBadge.png) <br/>
 
 ### Allen M. Sumner Class <br/>
@@ -125,7 +125,7 @@ Destroyer <br/>
 #### Members of Class: <br/>
 Allen M. Sumner | Cooper | Ingraham <br/>
 | ------ | ------ | ------ |
-![AllenMSumner](/Icons/Ship/EagleUnion/AllenMSumner.png) | ![Cooper](/Icons/Ship/EagleUnion/Ingraham.png) | ![Cooper](/Icons/Ship/EagleUnion/Ingraham.png) <br/>
+![AllenMSumner](/Icons/Ship/EagleUnion/AllenMSumner.png) | ![Cooper](/Icons/Ship/EagleUnion/Ingraham.png) | ![Ingraham](/Icons/Ship/EagleUnion/Ingraham.png) <br/>
 
 ![Twin5in38](/Icons/Equipment/Guns/DD/5in38Mk38.png)
 ![Quintuple21in](/Icons/Equipment/Torpedo/Surface/21inQuintupleUSN.png)
