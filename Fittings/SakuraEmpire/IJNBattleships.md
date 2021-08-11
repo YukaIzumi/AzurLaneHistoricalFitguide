@@ -16,7 +16,7 @@ Mikasa | ...
 ![Mikasa](/Icons/Ship/SakuraEmpire/Mikasa.png) | ... <br/>
 
 ![30cm](/Icons/Equipment/Guns/BB/40Caliber41stYearType30cm.png)
-![Single140](/Icons/Equipment/Guns/CL/50Caliber3rdYearType14cm.png)
+![6in50Vickers](/Icons/Equipment/Guns/CL/6in50VickersMkM.png)
 ![120mm45](/Icons/Equipment/Guns/DD/45CaliberType1012cm.png)
 ![Type91AP](/Icons/Equipment/Auxiliary/Type91AP.png)
 ![Rammer](/Icons/Equipment/Auxiliary/Rammer.png) <br/>

@@ -5,6 +5,21 @@
 The submarines of Eagle Union consist of the Gato class (4 members) and the Balao class (1 member). These submarines are fairly middle-of-the-pack when it comes to performance, but several of them offer skills that relate to notable kills during their career or to supporting other USN submarines in your fleet.
 
 
+### V Class
+
+Submarine <br/>
+
+#### Members of Class: <br/>
+Nautilus | ....
+| ----- | ----- 
+![Nautilus](/Icons/Ship/EagleUnion/Nautilus.png) | ... <br/>
+
+![21inMk14](/Icons/Equipment/Torpedo/Submarine/21inMk14.png)
+![21inMk14](/Icons/Equipment/Torpedo/Submarine/21inMk14.png)
+![6inSigle](/Icons/Equipment/Guns/CL/6inMkXII.png)
+![SubmarineSnorkel](/Icons/Equipment/Auxiliary/SubmarineSnorkel.png)
+![FuelFilter](/Icons/Equipment/Auxiliary/FuelFilter.png) <br/>
+
 ### Gato Class
 
 Submarine <br/>
