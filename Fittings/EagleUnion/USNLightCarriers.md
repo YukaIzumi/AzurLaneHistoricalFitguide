@@ -82,8 +82,6 @@ Bataan | Independence | Princeton
 | ----- | ----- | ----- |
 ![Bataan](/Icons/Ship/EagleUnion/Bataan.png) | ![Independence](/Icons/Ship/EagleUnion/Independence.png) | ![Princeton](/Icons/Ship/EagleUnion/Princeton.png) <br/>
 
-
-##### Bogue:
 ![F6F](/Icons/Equipment/Aircraft/Fighter/F6FHellcat.png)
 ![TBF](/Icons/Equipment/Aircraft/Torpedo/TBFAvenger.png)
 ![Quad40mmBofors](/Icons/Equipment/AA/Quad40mmUSN.png)
