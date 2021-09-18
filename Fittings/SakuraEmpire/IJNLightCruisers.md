@@ -11,9 +11,9 @@ Many of these ships did not surive to the end of the war or were crippled by lac
 Light Cruiser (Torpedo) <br/>
 
 #### Members of Class: <br/>
-Abukuma | Isuzu | Kinu | Nagara
-| ------ | ------ | ------ | ------ |
-![Abukuma](/Icons/Ship/SakuraEmpire/Abukuma.png) | ![Isuzu](/Icons/Ship/SakuraEmpire/Isuzu.png) | ![Kinu](/Icons/Ship/SakuraEmpire/Kinu.png) | ![Nagara](/Icons/Ship/SakuraEmpire/Nagara.png) <br/>
+Abukuma | Isuzu | Kinu | Nagara | Yura
+| ------ | ------ | ------ | ------ | ------ | ------ |
+![Abukuma](/Icons/Ship/SakuraEmpire/Abukuma.png) | ![Isuzu](/Icons/Ship/SakuraEmpire/Isuzu.png) | ![Kinu](/Icons/Ship/SakuraEmpire/Kinu.png) | ![Nagara](/Icons/Ship/SakuraEmpire/Nagara.png) | ![Yura](/Icons/Ship/SakuraEmpire/Yura.png) <br/>
 
 ![Single140](/Icons/Equipment/Guns/CL/50Caliber3rdYearType14cm.png)
 ![Twin610](/Icons/Equipment/Torpedo/Surface/610mmTwinIJN.png)

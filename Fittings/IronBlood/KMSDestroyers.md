@@ -57,8 +57,8 @@ Z23 | Z24 | Z25 | Z26 | Z28
 ![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamouflage.png) <br/>
 
 ##### Additional Notes
-* The Type 1936A destroyers were fitted with a variety of main armaments. The fit on launch typically used the 15cm guns in single mounts. Later fittings included the 15cm TbtsK in either a twin mount. Z23, Z24, Z25, and Z26 were fitted with the twin mount. Z28 was not. Most of the 1936A class also upgraded their 3.7cm SK C/30 twin mounts for faster firing 3.7cm Flak M42 mounts.
-![3.7cmFlakM42](/Icons/Equipment/AA/3.7cmFlakM42.png]
+* The Type 1936A destroyers were fitted with a variety of main armaments. The fit on launch typically used the 15cm guns in single mounts. Later fittings included the 15cm TbtsK in either a twin mount. Z23, Z24, Z25, and Z26 were fitted with the twin mount. Z28 was not. Most of the 1936A class also upgraded their 3.7cm SK C/30 twin mounts for faster firing 3.7cm Flak M42 mounts. <br/>
+![3.7cmFlakM42](/Icons/Equipment/AA/3.7cmFlakM42.png]  <br/>
 
 ### Type 1936B
 

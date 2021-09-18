@@ -167,6 +167,29 @@ Taihou | ...
 ![SteamCatapult](/Icons/Equipment/Auxiliary/SteamCatapult.png)
 ![SteamCatapult](/Icons/Equipment/Auxiliary/DropTank.png) <br/>
 
+### Unryuu Class
+
+Aircraft Carrier (Fleet)
+
+#### Members of Class: <br/>
+Katsuragi | ...
+| ----- | ----- |
+![Katsuragi](/Icons/Ship/SakuraEmpire/Katsuragi.png) | ...  <br/>
+
+![A6M2](/Icons/Equipment/Aircraft/Fighter/A6M5.png)
+![D3A](/Icons/Equipment/Aircraft/Bomber/D3A.png)
+![B5N](/Icons/Equipment/Aircraft/Torpedo/B5N.png)
+![SteamCatapult](/Icons/Equipment/Auxiliary/SteamCatapult.png)
+![SteamCatapult](/Icons/Equipment/Auxiliary/DropTank.png) <br/>
+
+##### 1943 Planned Fitting
+
+![A7M](/Icons/Equipment/Aircraft/Fighter/A7M.png)
+![D4Y](/Icons/Equipment/Aircraft/Bomber/D4Y12A.png)
+![B6N12A](/Icons/Equipment/Aircraft/Torpedo/B6N12A.png)
+![SteamCatapult](/Icons/Equipment/Auxiliary/SteamCatapult.png)
+![SteamCatapult](/Icons/Equipment/Auxiliary/DropTank.png) <br/>
+
 ### Yamato Class
 
 Aircraft Carrier (Fleet, Armored)

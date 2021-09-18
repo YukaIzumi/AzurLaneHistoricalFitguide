@@ -72,9 +72,9 @@ Ariake | Hatsuharu | Hatsushimo | Wakaba | Yuugure
 Destroyer <br/>
 
 #### Members of Class: <br/>
-Kawakaze | Shigure | Shiratsuyu | Yuudachi
-| ------ | ------ | ------ | ------ |
-![Kawakaze](/Icons/Ship/SakuraEmpire/Kawakaze.png) | ![Shigure](/Icons/Ship/SakuraEmpire/Shigure.png) | ![Shiratsuyu](/Icons/Ship/SakuraEmpire/Shiratsuyu.png) | ![Yuudachi](/Icons/Ship/SakuraEmpire/Yuudachi.png) <br/>
+Kawakaze | Shigure | Shiratsuyu | Umikaze | Yamakaze | Yuudachi
+| ------ | ------ | ------ | ------ | ------ | ------ |
+![Kawakaze](/Icons/Ship/SakuraEmpire/Kawakaze.png) | ![Shigure](/Icons/Ship/SakuraEmpire/Shigure.png) | ![Shiratsuyu](/Icons/Ship/SakuraEmpire/Shiratsuyu.png) | ![Umikaze](/Icons/Ship/SakuraEmpire/Umikaze.png) | ![Yamakaze](/Icons/Ship/SakuraEmpire/Yamakaze.png) | ![Yuudachi](/Icons/Ship/SakuraEmpire/Yuudachi.png) <br/>
 
 ![127mm50ModA](/Icons/Equipment/Guns/DD/50Caliber3rdYearType12.7cmModB.png)
 ![Quad610](/Icons/Equipment/Torpedo/Surface/610mmQuadIJN.png)
@@ -138,6 +138,21 @@ Kazagumo | Kiyonami | Makinami | Naganami
 
 ![127mm50ModA](/Icons/Equipment/Guns/DD/50Caliber3rdYearType12.7cmModB.png)
 ![Quad610](/Icons/Equipment/Torpedo/Surface/610mmQuadIJN-Kai.png)
+![25mmTR](/Icons/Equipment/AA/25mmType96TT.png)
+![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
+![NavalCamo](/Icons/Equipment/Auxiliary/OxygenTorpedoUR.png) <br/>
+
+### Shimakaze Class
+
+Destroyer (Project) <br/>
+
+#### Members of Class: <br/>
+Shimakaze | ....
+| ------ | ------ 
+![Shimakaze](/Icons/Ship/SakuraEmpire/Shimakaze.png) | ....<br/>
+
+![127mm50ModA](/Icons/Equipment/Guns/DD/50Caliber3rdYearType12.7cmModB.png)
+![Quad610](/Icons/Equipment/Torpedo/Surface/610mmQuintIJN.png)
 ![25mmTR](/Icons/Equipment/AA/25mmType96TT.png)
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![NavalCamo](/Icons/Equipment/Auxiliary/OxygenTorpedoUR.png) <br/>

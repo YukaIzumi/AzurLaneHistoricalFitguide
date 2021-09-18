@@ -6,18 +6,18 @@ The battleships of the Sakura Empire represent a long history of innovation and 
 
 Many of these ships did not surive to the end of the war or were crippled by lack of industrial output, so additional fittings or equipment may be suggested below each historical fitting to predict what an end-of-war historical fitting would look like.
 
-### Nevada Class
+### Mikasa Class
 
 Battleship (Dreadnought) <br/>
 
-#### Mikasa of Class: <br/>
+#### Members of Class: <br/>
 Mikasa | ...
 | ----- | ----- |
 ![Mikasa](/Icons/Ship/SakuraEmpire/Mikasa.png) | ... <br/>
 
 ![30cm](/Icons/Equipment/Guns/BB/40Caliber41stYearType30cm.png)
 ![6in50Vickers](/Icons/Equipment/Guns/CL/6in50VickersMkM.png)
-![120mm45](/Icons/Equipment/Guns/DD/45CaliberType1012cm.png)
+![76mmSingle](/Icons/Equipment/Guns/DD/3in50.png)
 ![Type91AP](/Icons/Equipment/Auxiliary/Type91AP.png)
 ![Rammer](/Icons/Equipment/Auxiliary/Rammer.png) <br/>
 
@@ -32,7 +32,7 @@ Haruna | Hiei | Hiei-chan | Kirishima | Kongou
 
 ![36cm](/Icons/Equipment/Guns/BB/45Caliber41stYearType36cm.png)
 ![6in50Vickers](/Icons/Equipment/Guns/CL/6in50VickersMkM.png)
-![120mm45](/Icons/Equipment/Guns/DD/45CaliberType1012cm.png)
+![7.6cmAA](/Icons/Equipment/AA/45CaliberType37.6cm.png)
 ![Type91AP](/Icons/Equipment/Auxiliary/Type91AP.png)
 ![Rammer](/Icons/Equipment/Auxiliary/Rammer.png) <br/>
 

@@ -94,13 +94,13 @@ Kumano | Mogami | Mikuma | Suzuya |
 Heavy Cruiser <br/>
 
 #### Members of Class: <br/>
-Chikuma | Tone |
-| ------ | ------ |
-![Chikuma](/Icons/Ship/SakuraEmpire/Chikuma.png) | ![Tone](/Icons/Ship/SakuraEmpire/Tone.png) <br/>
+Chikuma | Chikuma(New) | Tone | 
+| ------ | ------ | ------ |
+![Chikuma](/Icons/Ship/SakuraEmpire/Chikuma.png) | ![ChikumaNew](/Icons/Ship/SakuraEmpire/Chikuma2.png) | ![Tone](/Icons/Ship/SakuraEmpire/Tone.png) <br/>
 
 ![Twin20cm2](/Icons/Equipment/Guns/CA/50Caliber3rdYearType20cmNo2.png)
 ![Quad610](/Icons/Equipment/Torpedo/Surface/610mmQuadIJN.png)
-![N1K1](/Icons/Equipment/Aircraft/Seaplane/N1K1.png)
+![127mmAA](/Icons/Equipment/AA/40CaliberType8912.7cm.png)
 ![SteeringGear](/Icons/Equipment/Auxiliary/OxygenTorpedoUR.png)
 ![TorpedoBulge](/Icons/Equipment/Auxiliary/TorpedoBulge.png) <br/>
 
