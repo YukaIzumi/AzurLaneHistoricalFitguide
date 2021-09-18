@@ -144,7 +144,7 @@ Kazagumo | Kiyonami | Makinami | Naganami
 
 ### Shimakaze Class
 
-Destroyer (Project) <br/>
+Destroyer (Experimental) <br/>
 
 #### Members of Class: <br/>
 Shimakaze | ....
