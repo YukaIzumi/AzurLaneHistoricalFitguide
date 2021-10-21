@@ -2,9 +2,9 @@
 
 ## General Info
 
-Destroyers of Sakura Empire offer a small variety of purposes. From the pre-war Kamikaze and Mutsuki, to the interwar "Special Type" Fubuki, and the late war torpedo delivery platofrm Yuugumo or anti-aircraft purpose-built Akizuki, there is no shortage of roles to fill. IJN destroyers will typically support a heavy torpedo stat and destructive capability.
+Destroyers of Sakura Empire offer a small variety of purposes. From the pre-war Kamikaze and Mutsuki, to the interwar "Special Type" Fubuki, and the late war torpedo delivery platform Yuugumo or anti-aircraft purpose-built Akizuki, there is no shortage of roles to fill. IJN destroyers will typically support a heavy torpedo stat and destructive capability.
 
-Many of these ships did not surive to the end of the war or were crippled by lack of industrial output, so additional fittings or equipment may be suggested below each historical fitting to predict what an end-of-war historical fitting would look like.
+Many of these ships did not survive to the end of the war or were crippled by lack of industrial output, so additional fittings or equipment may be suggested below each historical fitting to predict what an end-of-war historical fitting would look like.
 
 
 ### Kamikaze Class

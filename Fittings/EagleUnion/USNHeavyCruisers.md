@@ -54,9 +54,9 @@ Indianapolis | Portland
 Light Cruiser <br/>
 
 #### Members of Class: <br/>
-Astoria | Minneapolis | Quincy | San Fransisco | Vincennes
-| ----- | ----- | ----- | ----- | ----- |
-![Astoria](/Icons/Ship/EagleUnion/Astoria.png) | ![Minneapolis](/Icons/Ship/EagleUnion/Minneapolis.png) | ![Quincy](/Icons/Ship/EagleUnion/Quincy.png) | ![San Fransisco](/Icons/Ship/EagleUnion/San_Fransisco.png) | ![Vincennes](/Icons/Ship/EagleUnion/Vincennes.png) <br/>
+Astoria | Minneapolis | New Orleans | Quincy | San Fransisco | Vincennes
+| ----- | ----- | ----- | ----- | ----- | ----- |
+![Astoria](/Icons/Ship/EagleUnion/Astoria.png) | ![Minneapolis](/Icons/Ship/EagleUnion/Minneapolis.png) | ![NewOrleans](/Icons/Ship/EagleUnion/NewOrleans.png) | ![Quincy](/Icons/Ship/EagleUnion/Quincy.png) | ![San Fransisco](/Icons/Ship/EagleUnion/San_Fransisco.png) | ![Vincennes](/Icons/Ship/EagleUnion/Vincennes.png) <br/>
 
 ![8inMk13](/Icons/Equipment/Guns/CA/Triple8inMk13.png)
 ![Single5in38Mk21](/Icons/Equipment/Guns/DD/5in38Mk21.png)
