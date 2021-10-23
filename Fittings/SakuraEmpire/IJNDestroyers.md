@@ -154,7 +154,7 @@ Shimakaze | ....
 ![127mm50ModA](/Icons/Equipment/Guns/DD/50Caliber3rdYearType12.7cmModB.png)
 ![Quad610](/Icons/Equipment/Torpedo/Surface/610mmQuintIJN.png)
 ![25mmTR](/Icons/Equipment/AA/25mmType96TT.png)
-![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
+![ImprovedBoiler](/Icons/Equipment/Auxiliary/ImprovedBoiler.png)
 ![NavalCamo](/Icons/Equipment/Auxiliary/OxygenTorpedoUR.png) <br/>
 
 ### Kitakaze Class

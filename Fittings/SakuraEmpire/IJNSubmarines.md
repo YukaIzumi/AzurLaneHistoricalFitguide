@@ -33,7 +33,7 @@ Submarine <br/>
 
 I-19 | I-25 | I-26 | I-56 | I-58
 | ----- | ----- | ----- | ----- | ----- |
-![I-13](/Icons/Ship/SakuraEmpire/I-13.png) | ![I-25](/Icons/Ship/SakuraEmpire/I-25.png) | ![I-26](/Icons/Ship/SakuraEmpire/I-26.png) | ![I-56](/Icons/Ship/SakuraEmpire/I-56.png) | ![I-58](/Icons/Ship/SakuraEmpire/I-58.png) <br/>
+![I-19](/Icons/Ship/SakuraEmpire/I-19.png) | ![I-25](/Icons/Ship/SakuraEmpire/I-25.png) | ![I-26](/Icons/Ship/SakuraEmpire/I-26.png) | ![I-56](/Icons/Ship/SakuraEmpire/I-56.png) | ![I-58](/Icons/Ship/SakuraEmpire/I-58.png) <br/>
 
 ![533mmType95](/Icons/Equipment/Torpedo/Submarine/533mmType95.png)
 ![533mmType95](/Icons/Equipment/Torpedo/Submarine/533mmType95.png)

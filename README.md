@@ -38,12 +38,21 @@ It should be duly noted that this is not a tier list, META list, or fitting guid
 These factions make up the Allied powers during the Second World War and are "Azur Lane" in Azur lane. <br/>
 * [Eagle Union](Fittings/EagleUnion/USNHome.md) <br/>
 * [Royal Navy](/Fittings/RoyalNavy/RNHome.md) <br/>
+* [Northern Parliament](/Fittings/NorthernParliament/VMFHome.md) <br/>
+
 
 ##### Axis Factions
 
 These factions make up the Axis powers during the Second World War and are the "Crimson Axis" in Azur Lane. <br/>
 * [Iron Blood](/Fittings/IronBlood/KMSHome.md) <br/>
 * [Sakura Empire](/Fittings/SakuraEmpire/IJNHome.md) <br/>
+* [Sardegna Empire](/Fittings/SardegnaEmpire/RMHome.md) <br/>
+
+##### Split Factions
+
+This encompasses navies that did not have a particular alignment or a split alignment. <br/>
+* [Vichya Dominion / Iris Libre](/Fittings/MarineNationale/MNHome.md) <br/>
+* [Dragon Empery](/Fittings/DragonEmpery/PRC.md) <br/>
 
 
 As always, if you want to contribute or talk, join us in the following locations: 
