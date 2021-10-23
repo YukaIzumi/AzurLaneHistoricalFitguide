@@ -51,7 +51,7 @@ These factions make up the Axis powers during the Second World War and are the "
 ##### Split Factions
 
 This encompasses navies that did not have a particular alignment or a split alignment. <br/>
-* [Vichya Dominion / Iris Libre](/Fittings/MarineNationale/MNHome.md) <br/>
+* [Vichya Dominion / Iris Libre](/Fittings/MarineNationale/MNFHome.md) <br/>
 * [Dragon Empery](/Fittings/DragonEmpery/PRC.md) <br/>
 
 
