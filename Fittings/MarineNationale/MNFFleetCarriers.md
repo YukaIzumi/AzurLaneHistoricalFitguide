@@ -2,4 +2,4 @@
 
 ## General Info
 
-No current fleet carriers for Vichya Dominion or Iris Libre
+No current fleet carriers for Vichya Dominion or Iris Libre.

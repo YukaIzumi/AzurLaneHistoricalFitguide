@@ -11,7 +11,7 @@ Cruiser Submarine <br/>
 
 #### Members of Class: <br/>
 Surcouf | ... 
-| ----- | ----- | ----- | 
+| ----- | ----- |
 ![Surcouf](/Icons/Ship/MarineNationale/Surcouf.png) | ... <br/>
 
 ![550mm](/Icons/Equipment/Torpedo/Submarine/550mm24V.png)

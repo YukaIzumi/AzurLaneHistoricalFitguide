@@ -4,7 +4,7 @@
 
 France produced few battleships before and during the second world war. Early on, an unorthodox quadruple-barrel design was adopted. Each turret held 4 guns in 2 cradles, guns cradled in sets of 2.
 
-In game, the french battleships are formidable sources of firepower and pre-loaded guns, allowing your battleships to get an early damage advantage out onto the field.
+In game, the French battleships are formidable sources of firepower and pre-loaded guns, allowing your battleships to get an early damage advantage out onto the field.
 
 ### Dunkerque Class
 
@@ -62,9 +62,9 @@ Gascogne | ...
 Battleship (Project) <br/>
 
 #### Members of Class: <br/>
-Gascogne | ...
+Champagne | ...
 | ----- | ----- |
-![Gascogne](/Icons/Ship/MarineNationale/Gascogne.png) | ... <br/>
+![Champagne](/Icons/Ship/MarineNationale/Champagne.png) | ... <br/>
 
 ![406mm50Mle1938](/Icons/Equipment/Guns/BB/406mm50Mle1938.png)
 ![152mmMle1930](/Icons/Equipment/Guns/CL/152mmMle1930.png)

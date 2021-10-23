@@ -47,7 +47,7 @@ Light Cruiser <br/>
 #### Members of Class: <br/>
 La Galissonnière | ...
 ----- | ----- |
-![EmileBertin](/Icons/Ship/MarineNationale/EmileBertin.png) | ... <br/>
+![LaGalissonniere](/Icons/Ship/MarineNationale/LaGalissonniere.png) | ... <br/>
 
 ![152mmMle1930](/Icons/Equipment/Guns/CL/152mmMle1930.png)
 ![550mmTwin](/Icons/Equipment/Torpedo/Surface/550mmTwin.png)
