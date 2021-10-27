@@ -1,8 +1,6 @@
 # New Orleans Class
 ## US Navy
 
-
-
 Ordered | Completed | Lost | Retired
  ------ | ------ | ------ | ------ 
 7 | 7 | 3 | 4 <br/>
@@ -12,13 +10,13 @@ Year Introduced: 1930. <br/>
 Predecessor : [Portland Class](/History/PortlandClass.md) <br/>
 Successor : [Benson Class](/History/WichitaClass.md) <br/>
 
-#### Members of Class In Game: <br/>
-Icon | Name | Hull Number | Present In Game
+#### Members of Class: <br/>
+Icon | Name | Hull Number | Present
 | ------ | ------ | ------ |  ------ |
 ![NewOrleans](/Icons/Ship/EagleUnion/NewOrleans.png) | New Orleans | CA-32 | Yes <br/>
 ![Astoria](/Icons/Ship/EagleUnion/Astoria.png) | Astoria | CA-34 | Yes <br/>
 ![Minneapolis](/Icons/Ship/EagleUnion/Minneapolis.png) | Minneapolis | CA-36 | Yes <br/>
-![Tuscaloosa](/Icons/Ship/Unknown.png) | Tuscaloosa | CA-37 | No <br/>
+![UnknownCA](/Icons/Ship/UnknownCA.png) | Tuscaloosa | CA-37 | No <br/>
 ![SanFrancisco](/Icons/Ship/EagleUnion/San_Francisco.png) | San Francisco | CA-38 | Yes <br/>
 ![Quincy](/Icons/Ship/EagleUnion/Quincy.png) | Quincy | CA-39 | Yes <br/>
 ![Vincennes](/Icons/Ship/EagleUnion/Vincennes.png) | Vincennes | CA-44 | Yes <br/>
@@ -58,7 +56,7 @@ Armament Type | Name |
  ------ | ------ |
 ![8inMk15B](/Icons/Equipment/Guns/CA/Triple8inMk15B.png)| Triple 8"55 Mk 15 x 3, in ABY arrangement (Similar to ones used on Quincey and Vincennes, could have been proposed and easily done upgrade).
 ![Single5in38Mk21](/Icons/Equipment/Guns/DD/5in38Mk21.png) | Single 5"25 Mk 19 x 8 (Quincy and Vincennes Mk 23).
-![Quad40mmBofors](/Icons/Equipment/AA/Quad40mmUSN.png) | Quadruple 40mm56 Mk 2 x 6-7.
+![Quad40mmBofors](/Icons/Equipment/AA/Quad40mmUSN.png) | Quadruple 40mm56 Bofors Mk 2 x 6-7.
 ![20mmOerlikon](/Icons/Equipment/AA/20mmOerlikon.png) | 20mm Oerlikon x ~26-28 (All).
 ![20mmOerlikonT](/Icons/Equipment/AA/20mmOerlikonT.png) | Twin 20mm Oerlikon x ~9-12 (New Orleans and Minneapolis).<br/>
 

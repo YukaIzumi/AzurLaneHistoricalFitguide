@@ -1,10 +1,6 @@
 # Benson Class
 ## US Navy
 
-This is a TEST PAGE <br/>
-
-![USS Gansenvoort](http://en.wikipedia.org/wiki/USS_Gansevoort#/media/File:USS_GANSEVOORT_(DD-608).jpg?raw=true) <br/>
-
 Ordered | Completed | Lost | Retired
  ------ | ------ | ------ | ------ 
 30 | 30 | 4 (3) | 27 <br/>
@@ -14,14 +10,38 @@ Year Introduced: 1940. <br/>
 Predecessor : [Sims Class](/History/SimsClass.md) <br/>
 Successor : Gleaves Class <br/>
 
-#### Members of Class In Game: <br/>
-Bailey | Benson | Hobby | Kalk | Laffey
-| ------ | ------ | ------ | ------ | ------ |
-![Bailey](/Icons/Ship/EagleUnion/Bailey.png) | ![Benson](/Icons/Ship/EagleUnion/Benson.png) | ![Hobby](/Icons/Ship/EagleUnion/Hobby.png) | ![Kalk](/Icons/Ship/EagleUnion/Kalk.png) | ![Laffey](/Icons/Ship/EagleUnion/Laffey.png) <br/>
-
-#### Members of Class Not In Game: <br/>
-
-* Mayo, Madison, Landsdale, Hilary P. Jones, Charles F. Hughes, Woodworth, Farenholt, Bancroft, Barton, Boyle, Champlin, Meade, Murphy, Parker, Caldwell, Coghlan, Frazier, Gansevoort, Gillespie, Kendrick, Laub, MacKenzie, McLanahan, Nields, Ordonaux.
+#### Members of Class: <br/>
+Icon | Name | Hull Number | Present
+| ------ | ------ | ------ |  ------ |
+![Benson](/Icons/Ship/EagleUnion/Benson.png) | Benson | DD-421 | Yes <br/>
+![UnknownDD](/Icons/Ship/UnknownDD.png) | Mayo | DD-422 | No <br/>
+![UnknownDD](/Icons/Ship/UnknownDD.png) | Madison | DD-425 | No <br/>
+![UnknownDD](/Icons/Ship/UnknownDD.png) | Lansdale | DD-426 | No <br/>
+![UnknownDD](/Icons/Ship/UnknownDD.png) | Hilary P. Jones | DD-427 | No <br/>
+![Laffey](/Icons/Ship/EagleUnion/Laffey.png) | Laffey | DD-459 | Yes <br/>
+![UnknownDD](/Icons/Ship/UnknownDD.png) | Woodworth | DD-460 | No <br/>
+![UnknownDD](/Icons/Ship/UnknownDD.png) | Farenholt | DD-491 | No <br/>
+![Bailey](/Icons/Ship/EagleUnion/Bailey.png) | Bailey | DD-492 | Yes <br/>
+![UnknownDD](/Icons/Ship/UnknownDD.png) | Farenholt | DD-491 | No <br/>
+![UnknownDD](/Icons/Ship/UnknownDD.png) | Farenholt | DD-491 | No <br/>
+![UnknownDD](/Icons/Ship/UnknownDD.png) | Farenholt | DD-491 | No <br/>
+![UnknownDD](/Icons/Ship/UnknownDD.png) | Farenholt | DD-491 | No <br/>
+![UnknownDD](/Icons/Ship/UnknownDD.png) | Farenholt | DD-491 | No <br/>
+![UnknownDD](/Icons/Ship/UnknownDD.png) | Farenholt | DD-491 | No <br/>
+![UnknownDD](/Icons/Ship/UnknownDD.png) | Farenholt | DD-491 | No <br/>
+![UnknownDD](/Icons/Ship/UnknownDD.png) | Farenholt | DD-491 | No <br/>
+![UnknownDD](/Icons/Ship/UnknownDD.png) | Farenholt | DD-491 | No <br/>
+![UnknownDD](/Icons/Ship/UnknownDD.png) | Farenholt | DD-491 | No <br/>
+![UnknownDD](/Icons/Ship/UnknownDD.png) | Farenholt | DD-491 | No <br/>
+![UnknownDD](/Icons/Ship/UnknownDD.png) | Farenholt | DD-491 | No <br/>
+![Hobby](/Icons/Ship/EagleUnion/Hobby.png) | Hobby | DD-610 | Yes <br/>
+![Kalk](/Icons/Ship/EagleUnion/Kalk.png)| Kalk | DD-611 | Yes <br/>
+![UnknownDD](/Icons/Ship/UnknownDD.png) | Kendrick | DD-612 | No <br/>
+![UnknownDD](/Icons/Ship/UnknownDD.png) | Laub | DD-613 | No <br/>
+![UnknownDD](/Icons/Ship/UnknownDD.png) | MacKenzie | DD-614 | No <br/>
+![UnknownDD](/Icons/Ship/UnknownDD.png) | McLanahan | DD-615 | No <br/>
+![UnknownDD](/Icons/Ship/UnknownDD.png) | Nields | DD-616 | No <br/>
+![UnknownDD](/Icons/Ship/UnknownDD.png) | Ordronaux | DD-617 | No <br/>
 
 ### Overview
 
@@ -60,7 +80,7 @@ Armament Type | Name |
  ------ | ------ |
 ![Single5in38](/Icons/Equipment/Guns/DD/5in38.png) | Single 5"38 Mk 30 x 5 in ABPXY arrangement.
 ![Quintuple21in](/Icons/Equipment/Torpedo/Surface/21inQuintupleUSN.png) | Quintuple 21" Torpedo Tubes x 2, centerline mounted.
-![Twin40mmBofors](/Icons/Equipment/AA/Twin40mmUSN.png) | Twin 40mm Bofors x 4.
+![Twin40mmBofors](/Icons/Equipment/AA/Twin40mmUSN.png) | Twin 40mm56 Bofors Mk 2 x 4.
 ![20mmOerlikon](/Icons/Equipment/AA/20mmOerlikon.png) | 20mm Oerlikon x 7.
 ![DC](/Icons/Equipment/Auxiliary/DepthCharge.png) | Depth charge K-gun projector x 4-6, mounted rear third of ship, 3 per side.
 ![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge rack x 2, mounted aft. <br/>
@@ -71,7 +91,7 @@ Armament Type | Name |
  ------ | ------ |
 ![Single5in38](/Icons/Equipment/Guns/DD/5in38.png) | Single 5"38 Mk 30 x 4 in ABXY arrangement.
 ![Quad40mmBofors](/Icons/Equipment/AA/Quad40mmUSN.png) | Quadruple 40mm Bofors x 2.
-![Twin40mmBofors](/Icons/Equipment/AA/Twin40mmUSN.png) | Twin 40mm Bofors x 2.
+![Twin40mmBofors](/Icons/Equipment/AA/Twin40mmUSN.png) | Twin 40mm56 Bofors Mk 2 x 2.
 ![20mmOerlikon](/Icons/Equipment/AA/20mmOerlikon.png) | 20mm Oerlikon x 7.
 ![DC](/Icons/Equipment/Auxiliary/DepthCharge.png) | Depth charge K-gun projector x 4-6, mounted rear third of ship, 3 per side.
 ![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge rack x 2, mounted aft. <br/>
@@ -82,7 +102,7 @@ Armament Type | Name |
  ------ | ------ |
 ![Single5in38](/Icons/Equipment/Guns/DD/5in38.png) | Single 5"38 Mk 30 x 4 in ABXY arrangement.
 ![Quintuple21in](/Icons/Equipment/Torpedo/Surface/21inQuintupleUSN.png) | Quintuple 21" Torpedo Tubes x 1, centerline mounted.
-![Twin40mmBofors](/Icons/Equipment/AA/Twin40mmUSN.png) | Twin 40mm Bofors x 4.
+![Twin40mmBofors](/Icons/Equipment/AA/Twin40mmUSN.png) | Twin 40mm56 Bofors Mk 2 x 4.
 ![20mmOerlikon](/Icons/Equipment/AA/20mmOerlikon.png) | 20mm Oerlikon x 7.
 ![DC](/Icons/Equipment/Auxiliary/DepthCharge.png) | Depth charge K-gun projector x 4-6, mounted rear third of ship, 3 per side.
 ![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge rack x 2, mounted aft. <br/>
@@ -91,5 +111,6 @@ Armament Type | Name |
 
 Type | Name |
  ------ | ------ |
-![SGRadar](/Icons/Equipment/Auxiliary/SGRadar.png) | SG Surface Search 10cm Radar.
+![SGRadar](/Icons/Equipment/Auxiliary/SGRadar.png) | SG Surface Search 10cm Radar. <br/>
 ![OldSonar](/Icons/Equipment/Auxiliary/OldSonar.png) | SONAR Equipment. <br/>
+![Mk33](/Icons/Equipment/Auxiliary/Mk33FireDirector.png) | Mk33 Fire Director. <br/>

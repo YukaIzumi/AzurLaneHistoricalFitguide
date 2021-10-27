@@ -1,10 +1,6 @@
 # Sims Class
 ## US Navy
 
-This is a TEST PAGE <br/>
-
-![USS Walke](http://en.wikipedia.org/wiki/USS_Walke_(DD-416)#/media/File:USSWalkeDD416_h97912.jpg?raw=true) <br/>
-
 Ordered | Completed | Lost | Retired
  ------ | ------ | ------ | ------ 
 12 | 12 | 5 | 7 <br/>
@@ -14,14 +10,21 @@ Year Introduced: 1937. <br/>
 Predecessor : Behnam Class <br/>
 Successor : [Benson Class](/History/BensonClass.md) <br/>
 
-#### Members of Class In Game: <br/>
-Hammann | Sims
-| ------ | ------ |
-![Hammann](/Icons/Ship/EagleUnion/Hammann.png) | ![Sims](/Icons/Ship/EagleUnion/Sims.png) <br/>
-
-#### Members of Class Not In Game: <br/>
-
-* Hughes, Anderson, Mustin, Russel, O'Brien, Walke, Morris, Roe, Wainwright, Buck.
+#### Members of Class: <br/>
+Icon | Name | Hull Number | Present
+| ------ | ------ | ------ |  ------ |
+![Sims](/Icons/Ship/EagleUnion/Sims.png) | Sims | DD-409 | Yes <br/>
+![UnknownBB](/Icons/Ship/UnknownDD.png) | Hughes | DD-410 | No <br/>
+![UnknownBB](/Icons/Ship/UnknownDD.png) | Anderson | DD-411 | No <br/>
+![Hammann](/Icons/Ship/EagleUnion/Hammann.png) | Hammann | DD-412 | Yes <br/>
+![UnknownBB](/Icons/Ship/UnknownDD.png) | Mustin | DD-413 | No <br/>
+![UnknownBB](/Icons/Ship/UnknownDD.png) | Russell | DD-414 | No <br/>
+![UnknownBB](/Icons/Ship/UnknownDD.png) | O'Brien | DD-415 | No <br/>
+![UnknownBB](/Icons/Ship/UnknownDD.png) | Walke | DD-416 | No <br/>
+![UnknownBB](/Icons/Ship/UnknownDD.png) | Morris | DD-417 | No <br/>
+![UnknownBB](/Icons/Ship/UnknownDD.png) | Roe | DD-418 | No <br/>
+![UnknownBB](/Icons/Ship/UnknownDD.png) | Wainwright | DD-419 | No <br/>
+![UnknownBB](/Icons/Ship/UnknownDD.png) | Buck | DD-420 | No <br/>
 
 ### Overview
 
@@ -59,7 +62,7 @@ Armament Type | Name |
  ------ | ------ |
 ![Single5in38](/Icons/Equipment/Guns/DD/5in38.png) | Single 5"38 Mk 30 x 4 in ABXY arrangement.
 ![Quadruple21in](/Icons/Equipment/Torpedo/Surface/21inQuadrupleUSN.png) | Quadruple 21" Torpedo Tubes x 2, centerline mounted.
-![Twin40mmBofors](/Icons/Equipment/AA/Twin40mmUSN.png) | Twin 40mm Bofors x 2.
+![Twin40mmBofors](/Icons/Equipment/AA/Twin40mmUSN.png) | Twin 40mm56 Bofors Mk 2 x 2.
 ![20mmOerlikon](/Icons/Equipment/AA/20mmOerlikon.png) | 20mm Oerlikon x 4.
 ![DC](/Icons/Equipment/Auxiliary/DepthCharge.png) | Depth charge K-gun projector x 6, mounted rear third of ship, 3 per side.
 ![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge rack x 2, mounted aft. <br/>
@@ -68,5 +71,6 @@ Armament Type | Name |
 
 Type | Name |
  ------ | ------ |
-![SGRadar](/Icons/Equipment/Auxiliary/SGRadar.png) | SG Surface Search 10cm Radar.
+![SGRadar](/Icons/Equipment/Auxiliary/SGRadar.png) | SG Surface Search 10cm Radar. <br/>
 ![OldSonar](/Icons/Equipment/Auxiliary/OldSonar.png) | SONAR Equipment. <br/>
+![Mk33](/Icons/Equipment/Auxiliary/Mk33FireDirector.png) | Mk33 Fire Director. <br/>

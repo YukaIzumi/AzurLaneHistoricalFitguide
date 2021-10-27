@@ -10,14 +10,12 @@ Year Introduced: 1915. <br/>
 Predecessor : HMS Tiger / Revenge Class <br/>
 Successor : Courageous Class <br/>
 
-#### Members of Class In Game: <br/>
-Lil Renown | Renown | Repulse
-| ----- | ----- | ----- |
-![Lil Renown](/Icons/Ship/RoyalNavy/Lil_Renown.png) | ![Renown](/Icons/Ship/RoyalNavy/Renown.png) | ![Repulse](/Icons/Ship/RoyalNavy/Repulse.png) <br/>
-
-#### Members of Class Not In Game: <br/>
-
-* None
+#### Members of Class: <br/>
+Icon | Name | Pennant Number | Present
+| ------ | ------ | ------ |  ------ |
+![Renown](/Icons/Ship/RoyalNavy/Renown.png) | Renown | 72 | Yes <br/>
+![Repulse](/Icons/Ship/RoyalNavy/Repulse.png) | Repulse | 34 | Yes <br/>
+![Lil Renown](/Icons/Ship/RoyalNavy/Lil_Renown.png) | Lil Renown | 72 | Yes <br/>
 
 ### Overview
 

@@ -10,14 +10,15 @@ Year Introduced: 1914. <br/>
 Predecessor : Iron Duke Class <br/>
 Successor : Revenge Class <br/>
 
-#### Members of Class In Game: <br/>
-Queen Elizabeth | Valiant | Warspite
-| ----- | ----- | ----- |
-![Queen Elizabeth](/Icons/Ship/RoyalNavy/Queen_Elizabeth.png) | ![Valiant](/Icons/Ship/RoyalNavy/Valiant.png) | ![Warspite](/Icons/Ship/RoyalNavy/Warspite.png)<br/>
-
-#### Members of Class Not In Game: <br/>
-
-* Barham, Malaya, Agincourt
+#### Members of Class: <br/>
+Icon | Name | Pennant Number | Present
+| ------ | ------ | ------ |  ------ |
+![Queen Elizabeth](/Icons/Ship/RoyalNavy/Queen_Elizabeth.png) | Queen Elizabeth | 00 | Yes <br/>
+![UnknownBB](/Icons/Ship/UnknownBB.png) | Malaya | 01 | No <br/>
+![Valiant](/Icons/Ship/RoyalNavy/Valiant.png) | Valiant | 02 | Yes <br/>
+![Warspite](/Icons/Ship/RoyalNavy/Warspite.png) | Warspite | 03 | Yes <br/>
+![Unknown](/Icons/Ship/Unknown.png) | Barham | 04 | No <br/>
+![Unknown](/Icons/Ship/Unknown.png) | Agincourt | XX | No <br/>
 
 ### Overview
 
