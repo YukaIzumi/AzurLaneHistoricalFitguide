@@ -49,14 +49,14 @@ Indianapolis | Portland
 ![SteeringGear](/Icons/Equipment/Auxiliary/SteeringGear.png)
 ![FireControlRadar](/Icons/Equipment/Auxiliary/FireControlRadar.png) <br/>
 
-### New Orleans Class
+### [New Orleans Class](/History/NewOrleansClass.md)
 
 Heavy Cruiser <br/>
 
 #### Members of Class: <br/>
-Astoria | Minneapolis | New Orleans | Quincy | San Fransisco | Vincennes
+Astoria | Minneapolis | New Orleans | Quincy | San Francisco | Vincennes
 | ----- | ----- | ----- | ----- | ----- | ----- |
-![Astoria](/Icons/Ship/EagleUnion/Astoria.png) | ![Minneapolis](/Icons/Ship/EagleUnion/Minneapolis.png) | ![NewOrleans](/Icons/Ship/EagleUnion/NewOrleans.png) | ![Quincy](/Icons/Ship/EagleUnion/Quincy.png) | ![San Fransisco](/Icons/Ship/EagleUnion/San_Fransisco.png) | ![Vincennes](/Icons/Ship/EagleUnion/Vincennes.png) <br/>
+![Astoria](/Icons/Ship/EagleUnion/Astoria.png) | ![Minneapolis](/Icons/Ship/EagleUnion/Minneapolis.png) | ![NewOrleans](/Icons/Ship/EagleUnion/NewOrleans.png) | ![Quincy](/Icons/Ship/EagleUnion/Quincy.png) | ![San Francisco](/Icons/Ship/EagleUnion/San_Francisco.png) | ![Vincennes](/Icons/Ship/EagleUnion/Vincennes.png) <br/>
 
 ![8inMk13](/Icons/Equipment/Guns/CA/Triple8inMk13.png)
 ![Single5in38Mk21](/Icons/Equipment/Guns/DD/5in38Mk21.png)

@@ -19,7 +19,7 @@ Icon | Name | Hull Number | Present In Game
 ![Astoria](/Icons/Ship/EagleUnion/Astoria.png) | Astoria | CA-34 | Yes <br/>
 ![Minneapolis](/Icons/Ship/EagleUnion/Minneapolis.png) | Minneapolis | CA-36 | Yes <br/>
 ![Tuscaloosa](/Icons/Ship/Unknown.png) | Tuscaloosa | CA-37 | No <br/>
-![SanFransisco](/Icons/Ship/EagleUnion/SanFransisco.png) | San Fransisco | CA-38 | Yes <br/>
+![SanFrancisco](/Icons/Ship/EagleUnion/San_Francisco.png) | San Francisco | CA-38 | Yes <br/>
 ![Quincy](/Icons/Ship/EagleUnion/Quincy.png) | Quincy | CA-39 | Yes <br/>
 ![Vincennes](/Icons/Ship/EagleUnion/Vincennes.png) | Vincennes | CA-44 | Yes <br/>
 
