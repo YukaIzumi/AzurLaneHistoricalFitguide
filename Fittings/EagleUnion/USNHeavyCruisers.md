@@ -51,7 +51,7 @@ Indianapolis | Portland
 
 ### New Orleans Class
 
-Light Cruiser <br/>
+Heavy Cruiser <br/>
 
 #### Members of Class: <br/>
 Astoria | Minneapolis | New Orleans | Quincy | San Fransisco | Vincennes
