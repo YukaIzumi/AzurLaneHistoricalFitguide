@@ -96,7 +96,7 @@ Bailey | Benson | Hobby | Kalk | Laffey
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![SGRadar](/Icons/Equipment/Auxiliary/SGRadar.png) <br/>
 
-### Fletcher Class <br/>
+### [Fletcher Class](/History/FletcherClass.md) <br/>
 
 Destroyer <br/>
 

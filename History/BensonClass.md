@@ -3,7 +3,7 @@
 
 Ordered | Completed | Lost | Retired
  ------ | ------ | ------ | ------ 
-30 | 30 | 4 (3) | 27 <br/>
+30 | 30 | 4 (-1) | 27 <br/>
  
 Year Introduced: 1940. <br/>
  

@@ -38,7 +38,7 @@ The Farragut class displaced 1365 tons standard and 2064 tons on full load, with
 
 Armament Type | Name |
  ------ | ------ |
-![Single5in38](/Icons/Equipment/Guns/DD/5in38.png) | Single 5"38 Mk 30 x 5, in ABPXY arrangement.
+![Single5in38](/Icons/Equipment/Guns/DD/5in38.png) | Single 5"38 Mk 21 x 5, in ABPXY arrangement.
 ![Quadruple21in](/Icons/Equipment/Torpedo/Surface/21inQuadrupleUSN.png) | Quadruple 21" Torpedo Tubes x 2, centerline mounted.
 ![0.5inAAMG](/Icons/Equipment/AA/0.5inAAMG.png) | .50 caliber Browning AA Machine Gun x 4.
 
@@ -46,7 +46,7 @@ Armament Type | Name |
 
 Armament Type | Name |
  ------ | ------ |
-![Single5in38](/Icons/Equipment/Guns/DD/5in38.png) | Single 5"38 Mk 30 x 4, in ABXY arrangement.
+![Single5in38](/Icons/Equipment/Guns/DD/5in38.png) | Single 5"38 Mk 21 x 4, in ABXY arrangement.
 ![Quadruple21in](/Icons/Equipment/Torpedo/Surface/21inQuadrupleUSN.png) | Quadruple 21" Torpedo Tubes x 2, centerline mounted.
 ![Twin40mmBofors](/Icons/Equipment/AA/Twin40mmUSN.png) | Twin 40mm56 Bofors Mk 2  x 2.
 ![20mmOerlikon](/Icons/Equipment/AA/20mmOerlikon.png) | 20mm Oerlikon x 5. <br/>
