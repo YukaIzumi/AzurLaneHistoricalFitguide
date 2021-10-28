@@ -20,7 +20,7 @@ Eldridge | ....
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) <br/>
 
-### Farragut Class <br/>
+### [Farragut Class](/History/FarragutClass.md) <br/>
 
 Destroyer <br/>
 
