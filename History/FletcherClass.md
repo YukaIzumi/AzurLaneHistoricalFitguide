@@ -16,7 +16,7 @@ Successor : [Allen M. Sumner Class](/History/AllenMSumnerClass.md) <br/>
 	
 Icon | Name | Hull Number | Present
 | ------ | ------ | ------ |  ------ |
-![Fletcher](/Icons/Ship/EagleUnion/Fletcher.png) | Benson | DD-445 | Yes <br/>
+![Fletcher](/Icons/Ship/EagleUnion/Fletcher.png) | Fletcher | DD-445 | Yes <br/>
 ![Radford](/Icons/Ship/EagleUnion/Radford.png) | Radford | DD-446 | Yes <br/>
 ![Jenkins](/Icons/Ship/EagleUnion/Jenkins.png) | Jenkins | DD-447 | Yes <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | La Vallette | DD-448 | No <br/>
