@@ -92,7 +92,7 @@ Icon | Name | Hull Number | Present
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Johnston | DD-557 | No <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Laws | DD-558 | No <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Longshaw | DD-559 | No <br/>
-![UnknownDD](/Icons/Ship/UnknownDD.png) | Morrison | DD-560 | No <br/>
+![Morrison](/Icons/Ship/EagleUnion/Morrison.png) | Morrison | DD-560 | Yes <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Pritchett | DD-561 | No <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Robinson | DD-562 | No <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Ross | DD-563 | No <br/>
