@@ -8,7 +8,7 @@ Ordered | Completed | Lost | Preserved
 Year Introduced: 1939. <br/>
  
 Predecessor : Gleaves Class <br/>
-Successor : [Allen M. Sumner Class] (/History/AllenMSumnerClass.md) <br/>
+Successor : [Allen M. Sumner Class](/History/AllenMSumnerClass.md) <br/>
 
 #### Members of Class: <br/>
 <details>
@@ -203,7 +203,7 @@ The ships were crewed by 329 enlisted men. <br/>
 
 ### Hull and Propulsion
 
-The Benson class introduced several changes to the design principle. First, two stacks would adorn the spine of the ship, leading to an echeloned machinery arrangement. This arrangement featured alternating boiler and engine rooms. In theory, this setup would provide greater chances of survival should critical damage be sustained. At full load, these ships weighed roughly 2475 tons. Propulsion was supplied by 4 Babcock & Wilcox Oil Fired Express Broilers (containing a Super-heater and Economizer) powering 2 Bethlehem Steel Co. Impulse Reaction turbines. These, in turn, drove 2 shafts enabling the Benson class to reach up to 37.5 knots.
+The Fletchers were a mildly heavier destroyer, compared to the Bensons. Coming in at 2050 tons standard, or 2500 tons under full load. powered by 4 Babcock & Wilcox boilers producing 60,000 shaft horsepower. Accompanying these were two 350kw steam turbine driven electric generators and a single 100kw diesel generator. Two geared steam turbines drove two shafts, granting a speed 36.5 knots. A range of 5500 miles (at 15 knots) was possible. 
 
 ### Armaments
 
