@@ -79,7 +79,7 @@ Wichita | ....
 ![SGRadar](/Icons/Equipment/Auxiliary/SGRadar.png)
 ![FireControlRadar](/Icons/Equipment/Auxiliary/FireControlRadar.png) <br/>
 
-### Pensacola Class
+### Baltimore Class
 
 Heavy Cruiser <br/>
 

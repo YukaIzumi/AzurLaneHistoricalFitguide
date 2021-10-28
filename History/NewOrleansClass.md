@@ -8,7 +8,7 @@ Ordered | Completed | Lost | Retired
 Year Introduced: 1930. <br/>
  
 Predecessor : [Portland Class](/History/PortlandClass.md) <br/>
-Successor : [Benson Class](/History/WichitaClass.md) <br/>
+Successor : [Wichita Class](/History/WichitaClass.md) <br/>
 
 #### Members of Class: <br/>
 Icon | Name | Hull Number | Present
