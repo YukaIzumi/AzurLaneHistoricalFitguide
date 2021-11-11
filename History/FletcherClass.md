@@ -272,7 +272,7 @@ Armament Type | Name |
 ![Quad40mmBofors](/Icons/Equipment/AA/3in50Mk27.png) | Twin 3"50 Mk27 x 1.
 ![Twin40mmBofors](/Icons/Equipment/AA/Twin40mmUSN.png) | Twin 40mm56 Bofors Mk 2 x 2, mounted flanking bridge.
 ![20mmOerlikonT](/Icons/Equipment/AA/20mmOerlikonT.png) | Twin 20mm Oerlikon x 2.
-![Hedgehog](/Icons/Equipment/Auxiliary/Hedgehog.png) | Hedgehog ASW Mine Projector x 1, mounted amidships, 3 per side.
+![Hedgehog](/Icons/Equipment/Auxiliary/Hedgehog.png) | Hedgehog ASW Mine Projector x 1.
 ![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge rack x 1, mounted aft. <br/>
 
 #### Sensor Equipment

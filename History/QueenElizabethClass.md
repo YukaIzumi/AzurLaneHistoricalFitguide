@@ -17,8 +17,8 @@ Icon | Name | Pennant Number | Present
 ![UnknownBB](/Icons/Ship/UnknownBB.png) | Malaya | 01 | No <br/>
 ![Valiant](/Icons/Ship/RoyalNavy/Valiant.png) | Valiant | 02 | Yes <br/>
 ![Warspite](/Icons/Ship/RoyalNavy/Warspite.png) | Warspite | 03 | Yes <br/>
-![Unknown](/Icons/Ship/Unknown.png) | Barham | 04 | No <br/>
-![Unknown](/Icons/Ship/Unknown.png) | Agincourt | XX | No <br/>
+![Unknown](/Icons/Ship/UnknownBB.png) | Barham | 04 | No <br/>
+![Unknown](/Icons/Ship/UnknownBB.png) | Agincourt | XX | No <br/>
 
 ### Overview
 
