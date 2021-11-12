@@ -60,7 +60,7 @@ Armament Type | Name |
 ![Single5in38](/Icons/Equipment/Guns/DD/5in38.png) | Single 5"38 Mk 30 x 4 in ABXY arrangement.
 ![Quadruple21in](/Icons/Equipment/Torpedo/Surface/21inQuadrupleUSN.png) | Quadruple 21" Torpedo Tubes x 2, centerline mounted.
 ![0.5inAAMG](/Icons/Equipment/AA/0.5inAAMG.png) | .50 caliber Browning AA Machine Gun x 8.
-![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge rack x 2, mounted aft..<br/>
+![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge rack x 2, mounted aft.<br/>
 
 #### 1944
 

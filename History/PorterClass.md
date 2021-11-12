@@ -11,6 +11,10 @@ Predecessor : [Farragut Class](/History/FarragutClass.md) <br/>
 Successor : [Mahan Class](/History/MahanClass.md) <br/>
 
 #### Members of Class: <br/>
+
+<details>
+	<summary>Click to Expand List</summary>
+	
 Icon | Name | Hull Number | Present
 | ------ | ------ | ------ |  ------ |
 ![UnknownBB](/Icons/Ship/UnknownDD.png) | Porter | DD-356 | No <br/>
@@ -21,6 +25,8 @@ Icon | Name | Hull Number | Present
 ![UnknownBB](/Icons/Ship/UnknownDD.png) | Clark | DD-361 | No <br/>
 ![UnknownBB](/Icons/Ship/UnknownDD.png) | Moffett | DD-362 | No <br/>
 ![UnknownBB](/Icons/Ship/UnknownDD.png) | Balch | DD-363 | No <br/>
+
+<details/>
 
 ### Overview
 
