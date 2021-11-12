@@ -27,13 +27,13 @@ Icon | Name | Hull Number | Present
 
 ### Overview
 
-An interwar design for a destroyer leader authorized in 1916, which was delayed considerably. These ships were constructed in response to the [Fubuki Class](/History/FubukiClass.md). They served through the duration of WWII in all theaters. The only loss was USS Porter in the Battle of the Santa Cruz Islands.
+Built to round out the 1850 ton standard displacement destroyers allotted by the London Naval Treaty, these ships were originally designed as a second generation of [Porter class](/History/PorterClass.md). Higher pressure boilers allowed for a single stack, reducing the weight of the ship and permitting a third centerline quadruple torpedo tube. These ships were top-heavy and overweight.
 
 The ships were crewed by 10-16 officers and 225-278 enlisted men. <br/>
 
 ### Hull and Propulsion
 
-This class was restricted by the Second Washington Naval Treaty. These ships displaced 1850 tons standard, 2663 tons under full load. Propulsion was supplied by 4 Babcock & Wilcox boilers driving 2 geared steam turbines, for a total output of up to 50,000 shaft horsepower driving 2 shafts. These ships were capable of 37 knots and had a range of up to 6380 nautical miles.
+This class was restricted by the London Naval Treaty. These ships displaced 1840 tons standard and 2767 tons under full load. Propulsion was supplied by 4 Babcock & Wilcox boilers driving 2 geared steam turbines, for a total output of up to 52,000 shaft horsepower driving 2 shafts. These ships were capable of 36 knots and had a range of up to 7020 nautical miles.
 
 ### Armaments
 
