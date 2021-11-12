@@ -26,7 +26,7 @@ Icon | Name | Hull Number | Present
 ![UnknownBB](/Icons/Ship/UnknownDD.png) | Moffett | DD-362 | No <br/>
 ![UnknownBB](/Icons/Ship/UnknownDD.png) | Balch | DD-363 | No <br/>
 
-<details/>
+</details>
 
 ### Overview
 

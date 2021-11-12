@@ -25,10 +25,10 @@ Icon | Name | Hull Number | Present
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Reid | DD-369 | No <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Case | DD-370 | No <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Conyngham | DD-371 | No <br/>
-![Cassin](/Icons/Ship/Cassin.png) | Cassin | DD-372 | Yes <br/>
+![Cassin](/Icons/Ship/EagleUnion/Cassin.png) | Cassin | DD-372 | Yes <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Shaw | DD-373 | No <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Tucker | DD-374 | No <br/>
-![Downes](/Icons/Ship/Downes.png) | Downes | DD-375| Yes <br/>
+![Downes](/Icons/Ship/EagleUnion/Downes.png) | Downes | DD-375| Yes <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Cushing | DD-376 | No <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Perkins | DD-377 | No <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Smith | DD-378 | No <br/>
@@ -36,7 +36,7 @@ Icon | Name | Hull Number | Present
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Dunlap | DD-384 | No <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Fanning | DD-385 | No <br/>
 
-<details/>
+</details>
 
 ### Overview
 

@@ -30,7 +30,7 @@ Icon | Name | Hull Number | Present
 ![UnknownBB](/Icons/Ship/UnknownDD.png) | Wainwright | DD-419 | No <br/>
 ![UnknownBB](/Icons/Ship/UnknownDD.png) | Buck | DD-420 | No <br/>
 
-<details/>
+</details>
 
 ### Overview
 
