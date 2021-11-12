@@ -8,7 +8,7 @@ Ordered | Completed | Lost | Retired
 Year Introduced: 1940. <br/>
  
 Predecessor : [Sims Class](/History/SimsClass.md) <br/>
-Successor : Gleaves Class <br/>
+Successor : [Gleaves Class](/History/GleavesClass.md) <br/>
 
 #### Members of Class: <br/>
 
@@ -47,7 +47,7 @@ Icon | Name | Hull Number | Present
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Nields | DD-616 | No <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Ordronaux | DD-617 | No <br/>
 
-<details/>
+</details>
 
 ### Overview
 

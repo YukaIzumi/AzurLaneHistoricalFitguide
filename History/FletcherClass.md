@@ -7,7 +7,7 @@ Ordered | Completed | Lost | Preserved
  
 Year Introduced: 1939. <br/>
  
-Predecessor : Gleaves Class <br/>
+Predecessor : [Gleaves Class](/History/GleavesClass.md) <br/>
 Successor : [Allen M. Sumner Class](/History/AllenMSumnerClass.md) <br/>
 
 #### Members of Class: <br/>

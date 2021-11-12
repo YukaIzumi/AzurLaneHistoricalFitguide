@@ -7,7 +7,7 @@ Ordered | Completed | Lost | Retired
  
 Year Introduced: 1937. <br/>
  
-Predecessor : Behnam Class <br/>
+Predecessor : [Behnam Class](/History/BenhamClass.md) <br/>
 Successor : [Benson Class](/History/BensonClass.md) <br/>
 
 #### Members of Class: <br/>
