@@ -1,4 +1,4 @@
-# Porter Class
+# Mahan Class
 ## US Navy
 
 Ordered | Completed | Lost | Retired
