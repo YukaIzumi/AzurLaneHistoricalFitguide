@@ -40,7 +40,7 @@ This class was restricted by the Second Washington Naval Treaty. These ships dis
 
 Armament Type | Name |
  ------ | ------ |
-![Single5in38Mk21](/Icons/Equipment/Guns/DD/5in38Mk21.png) | Single 5"38 Mk 21 x 4, in ABXY arrangement. Mounts A and B partially enclosed.
+![Single5in38Mk21](/Icons/Equipment/Guns/DD/5in38Mk21.png) | Single 5"38 Mk 25 / 24 x 4, in ABXY arrangement. Mounts A and B partially enclosed Mark 25, Mounts X and Y open pedestal Mark 24.
 ![Quadruple21in](/Icons/Equipment/Torpedo/Surface/21inQuadrupleUSN.png) | Quadruple 21" Torpedo Tubes x 4, 2 per side.
 ![0.5inAAMG](/Icons/Equipment/AA/0.5inAAMG.png) | .50 caliber Browning AA Machine Gun x 4.
 ![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge rack x 2, mounted aft. <br/>
