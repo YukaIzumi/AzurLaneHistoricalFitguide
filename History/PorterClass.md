@@ -91,7 +91,7 @@ Armament Type | Name |
  ![Single5in38](/Icons/Equipment/Guns/DD/5in38.png) | Single 5"38 Mk 30 x 1 in X mount.
 ![Quad40mmBofors](/Icons/Equipment/AA/Quad40mmUSN.png) | Quadruple 40mm56 Bofors Mk 2 x 3. <br/>
 ![Twin40mmBofors](/Icons/Equipment/AA/Twin40mmUSN.png) | Twin 40mm56 Bofors Mk 2 x 2.
-![20mmOerlikonT](/Icons/Equipment/AA/20mmOerlikonT.png) | Twin 20mm Oerlikon x 4 <br/>
+![20mmOerlikonT](/Icons/Equipment/AA/20mmOerlikonT.png) | Twin 20mm Oerlikon x 4. <br/>
 ![DC](/Icons/Equipment/Auxiliary/DepthCharge.png) | Depth charge K-gun projector x 2, mounted rear third of ship, 1 per side.
 ![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge rack x 1, mounted aft. <br/>
 
