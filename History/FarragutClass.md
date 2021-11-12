@@ -11,6 +11,10 @@ Predecessor : Clemson Class <br/>
 Successor : Porter Class <br/>
 
 #### Members of Class: <br/>
+
+<details>
+	<summary>Click to Expand List</summary>
+	
 Icon | Name | Hull Number | Present
 | ------ | ------ | ------ |  ------ |
 ![UnknownBB](/Icons/Ship/UnknownDD.png) | Farragut | DD-348 | No <br/>
@@ -21,6 +25,8 @@ Icon | Name | Hull Number | Present
 ![UnknownBB](/Icons/Ship/UnknownDD.png) | Walke | DD-353 | No <br/>
 ![UnknownBB](/Icons/Ship/UnknownDD.png) | Morris | DD-354 | No <br/>
 ![Aylwin](/Icons/Ship/EagleUnion/Aylwin.png)| Aylwin | DD-355 | Yes <br/>
+
+</details>
 
 ### Overview
 

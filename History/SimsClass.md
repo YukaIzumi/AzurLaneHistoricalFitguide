@@ -11,6 +11,10 @@ Predecessor : Behnam Class <br/>
 Successor : [Benson Class](/History/BensonClass.md) <br/>
 
 #### Members of Class: <br/>
+
+<details>
+	<summary>Click to Expand List</summary>
+	
 Icon | Name | Hull Number | Present
 | ------ | ------ | ------ |  ------ |
 ![Sims](/Icons/Ship/EagleUnion/Sims.png) | Sims | DD-409 | Yes <br/>
@@ -25,6 +29,8 @@ Icon | Name | Hull Number | Present
 ![UnknownBB](/Icons/Ship/UnknownDD.png) | Roe | DD-418 | No <br/>
 ![UnknownBB](/Icons/Ship/UnknownDD.png) | Wainwright | DD-419 | No <br/>
 ![UnknownBB](/Icons/Ship/UnknownDD.png) | Buck | DD-420 | No <br/>
+
+<details/>
 
 ### Overview
 

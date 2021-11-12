@@ -11,6 +11,10 @@ Predecessor : [Sims Class](/History/SimsClass.md) <br/>
 Successor : Gleaves Class <br/>
 
 #### Members of Class: <br/>
+
+<details>
+	<summary>Click to Expand List</summary>
+
 Icon | Name | Hull Number | Present
 | ------ | ------ | ------ |  ------ |
 ![Benson](/Icons/Ship/EagleUnion/Benson.png) | Benson | DD-421 | Yes <br/>
@@ -42,6 +46,8 @@ Icon | Name | Hull Number | Present
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | McLanahan | DD-615 | No <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Nields | DD-616 | No <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Ordronaux | DD-617 | No <br/>
+
+<details/>
 
 ### Overview
 
