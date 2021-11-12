@@ -39,7 +39,7 @@ This class was restricted by the Second Washington Naval Treaty. These ships dis
 Armament Type | Name |
  ------ | ------ |
 ![5in38Mk32](/Icons/Equipment/Guns/DD/5in38Mk32.png) | Twin 5"38 Mk 22 x 4, in ABXY arrangement.*
-![Quadruple21in](/Icons/Equipment/Torpedo/Surface/21inQuadrupleUSN.png) | Quadruple 21" Torpedo Tubes x 4, mounted 2 per side amidships.
+![Quadruple21in](/Icons/Equipment/Torpedo/Surface/21inQuadrupleUSN.png) | Quadruple 21" Torpedo Tubes x 2, mounted centrally.
 ![Quad28mm](/Icons/Equipment/AA/Quad1in.png) | Quadruple 1.1" Chicago Piano x 2.
 ![0.5inAAMG](/Icons/Equipment/AA/0.5inAAMG.png) | .50 caliber Browning AA Machine Gun x 2.
 ![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge rack x 2, mounted aft. <br/>
@@ -49,7 +49,7 @@ Armament Type | Name |
 Armament Type | Name |
  ------ | ------ |
 ![5in38Mk32](/Icons/Equipment/Guns/DD/5in38Mk32.png) | Twin 5"38 Mk 22 x 4, in ABXY arrangement.*
-![Quadruple21in](/Icons/Equipment/Torpedo/Surface/21inQuadrupleUSN.png) | Quadruple 21" Torpedo Tubes x 4, mounted 2 per side amidships.
+![Quadruple21in](/Icons/Equipment/Torpedo/Surface/21inQuadrupleUSN.png) | Quadruple 21" Torpedo Tubes x 2, mounted centrally.
 ![Twin40mmBofors](/Icons/Equipment/AA/Twin40mmUSN.png) | Twin 40mm56 Bofors Mk 2 x 1.
 ![20mmOerlikon](/Icons/Equipment/AA/20mmOerlikon.png) | 20mm Oerlikon x 6.
 ![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge rack x 2, mounted aft. <br/>
@@ -59,6 +59,7 @@ Armament Type | Name |
 Armament Type | Name |
  ------ | ------ |
  ![Twin5in38](/Icons/Equipment/Guns/DD/5in38Mk38.png) | Twin 5"38 Mk 38 x 2, located on A and Y locations.
+ ![Quadruple21in](/Icons/Equipment/Torpedo/Surface/21inQuadrupleUSN.png) | Quadruple 21" Torpedo Tubes x 2, mounted centrally.
  ![Single5in38](/Icons/Equipment/Guns/DD/5in38.png) | Single 5"38 Mk 30 x 1 in X mount.
 ![Twin40mmBofors](/Icons/Equipment/AA/Twin40mmUSN.png) | Twin 40mm56 Bofors Mk 2 x 8.
 ![20mmOerlikon](/Icons/Equipment/AA/20mmOerlikon.png) | 20mm Oerlikon x 1.
@@ -70,7 +71,7 @@ Armament Type | Name |
  ------ | ------ |
  ![Twin5in38](/Icons/Equipment/Guns/DD/5in38Mk38.png) | Twin 5"38 Mk 38 x 2, located on A and Y locations.
  ![Single5in38](/Icons/Equipment/Guns/DD/5in38.png) | Single 5"38 Mk 30 x 1 in X mount.
-![Quadruple21in](/Icons/Equipment/Torpedo/Surface/21inQuadrupleUSN.png) | Quadruple 21" Torpedo Tubes x 4, mounted 2 per side amidships.
+![Quadruple21in](/Icons/Equipment/Torpedo/Surface/21inQuadrupleUSN.png) | Quadruple 21" Torpedo Tubes x 2, mounted centrally.
 ![Quad40mmBofors](/Icons/Equipment/AA/Quad40mmUSN.png) | Quadruple 40mm56 Bofors Mk 2 x 1 on B gun mount location.
 ![20mmOerlikon](/Icons/Equipment/AA/20mmOerlikon.png) | 20mm Oerlikon x 8.
 ![DC](/Icons/Equipment/Auxiliary/DepthCharge.png) | Depth charge K-gun projector x 4, mounted rear third of ship, 2 per side.
