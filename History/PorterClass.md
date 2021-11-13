@@ -44,7 +44,7 @@ This class was restricted by the Second Washington Naval Treaty. These ships dis
 
 Armament Type | Name |
  ------ | ------ |
-![5in38Mk32](/Icons/Equipment/Guns/DD/5in38Mk32.png) | Twin 5"38 Mk 22 x 4, in ABXY arrangement.*
+![5in38Mk32](/Icons/Equipment/Guns/DD/5in38Mk22.png) | Twin 5"38 Mk 22 x 4, in ABXY arrangement.*
 ![Quadruple21in](/Icons/Equipment/Torpedo/Surface/21inQuadrupleUSN.png) | Quadruple 21" Torpedo Tubes x 2, mounted centrally.
 ![Quad28mm](/Icons/Equipment/AA/Quad1in.png) | Quadruple 1.1" Chicago Piano x 2.
 ![0.5inAAMG](/Icons/Equipment/AA/0.5inAAMG.png) | .50 caliber Browning AA Machine Gun x 2.
@@ -54,7 +54,7 @@ Armament Type | Name |
 
 Armament Type | Name |
  ------ | ------ |
-![5in38Mk32](/Icons/Equipment/Guns/DD/5in38Mk32.png) | Twin 5"38 Mk 22 x 4, in ABXY arrangement.*
+![5in38Mk32](/Icons/Equipment/Guns/DD/5in38Mk22.png) | Twin 5"38 Mk 22 x 4, in ABXY arrangement.*
 ![Quadruple21in](/Icons/Equipment/Torpedo/Surface/21inQuadrupleUSN.png) | Quadruple 21" Torpedo Tubes x 2, mounted centrally.
 ![Twin40mmBofors](/Icons/Equipment/AA/Twin40mmUSN.png) | Twin 40mm56 Bofors Mk 2 x 1.
 ![20mmOerlikon](/Icons/Equipment/AA/20mmOerlikon.png) | 20mm Oerlikon x 6.
