@@ -5,7 +5,7 @@ Ordered | Completed | Lost | Retired
  ------ | ------ | ------ | ------ 
 8 | 8 | 1 | 7 <br/>
  
-Year Introduced: 1916. <br/>
+Year Introduced: 1916 / 1935. <br/>
  
 Predecessor : [Farragut Class](/History/FarragutClass.md) <br/>
 Successor : [Mahan Class](/History/MahanClass.md) <br/>
@@ -48,7 +48,7 @@ Armament Type | Name |
 ![Quadruple21in](/Icons/Equipment/Torpedo/Surface/21inQuadrupleUSN.png) | Quadruple 21" Torpedo Tubes x 2, mounted centrally.
 ![Quad28mm](/Icons/Equipment/AA/Quad1in.png) | Quadruple 1.1" Chicago Piano x 2.
 ![0.5inAAMG](/Icons/Equipment/AA/0.5inAAMG.png) | .50 caliber Browning AA Machine Gun x 2.
-![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge rack x 2, mounted aft. <br/>
+![ImprovedDC](/Icons/Equipment/Auxiliary/DepthChargeRack.png) | Depth charge rack x 2, mounted aft. <br/>
 
 #### 1942
 
@@ -58,7 +58,7 @@ Armament Type | Name |
 ![Quadruple21in](/Icons/Equipment/Torpedo/Surface/21inQuadrupleUSN.png) | Quadruple 21" Torpedo Tubes x 2, mounted centrally.
 ![Twin40mmBofors](/Icons/Equipment/AA/Twin40mmUSN.png) | Twin 40mm56 Bofors Mk 2 x 1.
 ![20mmOerlikon](/Icons/Equipment/AA/20mmOerlikon.png) | 20mm Oerlikon x 6.
-![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge rack x 2, mounted aft. <br/>
+![ImprovedDC](/Icons/Equipment/Auxiliary/DepthChargeRack.png) | Depth charge rack x 2, mounted aft. <br/>
 
 #### 1944
 
@@ -69,7 +69,7 @@ Armament Type | Name |
  ![Quadruple21in](/Icons/Equipment/Torpedo/Surface/21inQuadrupleUSN.png) | Quadruple 21" Torpedo Tubes x 2, mounted centrally. 
 ![Twin40mmBofors](/Icons/Equipment/AA/Twin40mmUSN.png) | Twin 40mm56 Bofors Mk 2 x 8.
 ![20mmOerlikon](/Icons/Equipment/AA/20mmOerlikon.png) | 20mm Oerlikon x 1.
-![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge rack x 2, mounted aft. <br/>
+![ImprovedDC](/Icons/Equipment/Auxiliary/DepthChargeRack.png) | Depth charge rack x 2, mounted aft. <br/>
 
 #### 1944 Late Mod 1
 
@@ -81,7 +81,7 @@ Armament Type | Name |
 ![Quad40mmBofors](/Icons/Equipment/AA/Quad40mmUSN.png) | Quadruple 40mm56 Bofors Mk 2 x 1 on B gun mount location.
 ![20mmOerlikon](/Icons/Equipment/AA/20mmOerlikon.png) | 20mm Oerlikon x 8.
 ![DC](/Icons/Equipment/Auxiliary/DepthCharge.png) | Depth charge K-gun projector x 4, mounted rear third of ship, 2 per side.
-![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge rack x 2, mounted aft. <br/>
+![ImprovedDC](/Icons/Equipment/Auxiliary/DepthChargeRack.png) | Depth charge rack x 2, mounted aft. <br/>
 
 #### 1944 Late Mod 2
 
@@ -93,7 +93,7 @@ Armament Type | Name |
 ![Twin40mmBofors](/Icons/Equipment/AA/Twin40mmUSN.png) | Twin 40mm56 Bofors Mk 2 x 2.
 ![20mmOerlikonT](/Icons/Equipment/AA/20mmOerlikonT.png) | Twin 20mm Oerlikon x 4. <br/>
 ![DC](/Icons/Equipment/Auxiliary/DepthCharge.png) | Depth charge K-gun projector x 2, mounted rear third of ship, 1 per side.
-![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge rack x 1, mounted aft. <br/>
+![ImprovedDC](/Icons/Equipment/Auxiliary/DepthChargeRack.png) | Depth charge rack x 1, mounted aft. <br/>
 
 #### Sensor Equipment
 

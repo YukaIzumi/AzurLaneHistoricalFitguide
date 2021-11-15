@@ -68,7 +68,7 @@ Armament Type | Name |
 ![Single5in38](/Icons/Equipment/Guns/DD/5in38.png) | Single 5"38 Mk 30 x 5, in ABPXY arrangement.
 ![Quintuple21in](/Icons/Equipment/Torpedo/Surface/21inQuintupleUSN.png) | Quintuple 21" Torpedo Tubes x 2, centerline mounted.
 ![0.5inAAMG](/Icons/Equipment/AA/0.5inAAMG.png) | .50 caliber Browning AA Machine Gun x 6.
-![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge rack x 2, mounted aft. <br/>
+![DCRack](/Icons/Equipment/Auxiliary/DepthChargeRack.png) | Depth charge rack x 2, mounted aft. <br/>
 
 #### Pre-1942 Upgraded
 
@@ -78,7 +78,7 @@ Armament Type | Name |
 ![Quintuple21in](/Icons/Equipment/Torpedo/Surface/21inQuintupleUSN.png) | Quintuple 21" Torpedo Tubes x 2, centerline mounted.
 ![Quad28mm](/Icons/Equipment/AA/Quad1in.png) | Quadruple 1.1" Chicago Piano x 1.
 ![20mmOerlikon](/Icons/Equipment/AA/20mmOerlikon.png) | 20mm Oerlikon x 6.
-![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge rack x 2, mounted aft. <br/>
+![DCRack](/Icons/Equipment/Auxiliary/DepthChargeRack.png) | Depth charge rack x 2, mounted aft. <br/>
 
 #### 1942
 
@@ -88,8 +88,8 @@ Armament Type | Name |
 ![Quintuple21in](/Icons/Equipment/Torpedo/Surface/21inQuintupleUSN.png) | Quintuple 21" Torpedo Tubes x 2, centerline mounted.
 ![Twin40mmBofors](/Icons/Equipment/AA/Twin40mmUSN.png) | Twin 40mm56 Bofors Mk 2 x 4.
 ![20mmOerlikon](/Icons/Equipment/AA/20mmOerlikon.png) | 20mm Oerlikon x 7.
-![DC](/Icons/Equipment/Auxiliary/DepthCharge.png) | Depth charge K-gun projector x 4-6, mounted rear third of ship, 3 per side.
-![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge rack x 2, mounted aft. <br/>
+![DC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge K-gun projector x 4-6, mounted rear third of ship, 3 per side.
+![DCRack](/Icons/Equipment/Auxiliary/DepthChargeRack.png) | Depth charge rack x 2, mounted aft. <br/>
 
 #### 1945 Full-AA Duty
 
@@ -99,8 +99,8 @@ Armament Type | Name |
 ![Quad40mmBofors](/Icons/Equipment/AA/Quad40mmUSN.png) | Quadruple 40mm Bofors x 2.
 ![Twin40mmBofors](/Icons/Equipment/AA/Twin40mmUSN.png) | Twin 40mm56 Bofors Mk 2 x 2.
 ![20mmOerlikon](/Icons/Equipment/AA/20mmOerlikon.png) | 20mm Oerlikon x 7.
-![DC](/Icons/Equipment/Auxiliary/DepthCharge.png) | Depth charge K-gun projector x 4-6, mounted rear third of ship, 3 per side.
-![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge rack x 2, mounted aft. <br/>
+![DC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge K-gun projector x 4-6, mounted rear third of ship, 3 per side.
+![DCRack](/Icons/Equipment/Auxiliary/DepthChargeRack.png) | Depth charge rack x 2, mounted aft. <br/>
 
 #### 1945 Pacific Service
 
@@ -110,8 +110,8 @@ Armament Type | Name |
 ![Quintuple21in](/Icons/Equipment/Torpedo/Surface/21inQuintupleUSN.png) | Quintuple 21" Torpedo Tubes x 1, centerline mounted.
 ![Twin40mmBofors](/Icons/Equipment/AA/Twin40mmUSN.png) | Twin 40mm56 Bofors Mk 2 x 4.
 ![20mmOerlikon](/Icons/Equipment/AA/20mmOerlikon.png) | 20mm Oerlikon x 7.
-![DC](/Icons/Equipment/Auxiliary/DepthCharge.png) | Depth charge K-gun projector x 4-6, mounted rear third of ship, 3 per side.
-![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge rack x 2, mounted aft. <br/>
+![DC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge K-gun projector x 4-6, mounted rear third of ship, 3 per side.
+![DCRack](/Icons/Equipment/Auxiliary/DepthChargeRack.png) | Depth charge rack x 2, mounted aft. <br/>
 
 #### Sensor Equipment
 

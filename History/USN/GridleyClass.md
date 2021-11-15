@@ -43,7 +43,7 @@ Armament Type | Name |
 ![Single5in38Mk21](/Icons/Equipment/Guns/DD/5in38Mk21.png) | Single 5"38 Mk 25 / 24 x 4, in ABXY arrangement. Mounts A and B partially enclosed Mark 25, Mounts X and Y open pedestal Mark 24.
 ![Quadruple21in](/Icons/Equipment/Torpedo/Surface/21inQuadrupleUSN.png) | Quadruple 21" Torpedo Tubes x 4, 2 per side.
 ![0.5inAAMG](/Icons/Equipment/AA/0.5inAAMG.png) | .50 caliber Browning AA Machine Gun x 4.
-![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge rack x 2, mounted aft. <br/>
+![ImprovedDC](/Icons/Equipment/Auxiliary/DepthChargeRack.png) | Depth charge rack x 2, mounted aft. <br/>
 
 #### 1943
 
@@ -53,7 +53,7 @@ Armament Type | Name |
 ![Quadruple21in](/Icons/Equipment/Torpedo/Surface/21inQuadrupleUSN.png) | Quadruple 21" Torpedo Tubes x 4, 2 per side.
 ![20mmOerlikon](/Icons/Equipment/AA/20mmOerlikon.png) | 20mm Oerlikon x 7.
 ![DC](/Icons/Equipment/Auxiliary/DepthCharge.png) | Depth charge K-gun projector x 4, mounted rear of ship, 2 per side.
-![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge rack x 2, mounted aft. <br/>
+![ImprovedDC](/Icons/Equipment/Auxiliary/DepthChargeRack.png) | Depth charge rack x 2, mounted aft. <br/>
 
 #### Sensor Equipment
 

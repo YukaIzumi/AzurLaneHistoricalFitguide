@@ -98,8 +98,8 @@ Armament Type | Name |
 ![Quad40mmBofors](/Icons/Equipment/AA/Quad40mmUSN.png) | Quadruple 40mm56 Bofors Mk 2 x 2, mounted one per side in nests abreast fore funnel.
 ![Twin40mmBofors](/Icons/Equipment/AA/Twin40mmUSN.png) | Twin 40mm56 Bofors Mk 2 x 2, mounted on bridge wings.
 ![20mmOerlikon](/Icons/Equipment/AA/20mmOerlikon.png) | 20mm Oerlikon x 11.
-![DC](/Icons/Equipment/Auxiliary/DepthCharge.png) | Depth charge K-gun projector x 6, mounted aftward abreast rear superstructure, 3 per side.
-![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge rack x 2, mounted aft. <br/>
+![DC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge K-gun projector x 6, mounted aftward abreast rear superstructure, 3 per side.
+![DCRack](/Icons/Equipment/Auxiliary/DepthChargeRack.png) | Depth charge rack x 2, mounted aft. <br/>
 
 #### 1945
 
@@ -110,8 +110,8 @@ Armament Type | Name |
 ![Quad40mmBofors](/Icons/Equipment/AA/Quad40mmUSN.png) | Quadruple 40mm56 Bofors Mk 2 x 3, mounted one per side in nests abreast fore funnel. Third mount replaced rear torpedo tube.
 ![Twin40mmBofors](/Icons/Equipment/AA/Twin40mmUSN.png) | Twin 40mm56 Bofors Mk 2 x 2, mounted on bridge wings.
 ![20mmOerlikon](/Icons/Equipment/AA/20mmOerlikon.png) | 20mm Oerlikon x 11.
-![DC](/Icons/Equipment/Auxiliary/DepthCharge.png) | Depth charge K-gun projector x 6, mounted aftward abreast rear superstructure, 3 per side.
-![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge rack x 2, mounted aft. <br/>
+![DC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge K-gun projector x 6, mounted aftward abreast rear superstructure, 3 per side.
+![DCRack](/Icons/Equipment/Auxiliary/DepthChargeRack.png) | Depth charge rack x 2, mounted aft. <br/>
 
 #### 1950 - Postwar
 
@@ -120,8 +120,8 @@ Armament Type | Name |
 ![Twin5in38](/Icons/Equipment/Guns/DD/5in38Mk38.png) | Twin 5"38 Mk 38 x 3, in ABY arrangement.
 ![Quintuple21in](/Icons/Equipment/Torpedo/Surface/21inQuintupleUSN.png) | Quintuple 21" Torpedo Tubes x 1, centerline mounted.
 ![3in50Mk27](/Icons/Equipment/AA/3in50Mk27.png) | Twin 3"/50 Mk 27 x 2, Single mount X 1, mounted one per side in nests abreast fore funnel.
-![DC](/Icons/Equipment/Auxiliary/DepthCharge.png) | Depth charge K-gun projector x 6, mounted aftward abreast rear superstructure, 3 per side.
-![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge rack x 1, mounted aft. <br/>
+![DC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge K-gun projector x 6, mounted aftward abreast rear superstructure, 3 per side.
+![DCRack](/Icons/Equipment/Auxiliary/DepthChargeRack.png) | Depth charge rack x 1, mounted aft. <br/>
 ![Hedgehog](/Icons/Equipment/Auxiliary/Hedgehog.png) | Hedgehog ASW Mortar x 2, mounted fore, left and right, of bridge. <br/>
 
 

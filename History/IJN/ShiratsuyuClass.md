@@ -51,7 +51,7 @@ Armament Type | Name |
 ![Quad610](/Icons/Equipment/Torpedo/Surface/610mmQuadIJN-Kai.png) | Quadruple 61cm Torpedo Tubes x 2, centerline mounted.
 ![0.5inAAMG](/Icons/Equipment/AA/0.5inAAMG.png) | Type 93 13mm Machine Gun x 2.
 ![Type93](/Icons/Equipment/Auxiliary/OxygenTorpedoUR.png) | Type 93 Long Lance 61cm Torpedo x 16 (8 loaded, 8 in second-load).
-![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge rack x 2, mounted aft. 16 Depth Charges. <br/>
+![DCRack](/Icons/Equipment/Auxiliary/DepthChargeRack.png) | Depth charge roll-off x 2, mounted toward aft, rolling off sides. 16 Depth Charges. <br/>
 
 * 1: Yūdachi used the Type B3 twin mounting.
 * 2: Shiratsuyu used the Type A single mount.
@@ -67,11 +67,11 @@ Armament Type | Name |
 ![25mmT](/Icons/Equipment/AA/25mmType96T.png) | 25mm/60 Type 96 Mod 1 Twin Mounting x 5-6.
 ![0.5inAAMG](/Icons/Equipment/AA/0.5inAAMG.png) | Type 93 13mm Machine Gun x 4.
 ![Type93](/Icons/Equipment/Auxiliary/OxygenTorpedoUR.png) | Type 93 Long Lance 61cm Torpedo x 16 (8 loaded, 8 in second-load).
-![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge rack x 2, mounted aft. 16 Depth Charges. <br/>
+![DCRack](/Icons/Equipment/Auxiliary/DepthChargeRack.png) | Depth charge roll-off x 2, mounted toward aft, rolling off sides. 16 Depth Charges. <br/>
 
 #### Sensor Equipment
 
 Type | Name |
  ------ | ------ |
-![Type22](/Icons/Equipment/Auxiliary/Placeholder.png) | Type 22 10cm Surface-Air Search Radar.  <br/>
+![Type22](/Icons/Equipment/Auxiliary/Type22Radar.png) | Type 22 10cm Surface-Air Search Radar.  <br/>
 ![OldSonar](/Icons/Equipment/Auxiliary/9960ATraining.png) | Type 93 SONAR Equipment. <br/>
