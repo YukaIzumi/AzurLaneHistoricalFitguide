@@ -5,7 +5,7 @@ Ordered | Completed | Lost | Retired
  ------ | ------ | ------ | ------ 
 10 | 10 | 10 | 0 <br/>
  
-Year Introduced: 1937. <br/>
+Year Introduced: 1931. <br/>
  
 Predecessor : [Hatsuharu Class](/History/IJN/HatsuharuClass.md) <br/>
 Successor : [Asashio Class](/History/IJN/AsashioClass.md) <br/>
@@ -15,32 +15,30 @@ Successor : [Asashio Class](/History/IJN/AsashioClass.md) <br/>
 <details>
 	<summary>Click to Expand List</summary>
 	
-Icon | Name | Hull Number | Present
-| ------ | ------ | ------ |  ------ |
-![Sims](/Icons/Ship/EagleUnion/Sims.png) | Sims | DD-409 | Yes <br/>
-![UnknownBB](/Icons/Ship/UnknownDD.png) | Hughes | DD-410 | No <br/>
-![UnknownBB](/Icons/Ship/UnknownDD.png) | Anderson | DD-411 | No <br/>
-![Hammann](/Icons/Ship/EagleUnion/Hammann.png) | Hammann | DD-412 | Yes <br/>
-![UnknownBB](/Icons/Ship/UnknownDD.png) | Mustin | DD-413 | No <br/>
-![UnknownBB](/Icons/Ship/UnknownDD.png) | Russell | DD-414 | No <br/>
-![UnknownBB](/Icons/Ship/UnknownDD.png) | O'Brien | DD-415 | No <br/>
-![UnknownBB](/Icons/Ship/UnknownDD.png) | Walke | DD-416 | No <br/>
-![UnknownBB](/Icons/Ship/UnknownDD.png) | Morris | DD-417 | No <br/>
-![UnknownBB](/Icons/Ship/UnknownDD.png) | Roe | DD-418 | No <br/>
-![UnknownBB](/Icons/Ship/UnknownDD.png) | Wainwright | DD-419 | No <br/>
-![UnknownBB](/Icons/Ship/UnknownDD.png) | Buck | DD-420 | No <br/>
+Icon | Name | Writing | Tanslation| Present
+| ------ | ------ | ------ |  ------ |  ------ |
+![Shiratsuyu](/Icons/Ship/SakuraEmpire/Shiratsuyu.png) | Shiratsuyu | 白露、シラツユ | White Dew | Yes <br/>
+![Shigure](/Icons/Ship/SakuraEmpire/Shigure.png) | Shigure | 時雨、シグレ | Autumn Shower | Yes <br/>
+![UnknownDD](/Icons/Ship/UnknownDD.png) | Murasume | 村雨、ムラサメ |　Scattered Showers | No <br/>
+![Yudachi](/Icons/Ship/SakuraEmpire/Yudachi.png) | Yūdachi |　夕立、ユウダチ | Evening Thunder Shower in Summer | Yes <br/>
+![UnknownDD](/Icons/Ship/UnknownDD.png) | Harusame | 春雨、ハルサメ |　Spring Shower | No <br/>
+![UnknownDD](/Icons/Ship/UnknownDD.png) | Murasume | 五月雨、サミダレ |　Early Summer Rain | No <br/>
+![Umikaze](/Icons/Ship/SakuraEmpire/Umikaze.png) | Umikaze | 海風、ウミカゼ | Sea Breeze | Yes <br/>
+![Yamakaze](/Icons/Ship/SakuraEmpire/Yamakaze.png) | Yamakaze | 山風、ヤマカゼ | Wind from the Hills | Yes <br/>
+![Kawakaze](/Icons/Ship/SakuraEmpire/Kawakaze.png) | Kawakaze | 江風、カワカゼ | Wind on the River | Yes <br/>
+![UnknownDD](/Icons/Ship/UnknownDD.png) | Suzukaze | 涼風、スズカゼ |　Cool Summer Breeze | No <br/>
 
 </details>
 
 ### Overview
 
-The Sims Class of Destroyers were introduced to the Fleet between 1939 and 1940. Their entry marked the last interwar series of destroyers built by the US Navy as, later in 1941, the US would enter the Second World War. All ships saw action in the war and were out-of-comission by 1946. These were the sixth series of destroyers built after construction resumed in the interwar period, the first being the [Farragut Class](/History/FarragutClass.md). <br/>
+Modified versions of the [Hatsuharu Class](History/IJN/HatsuharuClass.md), these ships were planned as part of the Hatsuharu class under the "Circle One" Naval Expansion Plan. The top-heavy nature of the previous class lead to a delay of those final 6 ships to undergo heavy modification and become the Shiratsuyu Class. An additional 4 members of this class were constructed under the "Circle Two" Naval Expansion Plan. These ships mounted the first quadruple torpedo mounts in the Japanese Navy and employed telephone communications to said stations. <br/>
 
-The ships were crewed by 16 officers and 253 enlisted men. <br/>
+The ships carried a complement of 180 men. <br/>
 
 ### Hull and Propulsion
 
-Under the Second Washington Naval Treaty the Sims class were held to a tight standard of construction. This lead to the ships being only marginally larger than their predecessor and their grouping with the 1500 ton destroyers. At full load these ships weighed roughly 2293 tons. Propulsion was supplied by 3 Babcock & Wilcox Oil Fired Express Broilers (containing a Super-heater and Economizer) powering 2 Westinghouse E. & M. Co. Impulse Reaction Cross Compound geared turbines (with High Power Turbine for Cruising). These ships could reach up to 37 knots. The ships carried up to 53.11 tons of reserve feed water for the broilers, 36.89 tons of Diesel oil, and up to 451.39 Tons of Oil fuel.
+Closely related to the Ariake sub-class of the Hatsuharu class, these ships were identical barring the bridge shape, funnel inclination, and armament. These ships displaced 1712 tons. Propulsion was supplied by 3 Kanpon boilers driving 2 shaft Kampon geared turbines for a total output of 42000 shaft horsepower. These ships could maintain 34 knots for a total cruising range of 4000 nautical miles at 18 knots.
 
 ### Armaments
 
@@ -48,35 +46,32 @@ Under the Second Washington Naval Treaty the Sims class were held to a tight sta
 
 Armament Type | Name |
  ------ | ------ |
-![Single5in38](/Icons/Equipment/Guns/DD/5in38.png) | Single 5"38 Mk 30 x 5, in ABPXY arrangement.
-![Quadruple21in](/Icons/Equipment/Torpedo/Surface/21inQuadrupleUSN.png) | Quadruple 21" Torpedo Tubes x 2, centerline mounted.
-![0.5inAAMG](/Icons/Equipment/AA/0.5inAAMG.png) | .50 caliber Browning AA Machine Gun x 4.
-![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge rack x 2, mounted aft. <br/>
+![127mm50ModA](/Icons/Equipment/Guns/DD/50Caliber3rdYearType12.7cmModA.png) | 50 Caliber 3rd Year Type 12.7cm Type C x 2, mounted on bow and stern.*1
+![127mm50ModA](/Icons/Equipment/Guns/DD/50Caliber3rdYearType12.7cmModBSingle.png) | 50 Caliber 3rd Year Type 12.7cm Type B x 1, mounted on superstructure toward aft facing fore.*2
+![Quad610](/Icons/Equipment/Torpedo/Surface/610mmQuadIJN-Kai.png) | Quadruple 61cm Torpedo Tubes x 2, centerline mounted.
+![0.5inAAMG](/Icons/Equipment/AA/0.5inAAMG.png) | Type 93 13mm Machine Gun x 2.
+![Type93](/Icons/Equipment/Auxiliary/OxygenTorpedoUR.png) | Type 93 Long Lance 61cm Torpedo x 16 (8 loaded, 8 in second-load).
+![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge rack x 2, mounted aft. 16 Depth Charges. <br/>
 
-#### 1941
-
-Armament Type | Name |
- ------ | ------ |
-![Single5in38](/Icons/Equipment/Guns/DD/5in38.png) | Single 5"38 Mk 30 x 4 in ABXY arrangement.
-![Quadruple21in](/Icons/Equipment/Torpedo/Surface/21inQuadrupleUSN.png) | Quadruple 21" Torpedo Tubes x 2, centerline mounted.
-![0.5inAAMG](/Icons/Equipment/AA/0.5inAAMG.png) | .50 caliber Browning AA Machine Gun x 8.
-![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge rack x 2, mounted aft.<br/>
+* 1: Yūdachi used the Type B3 twin mounting.
+* 2: Shiratsuyu used the Type A single mount.
 
 #### 1944
 
 Armament Type | Name |
  ------ | ------ |
-![Single5in38](/Icons/Equipment/Guns/DD/5in38.png) | Single 5"38 Mk 30 x 4 in ABXY arrangement.
-![Quadruple21in](/Icons/Equipment/Torpedo/Surface/21inQuadrupleUSN.png) | Quadruple 21" Torpedo Tubes x 2, centerline mounted.
-![Twin40mmBofors](/Icons/Equipment/AA/Twin40mmUSN.png) | Twin 40mm56 Bofors Mk 2 x 2.
-![20mmOerlikon](/Icons/Equipment/AA/20mmOerlikon.png) | 20mm Oerlikon x 4.
-![DC](/Icons/Equipment/Auxiliary/DepthCharge.png) | Depth charge K-gun projector x 6, mounted rear third of ship, 3 per side.
-![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge rack x 2, mounted aft. <br/>
+![127mm50ModA](/Icons/Equipment/Guns/DD/50Caliber3rdYearType12.7cmModA.png) | 50 Caliber 3rd Year Type 12.7cm Type C x 2, mounted on bow and stern.*1
+![127mm50ModA]
+![Quad610](/Icons/Equipment/Torpedo/Surface/610mmQuadIJN-Kai.png) | Quadruple 61cm Torpedo Tubes x 2, centerline mounted.
+![25mmTR](/Icons/Equipment/AA/25mmType96TT.png) | 25mm/60 Type 96 Mod 1 Triple Mount x 2-3, replacing single mount.
+![25mmT](/Icons/Equipment/AA/25mmType96T.png) | 25mm/60 Type 96 Mod 1 Twin Mounting x 5-6.
+![0.5inAAMG](/Icons/Equipment/AA/0.5inAAMG.png) | Type 93 13mm Machine Gun x 4.
+![Type93](/Icons/Equipment/Auxiliary/OxygenTorpedoUR.png) | Type 93 Long Lance 61cm Torpedo x 16 (8 loaded, 8 in second-load).
+![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) | Depth charge rack x 2, mounted aft. 16 Depth Charges. <br/>
 
 #### Sensor Equipment
 
 Type | Name |
  ------ | ------ |
-![SGRadar](/Icons/Equipment/Auxiliary/SGRadar.png) | SG Surface Search 10cm Radar. <br/>
-![OldSonar](/Icons/Equipment/Auxiliary/OldSonar.png) | SONAR Equipment. <br/>
-![Mk33](/Icons/Equipment/Auxiliary/Mk33FireDirector.png) | Mk33 Fire Director. <br/>
+![Type22](/Icons/Equipment/Auxiliary/Placeholder.png) | Type 22 10cm Surface-Air Search Radar.  <br/>
+![OldSonar](/Icons/Equipment/Auxiliary/9960ATraining.png) | Type 93 SONAR Equipment. <br/>
