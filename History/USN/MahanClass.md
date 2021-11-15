@@ -7,8 +7,8 @@ Ordered | Completed | Lost | Retired
  
 Year Introduced: 1934. <br/>
  
-Predecessor : [Porter Class](/History/PorterClass.md) <br/>
-Successor : [Gridley Class](/History/GridleyClass.md) <br/>
+Predecessor : [Porter Class](/History/USN/PorterClass.md) <br/>
+Successor : [Gridley Class](/History/USN/GridleyClass.md) <br/>
 
 #### Members of Class: <br/>
 

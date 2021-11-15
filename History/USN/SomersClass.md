@@ -7,8 +7,8 @@ Ordered | Completed | Lost | Retired
  
 Year Introduced: 1935. <br/>
  
-Predecessor : [Bagley Class](/History/BagleyClass.md) <br/>
-Successor : [Benham Class](/History/BenhamClass.md) <br/>
+Predecessor : [Bagley Class](/History/USN/BagleyClass.md) <br/>
+Successor : [Benham Class](/History/USN/BenhamClass.md) <br/>
 
 #### Members of Class: <br/>
 
@@ -27,7 +27,7 @@ Icon | Name | Hull Number | Present
 
 ### Overview
 
-Built to round out the 1850 ton standard displacement destroyers allotted by the London Naval Treaty, these ships were originally designed as a second generation of [Porter class](/History/PorterClass.md). Higher pressure boilers allowed for a single stack, reducing the weight of the ship and permitting a third centerline quadruple torpedo tube. These ships were top-heavy and overweight.
+Built to round out the 1850 ton standard displacement destroyers allotted by the London Naval Treaty, these ships were originally designed as a second generation of [Porter class](/History/USN/PorterClass.md). Higher pressure boilers allowed for a single stack, reducing the weight of the ship and permitting a third centerline quadruple torpedo tube. These ships were top-heavy and overweight.
 
 The ships were crewed by 10-16 officers and 225-278 enlisted men. <br/>
 

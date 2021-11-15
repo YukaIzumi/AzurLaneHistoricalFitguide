@@ -7,8 +7,8 @@ Ordered | Completed | Lost | Retired
  
 Year Introduced: 1935. <br/>
  
-Predecessor : [Gridley Class](/History/GridleyClass.md) <br/>
-Successor : [Somers Class](/History/SomersClass.md) <br/>
+Predecessor : [Gridley Class](/History/USN/GridleyClass.md) <br/>
+Successor : [Somers Class](/History/USN/SomersClass.md) <br/>
 
 #### Members of Class: <br/>
 

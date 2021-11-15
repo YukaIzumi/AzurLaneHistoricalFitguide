@@ -7,8 +7,8 @@ Ordered | Completed | Lost | Retired
  
 Year Introduced: 1935. <br/>
  
-Predecessor : [Mahan Class](/History/MahanClass.md) <br/>
-Successor : [Bagley Class](/History/BagleyClass.md) <br/>
+Predecessor : [Mahan Class](/History/USN/MahanClass.md) <br/>
+Successor : [Bagley Class](/History/USN/BagleyClass.md) <br/>
 
 #### Members of Class: <br/>
 

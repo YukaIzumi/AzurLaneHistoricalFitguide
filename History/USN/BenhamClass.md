@@ -7,8 +7,8 @@ Ordered | Completed | Lost | Retired
  
 Year Introduced: 1936. <br/>
  
-Predecessor : [Somers Class](/History/SomersClass.md) <br/>
-Successor : [Sims Class](/History/SimsClass.md) <br/>
+Predecessor : [Somers Class](/History/USN/SomersClass.md) <br/>
+Successor : [Sims Class](/History/USN/SimsClass.md) <br/>
 
 #### Members of Class: <br/>
 
