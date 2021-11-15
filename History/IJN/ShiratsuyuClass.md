@@ -46,7 +46,7 @@ Closely related to the Ariake sub-class of the Hatsuharu class, these ships were
 
 Armament Type | Name |
  ------ | ------ |
-![127mm50ModA](/Icons/Equipment/Guns/DD/50Caliber3rdYearType12.7cmModA.png) | 50 Caliber 3rd Year Type 12.7cm Type C x 2, mounted on bow and stern.*1
+![127mm50ModA](/Icons/Equipment/Guns/DD/50Caliber3rdYearType12.7cmModB.png) | 50 Caliber 3rd Year Type 12.7cm Type C x 2, mounted on bow and stern.*1
 ![127mm50ModA](/Icons/Equipment/Guns/DD/50Caliber3rdYearType12.7cmModBSingle.png) | 50 Caliber 3rd Year Type 12.7cm Type B x 1, mounted on superstructure toward aft facing fore.*2
 ![Quad610](/Icons/Equipment/Torpedo/Surface/610mmQuadIJN-Kai.png) | Quadruple 61cm Torpedo Tubes x 2, centerline mounted.
 ![0.5inAAMG](/Icons/Equipment/AA/0.5inAAMG.png) | Type 93 13mm Machine Gun x 2.
@@ -60,8 +60,7 @@ Armament Type | Name |
 
 Armament Type | Name |
  ------ | ------ |
-![127mm50ModA](/Icons/Equipment/Guns/DD/50Caliber3rdYearType12.7cmModA.png) | 50 Caliber 3rd Year Type 12.7cm Type C x 2, mounted on bow and stern.*1
-![127mm50ModA]
+![127mm50ModA](/Icons/Equipment/Guns/DD/50Caliber3rdYearType12.7cmModB.png) | 50 Caliber 3rd Year Type 12.7cm Type C x 2, mounted on bow and stern.*1
 ![Quad610](/Icons/Equipment/Torpedo/Surface/610mmQuadIJN-Kai.png) | Quadruple 61cm Torpedo Tubes x 2, centerline mounted.
 ![25mmTR](/Icons/Equipment/AA/25mmType96TT.png) | 25mm/60 Type 96 Mod 1 Triple Mount x 2-3, replacing single mount.
 ![25mmT](/Icons/Equipment/AA/25mmType96T.png) | 25mm/60 Type 96 Mod 1 Twin Mounting x 5-6.
