@@ -38,7 +38,7 @@ Fumizuki | Kisaragi | Mikazuki | Minazuki | Mutsuki | Nagatsuki | Uzuki
 ![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamouflage.png) <br/>
 
 ### Fubuki Class
-
+#### [Akatsuki Sub-Class](/History/IJN/AkatsukiClass.md)
 Destroyer <br/>
 
 #### Members of Class: <br/>
@@ -52,7 +52,7 @@ Akatsuki | Ayanami | Fubuki | Hibiki | Ikazuchi | Inazuma | Shirayuki | Uranami
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![NavalCamo](/Icons/Equipment/Auxiliary/OxygenTorpedoUR.png) <br/>
 
-### Hatsuharu Class
+### [Hatsuharu Class](/History/IJN/HatsuharuClass.md)
 
 Destroyer <br/>
 
@@ -67,7 +67,7 @@ Ariake | Hatsuharu | Hatsushimo | Wakaba | Yuugure
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![NavalCamo](/Icons/Equipment/Auxiliary/OxygenTorpedoUR.png) <br/>
 
-### Shiratsuyu Class
+### [Shiratsuyu Class](/History/IJN/ShiratsuyuClass.md)
 
 Destroyer <br/>
 
@@ -82,7 +82,7 @@ Kawakaze | Shigure | Shiratsuyu | Umikaze | Yamakaze | Yuudachi
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![NavalCamo](/Icons/Equipment/Auxiliary/OxygenTorpedoUR.png) <br/>
 
-### Asashio Class
+### [Asashio Class](/History/IJN/AsashioClass.md)
 
 Destroyer <br/>
 

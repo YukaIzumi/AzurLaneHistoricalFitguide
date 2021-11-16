@@ -7,8 +7,8 @@ Ordered | Completed | Lost | Retired
  
 Year Introduced: 1916 / 1935. <br/>
  
-Predecessor : [Farragut Class](/History/FarragutClass.md) <br/>
-Successor : [Mahan Class](/History/MahanClass.md) <br/>
+Predecessor : [Farragut Class](/History/USN/FarragutClass.md) <br/>
+Successor : [Mahan Class](/History/USN/MahanClass.md) <br/>
 
 #### Members of Class: <br/>
 

@@ -20,7 +20,7 @@ Icon | Name | Writing | Tanslation| Present
 ![Shiratsuyu](/Icons/Ship/SakuraEmpire/Shiratsuyu.png) | Shiratsuyu | 白露、シラツユ | White Dew | Yes <br/>
 ![Shigure](/Icons/Ship/SakuraEmpire/Shigure.png) | Shigure | 時雨、シグレ | Autumn Shower | Yes <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Murasume | 村雨、ムラサメ |　Scattered Showers | No <br/>
-![Yudachi](/Icons/Ship/SakuraEmpire/Yudachi.png) | Yūdachi |　夕立、ユウダチ | Evening Thunder Shower in Summer | Yes <br/>
+![Yudachi](/Icons/Ship/SakuraEmpire/Yuudachi.png) | Yūdachi |　夕立、ユウダチ | Evening Thunder Shower in Summer | Yes <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Harusame | 春雨、ハルサメ |　Spring Shower | No <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Murasume | 五月雨、サミダレ |　Early Summer Rain | No <br/>
 ![Umikaze](/Icons/Ship/SakuraEmpire/Umikaze.png) | Umikaze | 海風、ウミカゼ | Sea Breeze | Yes <br/>
@@ -51,7 +51,7 @@ Armament Type | Name |
 ![Quad610](/Icons/Equipment/Torpedo/Surface/610mmQuadIJN-Kai.png) | Quadruple 61cm Torpedo Tubes x 2, centerline mounted.
 ![0.5inAAMG](/Icons/Equipment/AA/0.5inAAMG.png) | Type 93 13mm Machine Gun x 2.
 ![Type93](/Icons/Equipment/Auxiliary/OxygenTorpedoUR.png) | Type 93 Long Lance 61cm Torpedo x 16 (8 loaded, 8 in second-load).
-![DCRack](/Icons/Equipment/Auxiliary/DepthChargeRack.png) | Depth charge roll-off x 2, mounted toward aft, rolling off sides. 16 Depth Charges. <br/>
+![DCRack](/Icons/Equipment/Auxiliary/DepthChargeRack.png) | Depth charge rack x 2, mounted toward aft, rolling off sides. 16 Depth Charges. <br/>
 
 * 1: Yūdachi used the Type B3 twin mounting.
 * 2: Shiratsuyu used the Type A single mount.
@@ -66,11 +66,11 @@ Armament Type | Name |
 ![25mmT](/Icons/Equipment/AA/25mmType96T.png) | 25mm/60 Type 96 Mod 1 Twin Mounting x 5-6.
 ![0.5inAAMG](/Icons/Equipment/AA/0.5inAAMG.png) | Type 93 13mm Machine Gun x 4.
 ![Type93](/Icons/Equipment/Auxiliary/OxygenTorpedoUR.png) | Type 93 Long Lance 61cm Torpedo x 16 (8 loaded, 8 in second-load).
-![DCRack](/Icons/Equipment/Auxiliary/DepthChargeRack.png) | Depth charge roll-off x 2, mounted toward aft, rolling off sides. 16 Depth Charges. <br/>
+![DCRack](/Icons/Equipment/Auxiliary/DepthChargeRack.png) | Depth charge rack x 2, mounted toward aft, rolling off sides. 16 Depth Charges. <br/>
 
 #### Sensor Equipment
 
 Type | Name |
  ------ | ------ |
-![Type22](/Icons/Equipment/Auxiliary/Type22Radar.png) | Type 22 10cm Surface-Air Search Radar.  <br/>
-![OldSonar](/Icons/Equipment/Auxiliary/9960ATraining.png) | Type 93 SONAR Equipment. <br/>
+![Type22](/Icons/Equipment/Auxiliary/Type22Radar.png) | Type 22 10cm Surface-Air Search Radar, Type 13 air search radar, Type E-27 radar countermeasure. <br/>
+![OldSonar](/Icons/Equipment/Auxiliary/9960ATraining.png) | Type 93 SONAR Equipment and Hydrophones. <br/>
