@@ -18,7 +18,7 @@ Successor : [Kagerō Class](/History/IJN/KagerouClass.md) <br/>
 Icon | Name | Writing | Tanslation| Present
 | ------ | ------ | ------ |  ------ |  ------ |
 ![Asashio](/Icons/Ship/SakuraEmpire/Asashio.png) | Asashio | 朝潮、アサシオ | Morning Tide | Yes <br/>
-![Oosiho](/Icons/Ship/SakuraEmpire/Oosiho.png) | Ōshio | 大潮、オオシオ | Great Tide | Yes <br/>
+![Oosiho](/Icons/Ship/SakuraEmpire/Ooshio.png) | Ōshio | 大潮、オオシオ | Great Tide | Yes <br/>
 ![Michishio](/Icons/Ship/SakuraEmpire/Michishio.png) | Michishio | 満潮、ミチシオ | Full Tide | Yes <br/>
 ![Arashio](/Icons/Ship/SakuraEmpire/Arashio.png) | Arashio | 荒潮、アラシオ | Stormy Tide | Yes <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Asagumo | 朝雲、アサグモ | Morning Cloud | No <br/>
