@@ -6,9 +6,11 @@ Ordered | Completed | Lost | Retired
 22 | 19 | 18 (+1) | 0 <br/>
  
 Year Introduced: 1939. <br/>
+
  
 Predecessor : [Asashio Class](/History/IJN/AsashioClass.md) <br/>
 Successor : [Yūgumo Class](/History/IJN/YuugumoClass.md) <br/>
+Successor : [Type-C Class](/History/IJN/TypeCClass.md) <br/>
 
 #### Members of Class: <br/>
 
