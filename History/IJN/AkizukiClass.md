@@ -98,7 +98,7 @@ Armament Type | Name |
 
 Type | Name |
  ------ | ------ |
-![Type21](/Icons/Equipment/Auxiliary/Type22AirRadar.png) | Type 21 1.5m Air Search Radar (Replaced in 1944).<br/>
+![Type21](/Icons/Equipment/Auxiliary/Type21AirRadar.png) | Type 21 1.5m Air Search Radar (Replaced in 1944).<br/>
 ![Type22](/Icons/Equipment/Auxiliary/Type22Radar.png) | Type 22 10cm Surface/Air Search Radar (1944, replaced Type 21). <br/> 
 ![Type13](/Icons/Equipment/Auxiliary/Type13AirRadar.png) | Type 13 Air Search Radar (1944 late). <br/>
 ![OldSonar](/Icons/Equipment/Auxiliary/9960ATraining.png) | Type 93 SONAR Equipment and Hydrophones. <br/>
