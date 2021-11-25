@@ -8,7 +8,7 @@ Ordered | Completed | Lost | Retired
 Year Introduced: 1939. <br/>
  
 Predecessor : [Asashio Class](/History/IJN/AsashioClass.md) <br/>
-Successor : [Yuugumō Class](/History/IJN/YuugumoClass.md) <br/>
+Successor : [Yūgumo Class](/History/IJN/YuugumoClass.md) <br/>
 
 #### Members of Class: <br/>
 
