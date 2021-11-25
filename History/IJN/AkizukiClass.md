@@ -25,7 +25,7 @@ Icon | Name | Writing | Tanslation | Program Number | Present
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Wakatsuki | 若月、ワカツキ | Young Moon |　109 | No <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Shimotsuki | 霜月、シモツキ | Frost Moon |　360 | No <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Fuyutsuki | 冬月、フユツキ | Winter Moon |　361 | No <br/>
-![UnknownDD](/Icons/Ship/UnknownDD.png) | Harutsuki | 春月、ハルツキ | Spring Moon |　362 | No <br/>
+![Harutsuki](/Icons/Ship/SakuraEmpire/Harutsuki.png) | Harutsuki | 春月、ハルツキ | Spring Moon |　362 | Yes <br/>
 ![Yoizuki](/Icons/Ship/SakuraEmpire/Yoizuki.png) | Yoizuki | 宵月、ヨイズキ | Twilight Moon |　363 | Yes <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Natsuzuki | 霜月、シモツキ | Summer Moon |　364 | No <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Michitsuki | 霜月、シモツキ | Full Moon |　365 | No <br/>
