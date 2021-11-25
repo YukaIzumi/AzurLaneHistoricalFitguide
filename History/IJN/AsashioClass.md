@@ -15,7 +15,7 @@ Successor : [Kagerō Class](/History/IJN/KagerouClass.md) <br/>
 <details>
 	<summary>Click to Expand List</summary>
 	
-Icon | Name | Writing | Tanslation| Present
+Icon | Name | Writing | Tanslation | Present
 | ------ | ------ | ------ |  ------ |  ------ |
 ![Asashio](/Icons/Ship/SakuraEmpire/Asashio.png) | Asashio | 朝潮、アサシオ | Morning Tide | Yes <br/>
 ![Oosiho](/Icons/Ship/SakuraEmpire/Ooshio.png) | Ōshio | 大潮、オオシオ | Great Tide | Yes <br/>
@@ -46,7 +46,7 @@ These ships displaced 2408 tons. Propulsion was supplied by 3 Kanpon high-pressu
 
 Armament Type | Name |
  ------ | ------ |
-![127mm50ModA](/Icons/Equipment/Guns/DD/50Caliber3rdYearType12.7cmModB.png) | 50 Caliber 3rd Year Type 12.7cm Type D x 3, mounted in AXY formation.
+![127mm50ModA](/Icons/Equipment/Guns/DD/50Caliber3rdYearType12.7cmModB.png) | 50 Caliber 3rd Year Type 12.7cm Type C x 3, mounted in AXY formation.
 ![Quad610](/Icons/Equipment/Torpedo/Surface/610mmQuadIJN-Kai.png) | Quadruple 61cm Torpedo Tubes x 2, centerline mounted.
 ![25mmT](/Icons/Equipment/AA/25mmType96T.png) | 25mm/60 Type 96 Mod 1 Twin Mounting x 2.
 ![Type93](/Icons/Equipment/Auxiliary/OxygenTorpedoUR.png) | Type 93 Long Lance 61cm Torpedo x 16 (8 loaded, 8 in second-load).
@@ -56,7 +56,7 @@ Armament Type | Name |
 
 Armament Type | Name |
  ------ | ------ |
-![127mm50ModA](/Icons/Equipment/Guns/DD/50Caliber3rdYearType12.7cmModB.png) | 50 Caliber 3rd Year Type 12.7cm Type D x 3, mounted in AXY formation.
+![127mm50ModA](/Icons/Equipment/Guns/DD/50Caliber3rdYearType12.7cmModB.png) | 50 Caliber 3rd Year Type 12.7cm Type C x 3, mounted in AXY formation.
 ![Quad610](/Icons/Equipment/Torpedo/Surface/610mmQuadIJN-Kai.png) | Quadruple 61cm Torpedo Tubes x 2, centerline mounted.
 ![25mmTR](/Icons/Equipment/AA/25mmType96TT.png) | 25mm/60 Type 96 Mod 1 Triple Mount x 2.
 ![25mmT](/Icons/Equipment/AA/25mmType96T.png) | 25mm/60 Type 96 Mod 1 Twin Mounting x 1.
@@ -67,7 +67,7 @@ Armament Type | Name |
 
 Armament Type | Name |
  ------ | ------ |
-![127mm50ModA](/Icons/Equipment/Guns/DD/50Caliber3rdYearType12.7cmModB.png) | 50 Caliber 3rd Year Type 12.7cm Type D x 2, mounted in AY formation.
+![127mm50ModA](/Icons/Equipment/Guns/DD/50Caliber3rdYearType12.7cmModB.png) | 50 Caliber 3rd Year Type 12.7cm Type C x 2, mounted in AY formation.
 ![Quad610](/Icons/Equipment/Torpedo/Surface/610mmQuadIJN-Kai.png) | Quadruple 61cm Torpedo Tubes x 2, centerline mounted.
 ![25mmTR](/Icons/Equipment/AA/25mmType96TT.png) | 25mm/60 Type 96 Mod 1 Triple Mount x 4.
 ![25mmT](/Icons/Equipment/AA/25mmType96T.png) | 25mm/60 Type 96 Mod 1 Twin Mounting x 1.
@@ -79,5 +79,6 @@ Armament Type | Name |
 
 Type | Name |
  ------ | ------ |
-![Type22](/Icons/Equipment/Auxiliary/Type22Radar.png) | Type 22 10cm Surface-Air Search Radar, Type 13 air search radar. <br/>
+![Type22](/Icons/Equipment/Auxiliary/Type22Radar.png) | Type 22 10cm Surface/Air Search Radar. <br/>
+![Type13](/Icons/Equipment/Auxiliary/Type13AirRadar.png) | Type 13 Air Search Radar. <br/>
 ![OldSonar](/Icons/Equipment/Auxiliary/9960ATraining.png) | Type 93 SONAR Equipment and Hydrophones. <br/>

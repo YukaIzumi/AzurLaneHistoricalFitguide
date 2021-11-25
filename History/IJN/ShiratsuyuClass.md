@@ -72,5 +72,6 @@ Armament Type | Name |
 
 Type | Name |
  ------ | ------ |
-![Type22](/Icons/Equipment/Auxiliary/Type22Radar.png) | Type 22 10cm Surface-Air Search Radar, Type 13 air search radar, Type E-27 radar countermeasure. <br/>
+![Type22](/Icons/Equipment/Auxiliary/Type22Radar.png) | Type 22 10cm Surface/Air Search Radar, Type E-27 radar countermeasure. <br/>
+![Type13](/Icons/Equipment/Auxiliary/Type13AirRadar.png) | Type 13 Air Search Radar. <br/>
 ![OldSonar](/Icons/Equipment/Auxiliary/9960ATraining.png) | Type 93 SONAR Equipment and Hydrophones. <br/>
