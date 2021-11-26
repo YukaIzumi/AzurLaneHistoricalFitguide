@@ -37,8 +37,7 @@ Fumizuki | Kisaragi | Mikazuki | Minazuki | Mutsuki | Nagatsuki | Uzuki
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamouflage.png) <br/>
 
-### Fubuki Class
-#### [Akatsuki Sub-Class](/History/IJN/AkatsukiClass.md)
+### [Fubuki Class](/History/IJN/FubukiClass.md)
 Destroyer <br/>
 
 #### Members of Class: <br/>
@@ -97,7 +96,7 @@ Asashio | Arashio | Kasumi | Michishio | Ooshio
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![NavalCamo](/Icons/Equipment/Auxiliary/OxygenTorpedoUR.png) <br/>
 
-### Kagerou Class
+### [Kagerou Class](/History/IJN/KagerouClass.md)
 
 Destroyer <br/>
 
@@ -112,7 +111,7 @@ Hamakaze | Isokaze | Kagerou | Kuroshio | Nowaki | Oyashio | Shiranui | Tanikaze
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![NavalCamo](/Icons/Equipment/Auxiliary/OxygenTorpedoUR.png) <br/>
 
-### Akizuki Class
+### [Akizuki Class](/History/IJN/AkizukiClass.md)
 
 Destroyer <br/>
 
@@ -127,7 +126,7 @@ Hanazuki | Harutsuki | Niizuki | Suzutsuki | Yoizuki
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![HAFD](/Icons/Equipment/Auxiliary/Type94HAFD.png) <br/>
 
-### Yuugumo Class
+### [Yuugumo Class](/History/IJN/YuugumoClass.md)
 
 Destroyer <br/>
 
@@ -142,7 +141,7 @@ Kazagumo | Kiyonami | Makinami | Naganami
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![NavalCamo](/Icons/Equipment/Auxiliary/OxygenTorpedoUR.png) <br/>
 
-### Shimakaze Class
+### [Shimakaze Class](/History/IJN/TypeCClass.md)
 
 Destroyer (Experimental) <br/>
 
