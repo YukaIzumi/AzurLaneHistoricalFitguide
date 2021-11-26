@@ -1,4 +1,4 @@
-# Akatsuki Class
+# Kamikaze Class
 ## Imperial Japanese Navy Navy
 
 Ordered | Completed | Lost | Retired
@@ -20,8 +20,8 @@ Icon | Name | Writing | Tanslation | Original Name | Present
 ![Kamikaze](/Icons/Ship/SakuraEmpire/Kamikaze.png) | Kamikaze | 神風、カミカゼ | Divine Wind | Dai-1 | Yes <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Asakaze | 朝風、アサカゼ | Morning Wind | Dai-3 | No <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Harukaze | 春風、ハルカゼ | Spring Wind | Dai-5 | No <br/>
-![Matsukaze](/Icons/Ship/SakuraEmpire/Matsukaze.png) | Matsukaze | 松風、マツカゼ | Pine Wind | Dai-19 | Yes <br/>
-![Hatakaze](/Icons/Ship/SakuraEmpire/Matsukaze.png) | Hatakaze | 旗風、ハタカゼ | Flag Wind | Dai-9 | Yes <br/>
+![Matsukaze](/Icons/Ship/SakuraEmpire/Matsukaze.png) | Matsukaze | 松風、マツカゼ | Pine Wind | Dai-7 | Yes <br/>
+![Hatakaze](/Icons/Ship/SakuraEmpire/Hatakaze.png) | Hatakaze | 旗風、ハタカゼ | Flag Wind | Dai-9 | Yes <br/>
 ![Oite](/Icons/Ship/SakuraEmpire/Oite.png) | Oite | 追風、オイテ | Tail Wind | Dai-11 | Yes <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Hayate | 疾風、ハヤテ | Gale | Dai-13 | No <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Asanagi | 朝凪、アサナギ | Morning Calm | Dai-15 | No <br/>
