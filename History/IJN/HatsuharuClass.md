@@ -7,7 +7,7 @@ Ordered | Completed | Lost | Retired
  
 Year Introduced: 1931. <br/>
  
-Predecessor : [Akatsuki Class](/History/IJN/AkatsukiClass.md) <br/>
+Predecessor : [Fubuki Class](/History/IJN/FubukiClass.md) <br/>
 Successor : [Shiratsuyu Class](/History/IJN/ShiratsuyuClass.md) <br/>
 
 #### Members of Class: <br/>
