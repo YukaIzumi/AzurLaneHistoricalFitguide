@@ -7,7 +7,7 @@ Destroyers of Sakura Empire offer a small variety of purposes. From the pre-war 
 Many of these ships did not survive to the end of the war or were crippled by lack of industrial output, so additional fittings or equipment may be suggested below each historical fitting to predict what an end-of-war historical fitting would look like.
 
 
-### Kamikaze Class
+### [Kamikaze Class](History/IJN/KamikazeClass.md)
 
 Destroyer <br/>
 
@@ -22,7 +22,7 @@ Hatakaze | Kamikaze | Matsukaze | Oite
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamouflage.png) <br/>
 
-### Mutsuki Class
+### [Mutsuki Class](History/IJN/MutsukiClass.md)
 
 Destroyer <br/>
 
