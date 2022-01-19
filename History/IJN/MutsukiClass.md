@@ -1,4 +1,4 @@
-# Akatsuki Class
+# Mutsuki Class
 ## Imperial Japanese Navy Navy
 
 Ordered | Completed | Lost | Retired

@@ -1,4 +1,4 @@
-# Akatsuki Class
+# Fubuki Class
 ## Imperial Japanese Navy Navy
 
 Ordered | Completed | Lost | Retired
