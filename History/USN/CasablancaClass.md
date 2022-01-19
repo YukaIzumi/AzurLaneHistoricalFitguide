@@ -20,7 +20,7 @@ Icon | Name | Hull Number | Present
 ![Casablanca](/Icons/Ship/EagleUnion/Casablanca.png) | Cssablanca | CVE=55 | Yes <br/>
 ![UnknownCVL](/Icons/Ship/UnknownCVL.png) | Liscome Bay | CVE-56 | No <br/>
 ![UnknownCVL](/Icons/Ship/UnknownCVL.png) | Anzio | CVE-57 | No <br/>
-![Downes](/Icons/Ship/EagleUnion/Downes.png) | Corregidor | CVE-58 | Yes <br/>
+![UnknownCVL](/Icons/Ship/UnknownCVL.png) | Corregidor | CVE-58 | Yes <br/>
 ![UnknownCVL](/Icons/Ship/UnknownCVL.png) | Mission Bay | CVE-59 | No <br/>
 ![UnknownCVL](/Icons/Ship/UnknownCVL.png) | Guadalcanal | CVE-60 | No <br/>
 ![UnknownCVL](/Icons/Ship/UnknownCVL.png) | Manila Bay | CVE-61 | No <br/>
@@ -28,7 +28,7 @@ Icon | Name | Hull Number | Present
 ![UnknownCVL](/Icons/Ship/UnknownCVL.png) | St. Lo | CVE-63 | No <br/>
 ![UnknownCVL](/Icons/Ship/UnknownCVL.png) | Tripoli | CVE-64 | No <br/>
 ![UnknownCVL](/Icons/Ship/UnknownCVL.png) | Wake Island | CVE-65 | No <br/>
-![Downes](/Icons/Ship/EagleUnion/Downes.png) | White Plains | CVE-66 | Yes <br/>
+![UnknownCVL](/Icons/Ship/UnknownCVL.png) | White Plains | CVE-66 | Yes <br/>
 ![UnknownCVL](/Icons/Ship/UnknownCVL.png) | Solomons | CVE-67 | No <br/>
 ![UnknownCVL](/Icons/Ship/UnknownCVL.png) | Kalinin Bay | CVE-68 | No <br/>
 ![UnknownCVL](/Icons/Ship/UnknownCVL.png) | Kasaan Bay | CVE-69 | No <br/>
