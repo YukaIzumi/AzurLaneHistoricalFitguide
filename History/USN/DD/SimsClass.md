@@ -7,8 +7,8 @@ Ordered | Completed | Lost | Retired
  
 Year Introduced: 1937. <br/>
  
-Predecessor : [Behnam Class](/History/USN/BenhamClass.md) <br/>
-Successor : [Benson Class](/History/USN/BensonClass.md) <br/>
+Predecessor : [Behnam Class](/History/USN/DD/BenhamClass.md) <br/>
+Successor : [Benson Class](/History/USN/DD/BensonClass.md) <br/>
 
 #### Members of Class: <br/>
 
@@ -34,7 +34,7 @@ Icon | Name | Hull Number | Present
 
 ### Overview
 
-The Sims Class of Destroyers were introduced to the Fleet between 1939 and 1940. Their entry marked the last interwar series of destroyers built by the US Navy as, later in 1941, the US would enter the Second World War. All ships saw action in the war and were out-of-comission by 1946. These were the sixth series of destroyers built after construction resumed in the interwar period, the first being the [Farragut Class](/History/USN/FarragutClass.md). <br/>
+The Sims Class of Destroyers were introduced to the Fleet between 1939 and 1940. Their entry marked the last interwar series of destroyers built by the US Navy as, later in 1941, the US would enter the Second World War. All ships saw action in the war and were out-of-comission by 1946. These were the sixth series of destroyers built after construction resumed in the interwar period, the first being the [Farragut Class](/History/USN/DD/FarragutClass.md). <br/>
 
 The ships were crewed by 16 officers and 253 enlisted men. <br/>
 

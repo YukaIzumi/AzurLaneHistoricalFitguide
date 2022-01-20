@@ -7,7 +7,7 @@ Ordered | Completed | Lost | Retired
  
 Year Introduced: 1943. <br/>
  
-Predecessor : [Sangamon Class](/History/NYI.md) <br/>
+Predecessor : [Sangamon Class](/History/US/CVE/SangamonClass.md) <br/>
 Successor : [Commencement Bay Class](/History/NYI.md) <br/>
 
 #### Members of Class: <br/>
@@ -87,7 +87,7 @@ These ships displaced 8319 tons standard and 11077 tons under full load. Due to 
 
 Armament Type | Name |
  ------ | ------ |
-![Single5in38Mk21](/Icons/Equipment/Guns/DD/5in38Mk21.png) | Single 5"38 Mk 30 Mod 80 x 1, mouted on fantail.
+![Single5in38Mk21](/Icons/Equipment/Guns/DD/5in38Mk21.png) | Single 5"38 Mk 30 Mod 80 x 1, mounted on fantail.
 ![Twin40mmBofors](/Icons/Equipment/AA/Twin40mmUSN.png) | Twin 40mm56 Bofors Mk 2 x 8.
 ![20mmOerlikon](/Icons/Equipment/AA/20mmOerlikon.png) | 20mm Oerlikon x 12.
 
@@ -95,7 +95,7 @@ Armament Type | Name |
 
 Armament Type | Name |
  ------ | ------ |
-![Single5in38Mk21](/Icons/Equipment/Guns/DD/5in38Mk21.png) | Single 5"38 Mk 30 Mod 80 x 1, mouted on fantail.
+![Single5in38Mk21](/Icons/Equipment/Guns/DD/5in38Mk21.png) | Single 5"38 Mk 30 Mod 80 x 1, mounted on fantail.
 ![Twin40mmBofors](/Icons/Equipment/AA/Twin40mmUSN.png) | Twin 40mm56 Bofors Mk 2 x 8.
 ![20mmOerlikon](/Icons/Equipment/AA/20mmOerlikon.png) | 20mm Oerlikon x 30.
 

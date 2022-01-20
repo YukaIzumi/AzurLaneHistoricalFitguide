@@ -7,8 +7,8 @@ Ordered | Completed | Lost | Retired
  
 Year Introduced: 1940. <br/>
  
-Predecessor : [Benson Class](/History/USN/BensonClass.md) <br/>
-Successor : [Fletcher Class](/History/USN/FletcherClass.md) <br/>
+Predecessor : [Benson Class](/History/USN/DD/BensonClass.md) <br/>
+Successor : [Fletcher Class](/History/USN/DD/FletcherClass.md) <br/>
 
 #### Members of Class: <br/>
 
@@ -88,7 +88,7 @@ Icon | Name | Hull Number | Present
 
 ### Overview
 
-The Gleaves class of destroyers are extremely similar to the [Benson Class](/History/USN/BensonClass.md). These ships were part of a 24 ship authorization in 1938-1940. The class evolved into a 66 strong class dubbed the "Benson-Gleaves" class due to the numerous similarities.  Ultimately, these ships were built to close the gap between the Benson class and the soon-to-arrive Fletchers.
+The Gleaves class of destroyers are extremely similar to the [Benson Class](/History/USN/DD/BensonClass.md). These ships were part of a 24 ship authorization in 1938-1940. The class evolved into a 66 strong class dubbed the "Benson-Gleaves" class due to the numerous similarities.  Ultimately, these ships were built to close the gap between the Benson class and the soon-to-arrive Fletchers.
 
 The ships were crewed by 16 officers and 260 enlisted men. <br/>
 

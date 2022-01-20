@@ -7,8 +7,8 @@ Ordered | Completed | Lost | Preserved
  
 Year Introduced: 1939. <br/>
  
-Predecessor : [Gleaves Class](/History/USN/GleavesClass.md) <br/>
-Successor : [Allen M. Sumner Class](/History/USN/AllenMSumnerClass.md) <br/>
+Predecessor : [Gleaves Class](/History/USN/DD/GleavesClass.md) <br/>
+Successor : [Allen M. Sumner Class](/History/USN/DD/AllenMSumnerClass.md) <br/>
 
 #### Members of Class: <br/>
 <details>

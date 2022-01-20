@@ -8,7 +8,7 @@ Ordered | Completed | Lost | Retired
 Year Introduced: 1917. <br/>
  
 Predecessor : Clemson Class <br/>
-Successor : [Porter Class](/History/USN/PorterClass.md) <br/>
+Successor : [Porter Class](/History/USN/DD/PorterClass.md) <br/>
 
 #### Members of Class: <br/>
 

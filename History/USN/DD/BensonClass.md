@@ -7,8 +7,8 @@ Ordered | Completed | Lost | Retired
  
 Year Introduced: 1940. <br/>
  
-Predecessor : [Sims Class](/History/USN/SimsClass.md) <br/>
-Successor : [Gleaves Class](/History/USN/GleavesClass.md) <br/>
+Predecessor : [Sims Class](/History/USN/DD/SimsClass.md) <br/>
+Successor : [Gleaves Class](/History/USN/DD/GleavesClass.md) <br/>
 
 #### Members of Class: <br/>
 
@@ -51,7 +51,7 @@ Icon | Name | Hull Number | Present
 
 ### Overview
 
-The Benson class of destroyers debuted in 1940, participating heavily in pre-war "Neutrality Patrols", going on to fight in every campaign during WWII. They were a progression on the design of the [Sims Class](/History/USN/SimsClass.md), including a heavier torpedo broadside of 10 tubes (versus 8), but far lighter than the 12 to 16 torpedo tube broadsides of the torpedo focused destroyer classes. Most Bensons spent the duration of the war with only a single quintuple torpedo mount in favor of heavier anti-aircraft armaments. After the Attack on Pearl Harbor, the Bensons continued to serve in the Atlantic and Mediterranean theaters.
+The Benson class of destroyers debuted in 1940, participating heavily in pre-war "Neutrality Patrols", going on to fight in every campaign during WWII. They were a progression on the design of the [Sims Class](/History/USN/DD/SimsClass.md), including a heavier torpedo broadside of 10 tubes (versus 8), but far lighter than the 12 to 16 torpedo tube broadsides of the torpedo focused destroyer classes. Most Bensons spent the duration of the war with only a single quintuple torpedo mount in favor of heavier anti-aircraft armaments. After the Attack on Pearl Harbor, the Bensons continued to serve in the Atlantic and Mediterranean theaters.
 
 The ships were crewed by 276 enlisted men. <br/>
 

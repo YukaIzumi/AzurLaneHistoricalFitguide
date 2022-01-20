@@ -7,7 +7,7 @@ Ordered | Completed | Lost | Preserved
  
 Year Introduced: 1943. <br/>
  
-Predecessor : [Fletcher Class](/History/USN/FletcherClass.md)<br/>
+Predecessor : [Fletcher Class](/History/USN/DD/FletcherClass.md)<br/>
 Successor : Gearing Class <br/>
 
 #### Members of Class: <br/>
