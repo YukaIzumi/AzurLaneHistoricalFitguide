@@ -58,7 +58,7 @@ Bogue | Breton (Chaser)
 ![SteamCatapult](/Icons/Equipment/Auxiliary/SteamCatapult.png)
 ![TBM3ASW](/Icons/Equipment/Auxiliary/TBM3ASW.png) <br/>
 
-### [Casablanca Class](/History/USN/CasablancaClass.md)
+### [Casablanca Class](/History/USN/CVE/CasablancaClass.md)
 
 Aircraft Carrier (Escort)
 

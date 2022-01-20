@@ -70,4 +70,4 @@ Armament Type | Name | Count |
 Type | Name |
  ------ | ------ |
 ![SGRadar](/Icons/Equipment/Auxiliary/SGRadar.png) | SG 10cm Surface Search Radar
-![SKRadar](/Icons/Equipment/Auxiliary/Placeholder.png) | SK 150cm Air Search Radar
+![SKRadar](/Icons/Equipment/Auxiliary/SKRadar.png) | SK 150cm Air Search Radar

@@ -20,7 +20,7 @@ Eldridge | ....
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![ImprovedDC](/Icons/Equipment/Auxiliary/ImprovedDepthCharge.png) <br/>
 
-### [Farragut Class](/History/USN/FarragutClass.md) <br/>
+### [Farragut Class](/History/USN/DD/FarragutClass.md) <br/>
 
 Destroyer <br/>
 
@@ -35,7 +35,7 @@ Aylwin | Dewey
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamouflage.png) <br/>
 
-### [Mahan Class](/History/USN/MahanClass.md) <br/>
+### [Mahan Class](/History/USN/DD/MahanClass.md) <br/>
 
 Destroyer <br/>
 
@@ -50,7 +50,7 @@ Cassin | Downes
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamouflage.png) <br/>
 
-### [Gridley Class](/History/USN/GridleyClass.md) <br/>
+### [Gridley Class](/History/USN/DD/GridleyClass.md) <br/>
 
 Destroyer <br/>
 
@@ -65,7 +65,7 @@ Craven | Gridley | Maury | McCall
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![NavalCamo](/Icons/Equipment/Auxiliary/NavalCamouflage.png) <br/>
 
-### [Sims Class](/History/USN/SimsClass.md) <br/>
+### [Sims Class](/History/USN/DD/SimsClass.md) <br/>
 
 Destroyer <br/>
 
@@ -80,7 +80,7 @@ Hammann | Sims
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![SGRadar](/Icons/Equipment/Auxiliary/SGRadar.png) <br/>
 
-### [Benson Class](/History/USN/BensonClass.md) <br/>
+### [Benson Class](/History/USN/DD/BensonClass.md) <br/>
 
 Destroyer <br/>
 
@@ -96,7 +96,7 @@ Bailey | Benson | Hobby | Kalk | Laffey
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![SGRadar](/Icons/Equipment/Auxiliary/SGRadar.png) <br/>
 
-### [Fletcher Class](/History/USN/FletcherClass.md) <br/>
+### [Fletcher Class](/History/USN/DD/FletcherClass.md) <br/>
 
 Destroyer <br/>
 
@@ -118,7 +118,7 @@ Aulick | Bache | Bush | Charles Ausburne | Fletcher | Foote | Halsey Powell | Ha
 * The "Little Beaver Squadron" badge belongs to the Fletcher class, specifically  Destroyer Squadron 23, consisting of Charles Ausburne, Claxton, Dyson, Stanly, Converse, Foote, Spence, and Thatcher. It was one of few (if any) destroyer squadrons awared a group Presidential Unit Citation for its record under Capt. Arleigh Burke over 17 weeks at the close of the campaign in the Solomon Islands.  <br/>
 ![LittleBeaver](/Icons/Equipment/Auxiliary/BeaverBadge.png) <br/>
 
-### [Allen M. Sumner Class](/History/USN/AllenMSumnerClass.md) <br/>
+### [Allen M. Sumner Class](/History/USN/DD/AllenMSumnerClass.md) <br/>
 
 Destroyer <br/>
 

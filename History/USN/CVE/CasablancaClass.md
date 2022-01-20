@@ -7,7 +7,7 @@ Ordered | Completed | Lost | Retired
  
 Year Introduced: 1943. <br/>
  
-Predecessor : [Sangamon Class](/History/US/CVE/SangamonClass.md) <br/>
+Predecessor : [Sangamon Class](/History/USN/CVE/SangamonClass.md) <br/>
 Successor : [Commencement Bay Class](/History/NYI.md) <br/>
 
 #### Members of Class: <br/>
@@ -73,7 +73,7 @@ Icon | Name | Hull Number | Present
 
 ### Overview
 
-The first of the purpose-built escort carriers (CVE) of the US Navy. These carriers were among the most numerous produced and deployed carriers of the war and participated in service throughout the Atlantic and Pacific theaters. These carriers were built in record time, often only a few months. However - these carriers sacrificed any and all form of protection, making them far more vulnerable to attack than any standard CV/L would be. They carried small air wings and offered their best support as convoy escorts or aircraft transport. Devensive armament was limited to a handfull of anti-aircraft guns and a single 5"38 Mod 80 gun mouted on the fantail (the Mod 80 guns having limited fields of fire and vertical traverse compared to the Mod ~60 used on Destroyers and Destroyer Escorts).
+The first of the purpose-built escort carriers (CVE) of the US Navy. These carriers were among the most numerous produced and deployed carriers of the war and participated in service throughout the Atlantic and Pacific theaters. These carriers were built in record time, often only a few months. However - these carriers sacrificed any and all form of protection, making them far more vulnerable to attack than any standard CV/L would be. They carried small air wings and offered their best support as convoy escorts or aircraft transport. Defensive armament was limited to a handful of anti-aircraft guns and a single 5"38 Mod 80 gun mounted on the fantail (the Mod 80 guns having limited fields of fire and vertical traverse compared to the Mod ~60 used on Destroyers and Destroyer Escorts).
 
 The ships were crewed by 910-916 enlisted men. Of these, the air group provided 50-80 of these crew, the remaining being the ship's crew. <br/>
 
@@ -122,4 +122,4 @@ Armament Type | Name | Count |
 Type | Name |
  ------ | ------ |
 ![SGRadar](/Icons/Equipment/Auxiliary/SGRadar.png) | SG 10cm Surface Search Radar
-![SKRadar](/Icons/Equipment/Auxiliary/Placeholder.png) | SK 150cm Air Search Radar
+![SKRadar](/Icons/Equipment/Auxiliary/SKRadar.png) | SK 150cm Air Search Radar
