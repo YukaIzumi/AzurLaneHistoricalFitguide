@@ -17,7 +17,7 @@ Successor : [Commencement Bay Class](/History/NYI.md) <br/>
 	
 Icon | Name | Hull Number | Present
 | ------ | ------ | ------ |  ------ |
-![Casablanca](/Icons/Ship/EagleUnion/Casablanca.png) | Cssablanca | CVE=55 | Yes <br/>
+![Casablanca](/Icons/Ship/EagleUnion/Casablanca.png) | Cssablanca | CVE-55 | Yes <br/>
 ![UnknownCVL](/Icons/Ship/UnknownCVL.png) | Liscome Bay | CVE-56 | No <br/>
 ![UnknownCVL](/Icons/Ship/UnknownCVL.png) | Anzio | CVE-57 | No <br/>
 ![UnknownCVL](/Icons/Ship/UnknownCVL.png) | Corregidor | CVE-58 | Yes <br/>

@@ -1,4 +1,4 @@
-# Casablanca Class
+# Sangamon Class
 ## US Navy
 
 Ordered | Completed | Lost | Retired
