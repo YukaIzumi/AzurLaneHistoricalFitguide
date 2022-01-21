@@ -21,7 +21,7 @@ Icon | Name | Hull Number | Present
 ![UnknownCVL](/Icons/Ship/UnknownCVL.png) | Barnes | CVE-7 | No <br/>
 ![UnknownCVL](/Icons/Ship/UnknownCVL.png) | Block Island | CVE-8 | No <br/>
 ![Bogue](/Icons/Ship/EagleUnion/Bogue.png) | Bogue | CVE-9 | Yes <br/>
-![Breton](/Icons/Ship/RoyalNavy/Chaser.png) | Breton | CVE-10 | No <br/>
+![Breton](/Icons/Ship/EagleUnion/Chaser.png) | Breton | CVE-10 | No <br/>
 ![UnknownCVL](/Icons/Ship/UnknownCVL.png) | Card | CVE-11 | No <br/>
 ![UnknownCVL](/Icons/Ship/UnknownCVL.png) | Copahee | CVE-12 | No <br/>
 ![UnknownCVL](/Icons/Ship/UnknownCVL.png) | Core | CVE-13 | No <br/>
