@@ -27,7 +27,7 @@ Icon | Name | Writing | Tanslation | Original Name | Present
 ![Nagatsuki](/Icons/Ship/SakuraEmpire/Nagatsuki.png) | Nagatsuki | 長月、ナガツキ | September | Dai-30 | Yes <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Kikuzuki | 菊月、キクズキ | Crysanthemum Moon | Dai-31 | No <br/>
 ![Mikazuki](/Icons/Ship/SakuraEmpire/Mikazuki.png) | Mikazuki | 三日月、ミカズキ | Crescent Moon | Dai-32 | Yes <br/>
-![Mochizuki](/Icons/Ship/SakuraEmpire/Mochizuki.png) | Mochizuki | 望月、モチズキ | Full Moon | Dai-33 | Yes <br/>
+![UnknownDD](/Icons/Ship/UnknownDD.png) | Mochizuki | 望月、モチズキ | Full Moon | Dai-33 | Yes <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Yūzuki | 夕月、ユウズキ | Evening Moon | Dai-34 | No <br/>
 
 </details>
