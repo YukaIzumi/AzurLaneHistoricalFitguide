@@ -45,6 +45,8 @@ Armament Type | Name |
 ![Twin40mmBofors](/Icons/Equipment/AA/Twin40mmUSN.png) | Twin 40mm56 Bofors Mk 2 x 8.
 ![20mmOerlikon](/Icons/Equipment/AA/20mmOerlikon.png) | 20mm Oerlikon x 12.
 
+### Air Groups
+
 #### Aircraft Carried - 1942
 
 Armament Type | Name | Count |

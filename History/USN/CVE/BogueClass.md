@@ -96,6 +96,7 @@ Armament Type | Name |
 ![20mmOerlikonT](/Icons/Equipment/AA/20mmOerlikonT.png) | 20mm Twin Oerlikon x 8.
 ![20mmOerlikon](/Icons/Equipment/AA/20mmOerlikon.png) | 20mm Oerlikon x 10.
 
+### Air Groups
 
 #### Aircraft Carried
 ##### Up to 24

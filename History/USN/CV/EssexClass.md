@@ -77,6 +77,7 @@ Armament Type | Name |
 ![Quad40mmBofors](/Icons/Equipment/AA/Quad40mmUSN.png) | Quadruple 40mm56 Bofors Mk 2 x 18.
 ![20mmOerlikon](/Icons/Equipment/AA/20mmOerlikon.png) | 20mm Oerlikon x 76.
 
+### Air Groups
 
 #### Aircraft Carried 1943
 ##### Up to 90
@@ -104,7 +105,7 @@ Armament Type | Name | Count |
  ------ | ------ | ------ |
 ![F6F](/Icons/Equipment/Aircraft/Fighter/F6FHellcat.png) | Grummann F6F-5N Hellcat | 36
 ![SB2C](/Icons/Equipment/Aircraft/Bomber/SB2CHelldiver.png) | Curtiss SB2C-5E Helldiver | 36
-![TBF](/Icons/Equipment/Aircraft/Torpedo/TBFAvenger.png) | Grumman TBM-3W Avenger | 18
+![TBF](/Icons/Equipment/Aircraft/Torpedo/TBFAvenger.png) | Grumman TBM Avenger | 18
  | Occasionally | 
 ![F4U](/Icons/Equipment/Aircraft/Fighter/F4UCorsair.png) | Vought F4U Corsair | 36 (Replaces F6F)
 
