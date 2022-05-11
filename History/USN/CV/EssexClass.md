@@ -100,11 +100,21 @@ Armament Type | Name | Count |
 
 #### Aircraft Carried - 1945 / Postwar
 ##### Up to 103
+Armament Type | Name | Count |
+ ------ | ------ | ------ |
 ![F6F](/Icons/Equipment/Aircraft/Fighter/F6FHellcat.png) | Grummann F6F-5N Hellcat | 36
 ![SB2C](/Icons/Equipment/Aircraft/Bomber/SB2CHelldiver.png) | Curtiss SB2C-5E Helldiver | 36
 ![TBF](/Icons/Equipment/Aircraft/Torpedo/TBFAvenger.png) | Grumman TBM-3W Avenger | 18
  | Occasionally | 
 ![F4U](/Icons/Equipment/Aircraft/Fighter/F4UCorsair.png) | Vought F4U Corsair | 36 (Replaces F6F)
+
+#### Aircraft Carried - Notable Squadrons
+Armament Type | Squadron | Home Carrier |
+ ------ | ------ | ------ |
+![F4UVF17](/Icons/Equipment/Aircraft/Fighter/F4UVF17.png) | VF-17 "Jolly Rogers" | USS Bunker Hill
+![TBDVT8](/Icons/Equipment/Aircraft/Torpedo/TBDVT8.png) | VT-8 | USS Bunker Hill
+![TBMVT18](/Icons/Equipment/Aircraft/Torpedo/TBMVT18.png) | VT-18 | USS Intrepid
+
 
 #### Sensor Equipment
 
