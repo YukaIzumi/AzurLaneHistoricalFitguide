@@ -123,9 +123,9 @@ Aulick | Bache | Bush | Charles Ausburne | Fletcher | Foote | Halsey Powell | Ha
 Destroyer <br/>
 
 #### Members of Class: <br/>
-Allen M. Sumner | Cooper | Ingraham <br/>
-| ------ | ------ | ------ |
-![AllenMSumner](/Icons/Ship/EagleUnion/AllenMSumner.png) | ![Cooper](/Icons/Ship/EagleUnion/Cooper.png) | ![Ingraham](/Icons/Ship/EagleUnion/Ingraham.png) <br/>
+Allen M. Sumner | Bristol | Cooper | Ingraham <br/>
+| ------ | ------ | ------ | ------ | 
+![AllenMSumner](/Icons/Ship/EagleUnion/AllenMSumner.png) | ![Bristol](/Icons/Ship/EagleUnion/Bristol.png)| ![Cooper](/Icons/Ship/EagleUnion/Cooper.png) | ![Ingraham](/Icons/Ship/EagleUnion/Ingraham.png) <br/>
 
 ![Twin5in38](/Icons/Equipment/Guns/DD/5in38Mk38.png)
 ![Quintuple21in](/Icons/Equipment/Torpedo/Surface/21inQuintupleUSN.png)

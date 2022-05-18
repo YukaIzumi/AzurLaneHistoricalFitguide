@@ -73,7 +73,7 @@ Icon | Name | Hull Number | Present
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Douglas H. Fox | DD-779 | No <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Stormes | DD-780 | No <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Robert K. Huntington | DD-781 | No <br/>
-![UnknownDD](/Icons/Ship/UnknownDD.png) | Bristol | DD-857 | No <br/>
+![Bristol](/Icons/Ship/EagleUnion/Bristol.png) | Bristol | DD-857 | Yes <br/>
 
 </details>
 
