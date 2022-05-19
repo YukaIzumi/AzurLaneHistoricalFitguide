@@ -119,7 +119,7 @@ Neptune | ...
 | ----- | ----- |
 ![Neptune](/Icons/Ship/RoyalNavy/Neptune.png) | ...
 
-![6in50MkXXIII](/Icons/Equipment/Guns/CL/6in50MkXXIII.png)
+![6in50MkXXV](/Icons/Equipment/Guns/CL/6in50MkXXV.png)
 ![Quad21in](/Icons/Equipment/Torpedo/Surface/Quadruple21inMkIX.png)
 ![Twin40mmSTAAG](/Icons/Equipment/AA/Twin40mmSTAAG.png)
 ![ImprovedSteeringGear](/Icons/Equipment/Auxiliary/ImprovedSteeringGear.png)
