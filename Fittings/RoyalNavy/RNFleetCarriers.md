@@ -78,7 +78,7 @@ Formidable | Illustrious | Little Illustrious | Victorious
 
 * Notable "special equipment" offered through events or the core shop that belongs to one or more ships of this class.<br/>
 ![FaireyBarracuda831](/Icons/Equipment/Aircraft/Bomber/FaireyBarracuda831.png)
-* Fairey Barracuda (831 Squadron) flew from Victorious during Operation Tungsten, striking the German Battleship Tirpitz.<br/>/>
+* Fairey Barracuda (831 Squadron) flew from Victorious during Operation Tungsten, striking the German Battleship Tirpitz.<br/>
 
 ### Illustrious+ Class
 
@@ -87,7 +87,7 @@ Aircraft Carrier (Fleet) <br/>
 #### Members of Class: <br/>
 Indomitable | ...
 | ----- | ----- 
-![Formidable](/Icons/Ship/RoyalNavy/Formidable.png) | ![Illustrious](/Icons/Ship/RoyalNavy/Illustrious.png) | ![Little Illustrious](/Icons/Ship/RoyalNavy/Little_Illustrious.png) | ![Victorious](/Icons/Ship/RoyalNavy/Victorious.png) <br/>
+![Indomitable](/Icons/Ship/RoyalNavy/Indomitable.png) | ... <br/>
 
 
 ![SupermarineSeafire](/Icons/Equipment/Aircraft/Fighter/SupermarineSeafire.png)

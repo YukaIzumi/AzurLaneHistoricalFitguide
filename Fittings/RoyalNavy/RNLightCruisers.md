@@ -65,20 +65,27 @@ Belfast | Belchan | Edinburgh | Glasgow | Gloucester | Newcastle | Sheffield | S
 ![Quad40PomPom](/Icons/Equipment/AA/Quad40mmPomPom.png)
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![HPAARadar](/Icons/Equipment/Auxiliary/HPAARadar.png) <br/>
+
 ### Dido Class
 
 Light Cruiser (Anti-Air)
 
 #### Members of Class: <br/>
-Black Prince | Bellona | Dido | Hermione | Sirius
-| ----- | ----- | ----- | ----- | ----- 
-![Black Prince](/Icons/Ship/RoyalNavy/Black_Prince.png) | ![Bellona](/Icons/Ship/RoyalNavy/Bellona.png) | ![Dido](/Icons/Ship/RoyalNavy/Dido.png) | ![Hermione](/Icons/Ship/RoyalNavy/Hermione.png) | ![Sirius](/Icons/Ship/RoyalNavy/Sirius.png) <br/>
+Black Prince | Bellona | Charybdis | Dido | Hermione | Sirius
+| ----- | ----- | ----- | ----- | ----- | ----- | 
+![Black Prince](/Icons/Ship/RoyalNavy/Black_Prince.png) | ![Bellona](/Icons/Ship/RoyalNavy/Bellona.png) | ![Charybdis](/Icons/Ship/RoyalNavy/Charybdis.png) | ![Dido](/Icons/Ship/RoyalNavy/Dido.png) | ![Hermione](/Icons/Ship/RoyalNavy/Hermione.png) | ![Sirius](/Icons/Ship/RoyalNavy/Sirius.png) <br/>
 
 ![5.25in50MkII](/Icons/Equipment/Guns/DD/5.25in50MkII.png)
 ![Triple21in](/Icons/Equipment/Torpedo/Surface/Triple21inMkIX.png)
 ![Quad40PomPom](/Icons/Equipment/AA/Quad40mmPomPom.png)
 ![RepairToolkit](/Icons/Equipment/Auxiliary/RepairToolkit.png)
 ![HPAARadar](/Icons/Equipment/Auxiliary/HPAARadar.png) <br/>
+
+##### Charybdis and Scylla Class
+
+![4.5in45MkI](/Icons/Equipment/AA/4.5in45MkI.png)
+
+
 
 ### Crown Colony Class
 
