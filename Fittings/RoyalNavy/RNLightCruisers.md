@@ -83,7 +83,7 @@ Black Prince | Bellona | Charybdis | Dido | Hermione | Sirius
 
 ##### Charybdis and Scylla Class
 
-![4.5in45MkI](/Icons/Equipment/AA/4.5in45MkI.png)
+![4.5in45MkIV](/Icons/Equipment/Guns/DD/4.5in45MkIV.png)
 
 
 
