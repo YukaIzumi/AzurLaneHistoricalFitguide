@@ -70,9 +70,9 @@ Belfast | Belchan | Edinburgh | Glasgow | Gloucester | Newcastle | Sheffield | S
 Light Cruiser (Anti-Air)
 
 #### Members of Class: <br/>
-Black Prince | Dido | Hermione | Sirius
-| ----- | ----- | ----- | ----- 
-![Black Prince](/Icons/Ship/RoyalNavy/Black_Prince.png) | ![Dido](/Icons/Ship/RoyalNavy/Dido.png) | ![Hermione](/Icons/Ship/RoyalNavy/Hermione.png) | ![Sirius](/Icons/Ship/RoyalNavy/Sirius.png) <br/>
+Black Prince | Bellona | Dido | Hermione | Sirius
+| ----- | ----- | ----- | ----- | ----- 
+![Black Prince](/Icons/Ship/RoyalNavy/Black_Prince.png) | ![Bellona](/Icons/Ship/RoyalNavy/Bellona.png) | ![Dido](/Icons/Ship/RoyalNavy/Dido.png) | ![Hermione](/Icons/Ship/RoyalNavy/Hermione.png) | ![Sirius](/Icons/Ship/RoyalNavy/Sirius.png) <br/>
 
 ![5.25in50MkII](/Icons/Equipment/Guns/DD/5.25in50MkII.png)
 ![Triple21in](/Icons/Equipment/Torpedo/Surface/Triple21inMkIX.png)

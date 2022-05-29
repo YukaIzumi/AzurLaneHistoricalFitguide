@@ -117,9 +117,9 @@ Eskimo | ...
 Destroyer <br/>
 
 #### Members of Class: <br/>
-Javelin | Jersey | Juno | Jupiter <br/>
-| ------ | ------ | ------ | ------ |
-![Javelin](/Icons/Ship/RoyalNavy/Javelin.png) | ![Jersey](/Icons/Ship/RoyalNavy/Jersey.png) | ![Juno](/Icons/Ship/RoyalNavy/Juno.png) | ![Jupiter](/Icons/Ship/RoyalNavy/Jupiter.png) <br/>
+Javelin | Jersey | Jervis | Juno | Jupiter <br/>
+| ------ | ------ | ------ | ----- | ------ |
+![Javelin](/Icons/Ship/RoyalNavy/Javelin.png) | ![Jersey](/Icons/Ship/RoyalNavy/Jersey.png) | ![Jervis](/Icons/Ship/RoyalNavy/Jervis.png) | ![Juno](/Icons/Ship/RoyalNavy/Juno.png) | ![Jupiter](/Icons/Ship/RoyalNavy/Jupiter.png) <br/>
 
 ![Single5in38Mk21](/Icons/Equipment/Guns/DD/4.7in45MkXII.png)
 ![Quint21in](/Icons/Equipment/Torpedo/Surface/Quintuple21inMkIX.png)

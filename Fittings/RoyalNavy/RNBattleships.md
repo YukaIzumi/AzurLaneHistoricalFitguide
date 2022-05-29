@@ -49,6 +49,21 @@ Queen Elizabeth | Valiant | Warspite
 ![Rammer](/Icons/Equipment/Auxiliary/Rammer.png)
 ![FireControlRadar](/Icons/Equipment/Auxiliary/FireControlRadar.png) <br/>
 
+### [Revenge Class](/History/RevengeClass.md)
+
+Battleship (Dreadnought) <br/>
+
+#### Members of Class: <br/>
+Revenge | ... | 
+| ----- | ----- |
+![Revenge](/Icons/Ship/RoyalNavy/Revenge.png) | ... <br/>
+
+![15in42MkI](/Icons/Equipment/Guns/BB/15in42MkI.png)
+![6inMkXII](/Icons/Equipment/Guns/CL/6inMkXII.png)
+![3in50Mk22](/Icons/Equipment/AA/3in50Mk22.png)
+![Rammer](/Icons/Equipment/Auxiliary/Rammer.png)
+![FireControlRadar](/Icons/Equipment/Auxiliary/FireControlRadar.png) <br/>
+
 ### [Renown Class](/History/RenownClass.md)
 
 Battlecruiser <br/>
@@ -58,7 +73,7 @@ Lil Renown | Renown | Repulse
 | ----- | ----- | ----- |
 ![Lil Renown](/Icons/Ship/RoyalNavy/Lil_Renown.png) | ![Renown](/Icons/Ship/RoyalNavy/Renown.png) | ![Repulse](/Icons/Ship/RoyalNavy/Repulse.png) <br/>
 
-![15in42MkII](/Icons/Equipment/Guns/BB/15in42MkII.png)
+![15in42MkI](/Icons/Equipment/Guns/BB/15in42MkI.png)
 ![4in45MkIX](/Icons/Equipment/Guns/DD/4in45MkIX.png)
 ![3in50Mk22](/Icons/Equipment/AA/3in50Mk22.png)
 ![Rammer](/Icons/Equipment/Auxiliary/Rammer.png)
@@ -73,7 +88,7 @@ Hood | ...
 | ----- | ----- |
 ![Hood](/Icons/Ship/RoyalNavy/Hood.png) | ... <br/>
 
-![15in42MkII](/Icons/Equipment/Guns/BB/15in42MkII.png)
+![15in42MkI](/Icons/Equipment/Guns/BB/15in42MkI.png)
 ![4in45MkXVI](/Icons/Equipment/Guns/DD/4in45MkXVI.png)
 ![Octuple40mmPomPom](/Icons/Equipment/AA/Octuple40mmPomPom.png)
 ![Rammer](/Icons/Equipment/Auxiliary/Rammer.png)
@@ -109,6 +124,21 @@ Duke of York | Howe | King George V | Prince of Wales
 ![Octuple40mmPomPom](/Icons/Equipment/AA/Octuple40mmPomPom.png)
 ![Rammer](/Icons/Equipment/Auxiliary/Rammer.png)
 ![FireControlRadar](/Icons/Equipment/Auxiliary/FireControlRadar.png) <br/>
+
+### Vanguard Class
+
+Battleship <br/>
+
+#### Members of Class: <br/>
+Vanguard | ... 
+| ----- | ----- |
+![Vanguard](/Icons/Ship/RoyalNavy/Vanguard.png) | ...  <br/>
+
+![15in42MkI](/Icons/Equipment/Guns/BB/15in42MkI.png)
+![5.25in50MkII](/Icons/Equipment/Guns/DD/5.25in50MkII.png)
+![Sextuple40mmBofors](/Icons/Equipment/AA/Sextuple40mmBofors.png)
+![AdmiralityFCT](/Icons/Equipment/Auxiliary/AdmiralityFireControl.png)
+![HPAARadar](/Icons/Equipment/Auxiliary/HPAARadar.png) <br/>
 
 ### Monarch Class
 
