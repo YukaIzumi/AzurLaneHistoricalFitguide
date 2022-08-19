@@ -3,7 +3,9 @@ A section of fittings for Azur Lane in which ship equipment is as true-to-life a
 
 ## NOTICE
 
-This project began a few months ago and has been migrated to this github repository. The old pages on the official wiki will be considered depricated and will no longer be updated as I no longer have access to them. The wiki pages ofor this project should be ignored as they cannot be considered reliable or up-to-date.
+This project began a few months ago and has been migrated to this github repository. The old pages on the official wiki will be considered depricated and will no longer be updated as I no longer have access to them. The wiki pages ofor this project should be ignored as they cannot be considered reliable or up-to-date. Please consider joining the following community.
+
+#[Project Guilded Server](https://www.guilded.gg/i/kQ6Ag1Bp)
 
 ### Historical Precedence 
 For designing the historical fittings only  a few things were really taken into consideration.
