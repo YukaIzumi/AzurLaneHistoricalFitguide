@@ -20,8 +20,8 @@ Icon | Name | Writing | Tanslation | Original Name | Present
 ![UnknownBB](/Icons/Ship/UnknownBB.png) | Yamato | 大和、ヤマト| Great Harmony | ... | No <br/>
 ![Musashi](/Icons/Ship/SakuraEmpire/Musashi.png) | Musashi | 武蔵、ムサシ | Warrior | ... | Yes <br/>
 ![Shinano](/Icons/Ship/SakuraEmpire/Shinano.png) | Shinano | 信濃、シナノ | Faith | ... | Yes <br/>
-![UnknownBB](/Icons/Ship/UnknownBB.png) | 111 | 一一一 | ... | Dai-23 | No <br/>
-![UnknownBB](/Icons/Ship/UnknownBB.png) | 797 | 七九七 | ... | Dai-23 | No <br/>
+![UnknownBB](/Icons/Ship/UnknownBB.png) | 111 | 一一一 | ... | ... | No <br/>
+![UnknownBB](/Icons/Ship/UnknownBB.png) | 797 | 七九七 | ... | ... | No <br/>
 
 
 </details>
@@ -45,7 +45,7 @@ Armament Type | Name |
 ![46cm](/Icons/Equipment/Guns/BB/45CaliberType9446cmGun.png) | 45 Caliber Type 94 Triple 46cm Gun x 3 in ABY formation.
 ![Triple15cm](/Icons/Equipment/Guns/CL/60Caliber3rdYearType15.5cmKai.png) | 60 Caliber 3rd Year Type 15.5cm Gun x 4, 1 mounted aft of B looking fore, one mounted fore of Y looking aft, two abreast main funnel.
 ![Rocket](/Icons/Equipment/AA/12cm28TubeRocketLauncher.png) | 12cm 28 Tube Rocket Launcher x 2, abreast main funnel amidships. (Musashi Only, later removed)
-![127mmAA](/Icons/Equipment/AA/40CaliberType8912.7cmModA.png) | 40 Caliber Type 89 Twin 12.7cm Mod A x 6, abreast main funnel amidships.
+![127mmAA](/Icons/Equipment/AA/40CaliberType8912.7cmMod2.png) | 40 Caliber Type 89 Twin 12.7cm Mod A x 6, abreast main funnel amidships.
 ![25mmTR](/Icons/Equipment/AA/25mmType96TT.png) | 25mm/60 Type 96 Mod 1 Triple Mount x 12.
 ![0.5inAAMG](/Icons/Equipment/AA/0.5inAAMG.png) | Type 93 13.2mm Machine Gun x 2.<br/>
 
@@ -55,7 +55,7 @@ Armament Type | Name |
  ------ | ------ |
 ![46cm](/Icons/Equipment/Guns/BB/45CaliberType9446cmGun.png) | 45 Caliber Type 94 Triple 46cm Gun x 3 in ABY formation.
 ![Triple15cm](/Icons/Equipment/Guns/CL/60Caliber3rdYearType15.5cmKai.png) | 60 Caliber 3rd Year Type 15.5cm Gun x 2, 1 mounted aft of B looking fore, one mounted fore of Y looking aft.
-![127mmAA](/Icons/Equipment/AA/40CaliberType8912.7cmModA.png) | 40 Caliber Type 89 Twin 12.7cm Mod A x 6, abreast main funnel amidships.
+![127mmAA](/Icons/Equipment/AA/40CaliberType8912.7cmMod2.png) | 40 Caliber Type 89 Twin 12.7cm Mod A x 6, abreast main funnel amidships.
 ![127mmAA](/Icons/Equipment/AA/40CaliberType8912.7cm.png) | 40 Caliber Type 89 Twin 12.7cm Mod A x 6, abreast main funnel amidships.
 ![25mmTR](/Icons/Equipment/AA/25mmType96TT.png) | 25mm/60 Type 96 Mod 1 Triple Mount x 52.
 ![25mm](/Icons/Equipment/AA/25mmType96.png) | 25mm/60 Type 96 Mod 1 x 6.

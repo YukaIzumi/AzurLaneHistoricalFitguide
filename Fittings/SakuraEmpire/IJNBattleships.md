@@ -170,6 +170,6 @@ Musashi | ....
 
 ![46cm](/Icons/Equipment/Guns/BB/45CaliberType9446cmGun.png)
 ![Triple15cm](/Icons/Equipment/Guns/CL/60Caliber3rdYearType15.5cmKai.png)
-![127mmAA](/Icons/Equipment/AA/40CaliberType8912.7cmModA.png)
+![127mmAA](/Icons/Equipment/AA/40CaliberType8912.7cmMod2.png)
 ![Type1AP](/Icons/Equipment/Auxiliary/Type1AP.png)
 ![VHPlate](/Icons/Equipment/Auxiliary/VHPlate.png) <br/>
