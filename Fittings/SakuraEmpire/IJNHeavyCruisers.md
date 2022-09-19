@@ -41,9 +41,9 @@ Aoba | Kinugasa |
 Heavy Cruiser <br/>
 
 #### Members of Class: <br/>
-Ashigara | Myoukou | Nachi |
-| ------ | ------ | ------ |
-![Ashigara](/Icons/Ship/SakuraEmpire/Ashigara.png) | ![Myoukou](/Icons/Ship/SakuraEmpire/Myoukou.png) | ![Nachi](/Icons/Ship/SakuraEmpire/Nachi.png)<br/>
+Ashigara | Haguro | Myoukou | Nachi |
+| ------ | ------ | ------ | ------ |
+![Ashigara](/Icons/Ship/SakuraEmpire/Ashigara.png) | ![Haguro](/Icons/Ship/SakuraEmpire/Haguro.png) | ![Myoukou](/Icons/Ship/SakuraEmpire/Myoukou.png) | ![Nachi](/Icons/Ship/SakuraEmpire/Nachi.png)<br/>
 
 ![Twin20cm1](/Icons/Equipment/Guns/CA/50Caliber3rdYearType20cmNo1.png)
 ![Triple610](/Icons/Equipment/Torpedo/Surface/610mmTripleIJN.png)

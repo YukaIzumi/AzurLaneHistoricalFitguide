@@ -20,7 +20,7 @@ Icon | Name | Writing | Tanslation | Present
 ![Fubuki](/Icons/Ship/SakuraEmpire/Fubuki.png) | Fubuki | 吹雪、フブキ | Blizzard | Yes <br/>
 ![Shirayuki](/Icons/Ship/SakuraEmpire/Shirayuki.png) | Shirayuki | 白雪、シラユキ | White Snow | Yes <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Hatsuyuki | 初雪、ハツユキ | First Snow | No <br/>
-![UnknownDD](/Icons/Ship/UnknownDD.png) | Miyuki | 深雪、ミユキ | Deep Snow | No <br/>
+![Miyuki](/Icons/Ship/SakuraEmpire/Miyuki.png) | Miyuki | 深雪、ミユキ | Deep Snow | Yes <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Murakumo | 叢雲、ムラクモ | Massed Clouds | No <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Shinonome | 東雲、シノノメ | Daybreak | No <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Usugumo | 薄雲、ウスグモ | Thin Cloud | No <br/>
@@ -52,7 +52,7 @@ The ships carried a complement of 233 men. <br/>
 
 ### Hull and Propulsion
 
-These ships displaced 1778 tons. Power was supplied by 3 high pressure steam boilers driving two shaft Kampon geared turbines, producing 50000 shaft horseppower. These ships were capable of up to 38 knots and had a cruising range of 5000 nautical miles at 14 knots.
+These ships displaced 1778 tons. Power was supplied by 3 high pressure steam boilers driving two shaft Kampon geared turbines, producing 50000 shaft horsepower. These ships were capable of up to 38 knots and had a cruising range of 5000 nautical miles at 14 knots.
 
 ### Armaments
 

@@ -22,7 +22,7 @@ Icon | Name | Writing | Tanslation | Program Number | Present
 ![Suzutsuki](/Icons/Ship/SakuraEmpire/Suzutsuki.png) | Suzutsuki | 涼月、スズツク | Clear Moon |　106 | Yes <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Hatsuzuki | 初月、ハツズキ | New |　107 | No <br/>
 ![Niizuki](/Icons/Ship/SakuraEmpire/Niizuki.png) | Niizku | 新月、ニイズキ | New Moon |　108 | Yes <br/>
-![UnknownDD](/Icons/Ship/UnknownDD.png) | Wakatsuki | 若月、ワカツキ | Young Moon |　109 | No <br/>
+![Wakatsuki](/Icons/Ship/SakuraEmpire/Wakatsuki.png) | Wakatsuki | 若月、ワカツキ | Young Moon |　109 | Yes <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Shimotsuki | 霜月、シモツキ | Frost Moon |　360 | No <br/>
 ![UnknownDD](/Icons/Ship/UnknownDD.png) | Fuyutsuki | 冬月、フユツキ | Winter Moon |　361 | No <br/>
 ![Harutsuki](/Icons/Ship/SakuraEmpire/Harutsuki.png) | Harutsuki | 春月、ハルツキ | Spring Moon |　362 | Yes <br/>

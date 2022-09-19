@@ -41,9 +41,9 @@ Fumizuki | Kisaragi | Mikazuki | Minazuki | Mutsuki | Nagatsuki | Uzuki
 Destroyer <br/>
 
 #### Members of Class: <br/>
-Akatsuki | Ayanami | Fubuki | Hibiki | Ikazuchi | Inazuma | Shirayuki | Uranami
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-![Akatsuki](/Icons/Ship/SakuraEmpire/Akatsuki.png) | ![Ayanami](/Icons/Ship/SakuraEmpire/Ayanami.png) | ![Fubuki](/Icons/Ship/SakuraEmpire/Fubuki.png) | ![Hibiki](/Icons/Ship/SakuraEmpire/Hibiki.png) | ![Ikazuchi](/Icons/Ship/SakuraEmpire/Ikazuchi.png) | ![Inazuma](/Icons/Ship/SakuraEmpire/Inazuma.png) | ![Shirayuki](/Icons/Ship/SakuraEmpire/Shirayuki.png) | ![Uranami](/Icons/Ship/SakuraEmpire/Uranami.png) <br/>
+Akatsuki | Ayanami | Fubuki | Hibiki | Ikazuchi | Inazuma | Miyuki | Shirayuki | Uranami
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+![Akatsuki](/Icons/Ship/SakuraEmpire/Akatsuki.png) | ![Ayanami](/Icons/Ship/SakuraEmpire/Ayanami.png) | ![Fubuki](/Icons/Ship/SakuraEmpire/Fubuki.png) | ![Hibiki](/Icons/Ship/SakuraEmpire/Hibiki.png) | ![Ikazuchi](/Icons/Ship/SakuraEmpire/Ikazuchi.png) | ![Inazuma](/Icons/Ship/SakuraEmpire/Inazuma.png) | ![Miyuki](/Icons/Ship/SakuraEmpire/Miyuki.png) |![Shirayuki](/Icons/Ship/SakuraEmpire/Shirayuki.png) | ![Uranami](/Icons/Ship/SakuraEmpire/Uranami.png) <br/>
 
 ![127mm50ModA](/Icons/Equipment/Guns/DD/50Caliber3rdYearType12.7cmModA.png)
 ![Triple610](/Icons/Equipment/Torpedo/Surface/610mmTripleIJN.png)
@@ -116,9 +116,9 @@ Hamakaze | Isokaze | Kagerou | Kuroshio | Nowaki | Oyashio | Shiranui | Tanikaze
 Destroyer <br/>
 
 #### Members of Class: <br/>
-Hanazuki | Harutsuki | Niizuki | Suzutsuki | Yoizuki
-| ------ | ------ | ------ | ------ | ------ |
-![Hanazuki](/Icons/Ship/SakuraEmpire/Hanazuki.png) | ![Harutsuki](/Icons/Ship/SakuraEmpire/Harutsuki.png) | ![Niizuki](/Icons/Ship/SakuraEmpire/Niizuki.png) | ![Suzutsuki](/Icons/Ship/SakuraEmpire/Suzutsuki.png) | ![Yoizuki](/Icons/Ship/SakuraEmpire/Yoizuki.png) <br/>
+Hanazuki | Harutsuki | Niizuki | Suzutsuki | Wakatsuki | Yoizuki
+| ------ | ------ | ------ | ------ | ------ | ------ |
+![Hanazuki](/Icons/Ship/SakuraEmpire/Hanazuki.png) | ![Harutsuki](/Icons/Ship/SakuraEmpire/Harutsuki.png) | ![Niizuki](/Icons/Ship/SakuraEmpire/Niizuki.png) | ![Suzutsuki](/Icons/Ship/SakuraEmpire/Suzutsuki.png) | ![Wakatsuki](/Icons/Ship/SakuraEmpire/Wakatsuki.png)| ![Yoizuki](/Icons/Ship/SakuraEmpire/Yoizuki.png) <br/>
 
 ![100mmType98](/Icons/Equipment/Guns/DD/65CaliberType9810cm.png)
 ![Quad610](/Icons/Equipment/Torpedo/Surface/610mmQuadIJN.png)

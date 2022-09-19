@@ -76,9 +76,9 @@ Yuubari | ...
 Light Cruiser <br/>
 
 #### Members of Class: <br/>
-Agano | Noshiro
-| ------ | ------ | 
-![Agano](/Icons/Ship/SakuraEmpire/Agano.png) | ![Noshiro](/Icons/Ship/SakuraEmpire/Noshiro.png) <br/>
+Agano | Noshiro | Sakawa
+| ------ | ------ |  ------ | 
+![Agano](/Icons/Ship/SakuraEmpire/Agano.png) | ![Noshiro](/Icons/Ship/SakuraEmpire/Noshiro.png) | ![Sakawa](/Icons/Ship/SakuraEmpire/Sakawa.png) <br/>
 
 ![Twin140](/Icons/Equipment/Guns/CL/50Caliber41stYearType15cm.png)
 ![Quad610](/Icons/Equipment/Torpedo/Surface/610mmQuadIJN.png)

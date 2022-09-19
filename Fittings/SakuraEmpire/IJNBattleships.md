@@ -158,3 +158,18 @@ Izumo | ...
 ![25mmTR](/Icons/Equipment/AA/25mmType96TT.png)
 ![Type1AP](/Icons/Equipment/Auxiliary/Type1AP.png)
 ![Type98DFD](/Icons/Equipment/Auxiliary/Type98DFD.png) <br/>
+
+### [Yamato Class](/History/IJN/YamatoClass.md)
+
+Battleship <br/>
+
+#### Members of Class: <br/>
+Musashi | ....
+| ----- | ----- |
+![Musashi](/Icons/Ship/SakuraEmpire/Musashi.png) | ... <br/>
+
+![46cm](/Icons/Equipment/Guns/BB/45CaliberType9446cmGun.png)
+![Triple15cm](/Icons/Equipment/Guns/CL/60Caliber3rdYearType15.5cmKai.png)
+![127mmAA](/Icons/Equipment/AA/40CaliberType8912.7cmModA.png)
+![Type1AP](/Icons/Equipment/Auxiliary/Type1AP.png)
+![VHPlate](/Icons/Equipment/Auxiliary/VHPlate.png) <br/>
