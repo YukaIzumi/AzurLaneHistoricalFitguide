@@ -57,7 +57,8 @@ Armament Type | Name |
 ![Triple15cm](/Icons/Equipment/Guns/CL/60Caliber3rdYearType15.5cmKai.png) | 60 Caliber 3rd Year Type 15.5cm Gun x 2, 1 mounted aft of B looking fore, one mounted fore of Y looking aft.
 ![127mmAA](/Icons/Equipment/AA/40CaliberType8912.7cmMod2.png) | 40 Caliber Type 89 Twin 12.7cm Mod A x 6, abreast main funnel amidships.
 ![127mmAA](/Icons/Equipment/AA/40CaliberType8912.7cm.png) | 40 Caliber Type 89 Twin 12.7cm Mod A x 6, abreast main funnel amidships.
-![25mmTR](/Icons/Equipment/AA/25mmType96TT.png) | 25mm/60 Type 96 Mod 1 Triple Mount x 52.
+![25mmTRB](/Icons/Equipment/AA/25mmType96TTB.png) | 25mm/60 Type 96 Mod 1 Triple Mount x 24.
+![25mmTR](/Icons/Equipment/AA/25mmType96TT.png) | 25mm/60 Type 96 Mod 1 Triple Mount x 26.
 ![25mm](/Icons/Equipment/AA/25mmType96.png) | 25mm/60 Type 96 Mod 1 x 6.
 ![0.5inAAMG](/Icons/Equipment/AA/0.5inAAMG.png) | Type 93 13.2mm Machine Gun x 2.<br/>
 
